@@ -4,13 +4,14 @@
 .site-header {
     position: relative;
     text-align: center;
-    color: #CC4391;
-    background-color: #F2F2F2;
+    color: #13c4a5;
+    background-color: #444;
 }
 
 .navbar .navbar-nav {
     display: inline-block;
     float: none;
+    color: #f1f1f1;
 }
 
 
@@ -20,6 +21,8 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-color: #444;
+    color:#13c4a5;
 }
 
 .footer-heading {

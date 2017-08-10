@@ -2,7 +2,7 @@
 layout: post
 title:  
 date:   2017-08-05 15:39:40
-tags: [Tecnología]
+tags: [Tecnología, Quincenal]
 categories: [Espana]
 preview: https://ia601505.us.archive.org/4/items/unionpod/ECJ-300x300.jpg
 ---

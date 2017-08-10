@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Trascendencia iRadio Show"
-date:   2017-08-01 15:39:40
-tags: [Música]
+date:   2016-08-01 15:39:40
+tags: [Música, Quincenal]
 categories: [Venezuela]
 preview: https://ia601505.us.archive.org/4/items/unionpod/Trascendencia300.png
 ---
