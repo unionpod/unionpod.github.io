@@ -2,8 +2,8 @@
 layout: post
 title:  "Bonus Track"
 date:   2017-08-04 15:39:40
-tags: [Música, Semanal]
-categories: [Argentina]
+tags: [Música]
+categories: [Argentina, Semanal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/BonusPerfil300.jpg
 ---
 

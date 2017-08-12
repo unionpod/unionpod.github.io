@@ -2,8 +2,8 @@
 layout: post
 title:  "Vacia tu bandeja"
 date:   2017-08-02 15:39:40
-tags: [Salud, Quincenal]
-categories: [Espana]
+tags: [Salud]
+categories: [Espana, Quincenal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/VTBandeja300.jpg
 ---
 

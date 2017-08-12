@@ -2,8 +2,8 @@
 layout: post
 title:  "Popósfera"
 date:   2017-07-31 15:39:40
-tags: [Música, Cine, Comic, Semanal]
-categories: [Argentina]
+tags: [Música, Cine, Comic]
+categories: [Argentina, Semanal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/poposfera300.png
 ---
 
@@ -20,7 +20,7 @@ PODCAST semanal de concienzudo análisis y apasionadas diatribas sobre cine, TV,
 
 <!--reproductor-feed=http://poposfera.libsyn.com/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/057_-_Nuevas_Correrias_del_Mono_Cesar.mp3?dest-id=396222"></audio>
+<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/058_-_Recomendados_por_Gaiman.mp3?dest-id=396222"></audio>
 <!--reproductor-end-->
 
 <br>

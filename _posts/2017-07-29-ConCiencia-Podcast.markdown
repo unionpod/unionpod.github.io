@@ -2,8 +2,8 @@
 layout: post
 title:  "ConCiencia Podcast"
 date:   2017-07-29 15:39:40
-tags: [Religión, Quincenal]
-categories: [USA]
+tags: [Religión]
+categories: [USA, Quincenal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/conCiencia300.JPG
 ---
 
@@ -12,7 +12,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/conCiencia300.JPG
 <br/>  
 <br/>
 
-<!--descripción del podcast va aquí  
+Un Podcast de religión, para aquellos que desagradan de la religión. **ConCiencia** critica, comenta y desafía el estado actual del cristianismo y su relación con la cultura moderna.
 
 <br/>
 
@@ -31,7 +31,7 @@ _ _ _
 
 <br>  
 Autores: **Andres Marin Solis, Frank Joya, Anthony Sepulvada**  
-[Web](www.ConCienciaMedia.com)
+[Web](www.ConCienciaMedia.com)  
 [Feed](Http://concienciamedia.com/feed/podcast/)
 
 **Puedes escuchar este podcast en:**  

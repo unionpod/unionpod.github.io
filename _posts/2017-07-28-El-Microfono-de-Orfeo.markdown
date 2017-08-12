@@ -21,7 +21,7 @@ El **Micrófono de Orfeo** es un podcast dedicado a la producción musical y al 
 
 <!--reproductor-feed=http://feeds.soundcloud.com/users/soundcloud:users:265797105/sounds.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/trascendencia/feed.pippa.io/public/streams/5917add142858d1e2239d54d/episodes/598381019d940f8e6fd5704f.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feeds.soundcloud.com/stream/336652548-diegovillacer-una-conversacion-junto-a-ignacio-redard-de-dia-cero.mp3"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -31,7 +31,7 @@ _ _ _
 
 <br>  
 Autores: **Diego Villavicencio**  
-[Web](https://www.microfonodeorfeo.com/)
+[Web](https://www.microfonodeorfeo.com/)  
 [Feed](http://feeds.soundcloud.com/users/soundcloud:users:265797105/sounds.rss)
 
 **Puedes escuchar este podcast en:**  
