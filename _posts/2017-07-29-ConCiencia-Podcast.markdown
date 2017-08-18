@@ -31,7 +31,7 @@ _ _ _
 
 <br>  
 Autores: **Andres Marin Solis, Frank Joya, Anthony Sepulvada**  
-[Web](www.ConCienciaMedia.com)  
+[Web](http://ConCienciaMedia.com)  
 [Feed](Http://concienciamedia.com/feed/podcast/)
 
 **Puedes escuchar este podcast en:**  

@@ -24,7 +24,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/VTBandeja300.jpg
 _ _ _
 <br>
 Autor: **Laura**  
-[web](vaciatubandeja.com)  
+[web](http://vaciatubandeja.com)  
 [Feed](http://feeds.feedburner.com/Vaciatubandeja)  
 
 

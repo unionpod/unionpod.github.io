@@ -2,8 +2,8 @@
 layout: post
 title:  "El Micrófono de Orfeo"
 date:   2017-07-28 15:39:40
-tags: [Música, Semanal]
-categories: [Chile]
+tags: [Música]
+categories: [Chile, Semanal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/Mic-orfeo300.png 
 ---
 

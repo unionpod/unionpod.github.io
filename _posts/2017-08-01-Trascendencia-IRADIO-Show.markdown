@@ -30,7 +30,7 @@ _ _ _
 
 <br>  
 Autor: **Julio Aguilar**  
-[Web](Trascendencia.com.ve)  
+[Web](http://Trascendencia.com.ve)  
 [Feed](https://www.trascendencia.com.ve/feed/podcast/)
 
 **Puedes escuchar este podcast en:**  

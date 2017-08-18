@@ -2,7 +2,7 @@
 layout: post
 title:  "Popósfera"
 date:   2017-07-31 15:39:40
-tags: [Música, Cine, Comic]
+tags: [Música, Cine, Comics]
 categories: [Argentina, Semanal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/poposfera300.png
 ---
