@@ -13,6 +13,15 @@
     float: none;
     color: $brand-color;
 
+
+  a, a:visited, a:active {
+    color: #e6e6e6;
+  }
+
+  a:hover{
+    background-color: transparent;
+    text-decoration: underline;
+  }
 }
 
 
@@ -175,7 +184,7 @@
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     border: 0;
-    
+
     &:hover {
         border: 1px solid $grey-color-light;
     }
