@@ -7,7 +7,7 @@ categories: [Venezuela, Quincenal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/Caratula-para-UP300.jpg
 ---
 
-![Picture 1](https://ia601505.us.archive.org/4/items/unionpod/Caratula-para-UP500.jpg)  
+![Trascendencia iRadio Show](https://ia601505.us.archive.org/4/items/unionpod/Caratula-para-UP500.jpg)  
 
 <br/>  
 <br/>
@@ -39,7 +39,7 @@ Autor: **Julio Aguilar**
 
 **Contacta:**  
 Twitter: [@TrascendenciaVe](https://twitter.com/TrascendenciaVE)  
-Correo: contacto@trascendencia.com.ve  
+Correo: [contacto@trascendencia.com.ve](mailto:contacto@trascendencia.com.ve)  
 
 
 

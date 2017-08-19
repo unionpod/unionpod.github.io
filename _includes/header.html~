@@ -16,10 +16,10 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a color="#444" href="{{ site.url }}">Home</a></li>
-            <li><a href="{{ site.url }}/tags/index.html">Temáticas</a></li>
-             <li><a href="{{ site.url }}/Paises/index.html">Países</a></li>
-             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc3I077x6D5EXUMkMwCHL6inMYhF0iTHEaJp6yMGkIQ9MEyFw/viewform?c=0&w=1">Agrega Tu Podcast</a></li>
+            <li class="active"><a href="{{ site.url }}"><font color="#E6E6E6">Home</font></a></li>
+            <li><a href="{{ site.url }}/tags/index.html"><font color="#E6E6E6">Temáticas</font></a></li>
+             <li><a href="{{ site.url }}/Paises/index.html"><font color="#E6E6E6">Países</font></a></li>
+             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc3I077x6D5EXUMkMwCHL6inMYhF0iTHEaJp6yMGkIQ9MEyFw/viewform?c=0&w=1"><font color="#9FF781">Agrega Tu Podcast</font></a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>

@@ -7,7 +7,7 @@ categories: [USA, Quincenal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/conCiencia300.JPG
 ---
 
-![Picture 1](https://ia601505.us.archive.org/4/items/unionpod/conCiencia500.JPG)  
+![ConCiencia Podcast](https://ia601505.us.archive.org/4/items/unionpod/conCiencia500.JPG)  
 
 <br/>  
 <br/>
@@ -41,7 +41,7 @@ Autores: **Andres Marin Solis, Frank Joya, Anthony Sepulvada**
 
 **Contacta:**  
 Twitter: [@ConCienciaTweet](https://twitter.com/ConCienciaTweet)   
-Correo:  ConCienciaPodcast@gmail.com
+Correo:  [ConCienciaPodcast@gmail.com](mailto:ConCienciaPodcast@gmail.com)  
 
 
 

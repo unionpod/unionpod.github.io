@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Union Podcastera"
+title:  "Unión Podcastera"
 date:   2017-08-06 15:39:40
 tags: [Arte]
 categories: [Varios-países, Quincenal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/Unionpod300.jpg
 ---
 
-![Picture 1](https://archive.org/download/unionpod/Unionpod500.jpg)  
+![Unión Podcastera](https://archive.org/download/unionpod/Unionpod500.jpg)  
 
 <br/>  
 <br/>  

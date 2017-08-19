@@ -42,7 +42,7 @@ Web del [Podcast](https://lormez16.github.io/experimenta-con-jekyll/)
 **Contacta:**  
 Twitter: [@lormez16](https://twitter.com/lormez16)  
 Telegram: [@lormez16](@lormez16)  
-Correo: experimentaconjekyll@gmail.com  
+Correo: [experimentaconjekyll@gmail.com](mailto:experimentaconjekyll@gmail.com)  
 
 
 

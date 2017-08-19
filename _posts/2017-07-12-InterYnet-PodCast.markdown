@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "InterYnet PodCast"
-date:   2017-07-26 15:39:40
+date:   2017-07-12 15:39:40
 tags: [Entretenimiento]
 categories: [Espana]
 preview: https://ia601505.us.archive.org/4/items/unionpod/interynetpodcastcaratula300.jpg 
 ---
 
-![Picture 1](https://ia601505.us.archive.org/4/items/unionpod/interynetpodcastcaratula500x321.jpg)  
+![InterYnet PodCast](https://ia601505.us.archive.org/4/items/unionpod/interynetpodcastcaratula500x321.jpg)  
 
 <br/>  
 <br/>
@@ -41,7 +41,7 @@ Autores: **Fran Trujillo**
 **Contacta:**  
 Twitter: [@interynet](https://twitter.com/interynet) 
 
-Correo: interynet@gmail.com
+Correo: [interynet@gmail.com](mailto:interynet@gmail.com)   
 
 
 

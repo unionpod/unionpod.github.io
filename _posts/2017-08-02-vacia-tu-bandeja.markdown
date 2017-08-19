@@ -36,7 +36,7 @@ Autor: **Laura**
 **Contacta:**  
 Twitter: [@lormez16](https://twitter.com/lormez16)  
 Telegram: [@lormez16](@lormez16)  
-Correo: vaciatubandeja@gmail.com  
+Correo: [vaciatubandeja@gmail.com](mailto:vaciatubandeja@gmail.com)  
 Grupo de Telegram de [Vacía tu Bandeja](http://t.me/Vaciatubandeja)  
 Grupo de Telegram de [Bullet Journal](http://t.me/miBulletJournal)  
 

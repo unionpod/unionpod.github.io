@@ -7,7 +7,7 @@ categories: [Colombia, Semanal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/Autosycarreras300-RickerSilva.png
 ---
 
-![Picture 1](https://ia601505.us.archive.org/4/items/unionpod/Autosycarreras500-RickerSilva.png)  
+![Autos & Carreras](https://ia601505.us.archive.org/4/items/unionpod/Autosycarreras500-RickerSilva.png)  
 
 <br/>  
 <br/>
@@ -40,7 +40,7 @@ Autores: **Ricker Silva y Olivera Silva**
 **Contacta:**  
 Twitter: [@autos_carreras](https://twitter.com/@autos_carreras) 
 
-Correo: ricker.silva@gmail.com
+Correo: [ricker.silva@gmail.com](mailto:ricker.silva@gmail.com)  
 
 
 

@@ -7,7 +7,7 @@ categories: [Chile, Semanal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/Mic-orfeo300.png 
 ---
 
-![Picture 1](https://ia601505.us.archive.org/4/items/unionpod/Mic-orfeo400.png)  
+![El Micrófono de Orfeo](https://ia601505.us.archive.org/4/items/unionpod/Mic-orfeo400.png)  
 
 <br/>  
 <br/>
@@ -41,7 +41,7 @@ Autores: **Diego Villavicencio**
 
 **Contacta:**  
 Twitter: [@mic_orfeo](https://twitter.com/mic_orfeo)   
-Correo:  diegovillacer@icloud.com
+Correo:  [diegovillacer@icloud.com](mailto:diegovillacer@icloud.com)  
 
 
 

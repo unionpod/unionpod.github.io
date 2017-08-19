@@ -20,7 +20,7 @@ PODCAST semanal de concienzudo análisis y apasionadas diatribas sobre cine, TV,
 
 <!--reproductor-feed=http://poposfera.libsyn.com/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/058_-_Recomendados_por_Gaiman.mp3?dest-id=396222"></audio>
+<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/059_-_Leakeados_por_los_perros.mp3?dest-id=396222"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -39,7 +39,7 @@ Autores: **Sebastián Tabany y Eric Londaits**
 
 **Contacta:**  
 Twitter: [@poposfera](https://twitter.com/poposfera)  
-Correo: emilio@poposfera.com  
+Correo: [emilio@poposfera.com](mailto:emilio@poposfera.com)  
 
 
 

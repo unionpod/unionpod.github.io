@@ -7,7 +7,7 @@ categories: [Chile, Bimensual]
 preview: https://ia601505.us.archive.org/4/items/unionpod/lasraras300.jpg
 ---
 
-![Picture 1](https://ia601505.us.archive.org/4/items/unionpod/lasraras500.jpg)  
+![Las Raras Podcast](https://ia601505.us.archive.org/4/items/unionpod/lasraras500.jpg)  
 
 <br/>  
 <br/>
@@ -43,7 +43,7 @@ Autores: **Catalina May, Martín Cruz**
 **Contacta:**  
 Twitter: [@lasraraspodcast](https://twitter.com/lasraraspodcast) 
 
-Correo: lasraraspodcast@gmail.com
+Correo: [lasraraspodcast@gmail.com](mailto:lasraraspodcast@gmail.com)  
 
 
 

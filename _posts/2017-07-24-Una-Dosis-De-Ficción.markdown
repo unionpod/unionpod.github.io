@@ -7,7 +7,7 @@ categories: [Argentina, Semanal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/Unadosisdef300-RinnyA.png
 ---
 
-![Picture 1](https://ia601505.us.archive.org/4/items/unionpod/Unadosisdef500-RinnyA.png)  
+![Una Dosis De Ficción](https://ia601505.us.archive.org/4/items/unionpod/Unadosisdef500-RinnyA.png)  
 
 <br/>  
 <br/>
@@ -42,7 +42,7 @@ Autores: **Rinny**
 **Contacta:**  
 Twitter: [@1dosisdeficcion](https://twitter.com/@1dosisdeficcion) 
 
-Correo: unadosisdeficcion@hotmail.com
+Correo: [unadosisdeficcion@hotmail.com](mailto:unadosisdeficcion@hotmail.com)  
 
 
 
