@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La Ciudadela Podcast"
-date: 2017-07-15
+date: 2016-07-15
 tags: [Videojuegos]
 categories: [Espana, Mensual]
 preview: https://ia601505.us.archive.org/4/items/unionpod/Laciudadela300.jpg

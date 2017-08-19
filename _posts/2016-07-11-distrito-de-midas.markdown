@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Distrito de Midas"
-date: 2017-07-22
+date: 2016-07-11
 tags: [Cine, Comics, Anime, Videojuegos]
 categories: [Venezuela, Semanal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/DistritoDeMidas300.png

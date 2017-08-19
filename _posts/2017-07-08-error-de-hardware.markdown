@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Error de hardware"
-date: 2017-07-14 19:16:12
+date: 2017-07-08 19:16:12
 tags: [Tecnología]
 categories: [Espana, Quincenal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/Errordehardware300.jpeg
