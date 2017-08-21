@@ -4,7 +4,7 @@ title: "LabInsight"
 date: 2017-07-05
 tags: [Tecnología]
 categories: [Ecuador, Semanal]
-preview: https://ia601505.us.archive.org/4/items/unionpod/Labinsight300.jpg
+preview: https://ia601505.us.archive.org/4/items/unionpod/image3980.png
 ---
 
 ![LabInsight](https://ia601505.us.archive.org/4/items/unionpod/Labinsight500.jpg)

@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "InterYnet PodCast"
-date:   2016-07-10 15:39:40
+date:   2017-07-17 15:39:40
 tags: [Entretenimiento]
 categories: [Espana]
-preview: https://ia601505.us.archive.org/4/items/unionpod/interynetpodcastcaratula300.jpg 
+preview: https://ia601505.us.archive.org/4/items/unionpod/rec300.png
 ---
 
 ![InterYnet PodCast](https://ia601505.us.archive.org/4/items/unionpod/interynetpodcastcaratula500x321.jpg)  

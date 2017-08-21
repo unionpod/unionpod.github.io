@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Distrito de Midas"
-date: 2016-07-11
+date: 2017-07-01
 tags: [Cine, Comics, Anime, Videojuegos]
 categories: [Venezuela, Semanal]
-preview: https://ia601505.us.archive.org/4/items/unionpod/DistritoDeMidas300.png
+preview: https://ia601505.us.archive.org/4/items/unionpod/image4055.png
 ---
 
 ![Distrito de Midas](https://ia601505.us.archive.org/4/items/unionpod/DistritoDeMidas500.png)
@@ -14,9 +14,9 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/DistritoDeMidas300.png
 
 ## Escucha el último episodio
 
-<!--reproductor-feed=http://mx.ivoox.com/es/s_p2_442686_1.html-->
+<!--reproductor-feed=http://www.ivoox.com/distrito-midas_fg_f1442686_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Vaciatubandeja/~5/QyOBSOkOrJM/07%20Como%20enfocar%20el%20Aprendizaje.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/distrito-midas-star-wars-viii-juego-de_mf_20240495_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/> 

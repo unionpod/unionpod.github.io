@@ -14,9 +14,9 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/LaPizarraDeDoc300.png
 
 ## Escucha el último episodio
 
-<!--reproductor-feed=http://www.ivoox.com/podcast-pizarra-de-doc_sq_f1256313_1.html-->
+<!--reproductor-feed=http://www.ivoox.com/pizarra-de-doc_fg_f1256313_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Vaciatubandeja/~5/QyOBSOkOrJM/07%20Como%20enfocar%20el%20Aprendizaje.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/4x02-los-resultados-del-teamesp-convocatoria_mf_20426431_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

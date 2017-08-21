@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "EL ROCKERNAUTA"
-date: 2016-07-16
+date: 2017-07-03
 tags: [Música]
 categories: [Argentina, Quincenal]
-preview: https://ia601505.us.archive.org/4/items/unionpod/ElRockernautaPodcast300.jpg
+preview: https://ia601505.us.archive.org/4/items/unionpod/image3828.png
 ---
 
 ![EL ROCKERNAUTA](https://ia601505.us.archive.org/4/items/unionpod/ElRockernautaPodcast500.jpg)

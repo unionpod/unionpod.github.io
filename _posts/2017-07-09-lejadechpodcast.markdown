@@ -4,7 +4,7 @@ title: "Lejadech Podcast   "
 date: 2017-07-09
 tags: [Psicología, Religión]
 categories: [USA, Semanal]
-preview: https://ia601505.us.archive.org/4/items/unionpod/LejadechPodcast300.png
+preview: https://ia601505.us.archive.org/4/items/unionpod/image3904.png
 ---
 
 ![Lejadech Podcast](https://ia601505.us.archive.org/4/items/unionpod/LejadechPodcast500.png)
@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/LejadechPodcast300.png
 
 <!--reproductor-feed=http://lejadech.libsyn.com/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/lejadech/Bagaje_-_E75.mp3?dest-id=369135"></audio>
+<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/lejadech/Bagaje_-_E76.mp3?dest-id=369135"></audio>
 <!--reproductor-end-->
 
 <br/>  
