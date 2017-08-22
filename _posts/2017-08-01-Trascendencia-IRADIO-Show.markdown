@@ -18,9 +18,9 @@ Somos el podcast de música rock y metal hecho en Venezuela más antiguo y recon
 ## Escucha el último episodio  
 
 
-<!--reproductor-feed=https://www.trascendencia.com.ve/feed/podcast/-->
+<!--reproductor-feed=https://feed.pippa.io/public/shows/trascendenciave-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/trascendencia/feed.pippa.io/public/streams/5917add142858d1e2239d54d/episodes/598381019d940f8e6fd5704f.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feed.pippa.io/public/streams/5917add142858d1e2239d54d/episodes/598381019d940f8e6fd5704f.mp3"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -31,7 +31,7 @@ _ _ _
 <br>  
 Autor: **Julio Aguilar**  
 [Web](http://Trascendencia.com.ve)  
-[Feed](https://www.trascendencia.com.ve/feed/podcast/)
+[Feed](https://feed.pippa.io/public/shows/trascendenciave)
 
 **Puedes escuchar este podcast en:**  
 
