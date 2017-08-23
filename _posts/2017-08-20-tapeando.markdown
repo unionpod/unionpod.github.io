@@ -1,0 +1,42 @@
+---
+layout: post
+title: "TAPEANDO"
+date: 2017-08-20 13:25:39
+tags: [Cultura]
+categories: [España, Quincenal]
+preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/%20TAPEANDO%20RADIO300.png
+---
+
+![TAPEANDO](https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/%20TAPEANDO%20RADIO500.png)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=http://www.ivoox.com/tapeando-radio_fg_f1119353_filtro_1.xml-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/tapeandoradio-45-tapeando-especial-verano_mf_20031403_feed_1.mp3"></audio>
+<!--reproductor-end-->
+
+<br/>  
+Tapeando es un programa cultural donde hablamos sobre música, cine, literatura, teatro y además contamos con un invitado en cada programa. Apúntate a tapear cultura con nosotros y descubre nuestras recomendaciones.
+
+_ _ _
+
+<br>
+Autor: **Verónica González, Cristina Moreno, Sergio Amate y Cristina Hernández**  
+[web](www.tapeandoradio.com)  
+[Feed](http://www.ivoox.com/tapeando-radio_fg_f1119353_filtro_1.xml)  
+
+
+**Puedes escuchar este podcast en:**  
+[iTunes](https://itunes.apple.com/es/podcast/tapeando-radio/id1084147634?l=en)  
+[Ivoox](http://www.ivoox.com/podcast-tapeando-radio_sq_f1119353_1.html)  
+[Spreaker](https://www.spreaker.com/user/9200716)  
+
+
+**Contacta:**  
+Twitter: [@tapeandoradio](https://twitter.com/tapeandoradio)  
+Correo: [tapeandoradio@gmail.com](mailto:tapeandoradio@gmail.com)  
+

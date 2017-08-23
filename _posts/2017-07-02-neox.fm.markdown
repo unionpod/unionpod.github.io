@@ -1,0 +1,40 @@
+---
+layout: post
+title: "neox.fm"
+date: 2017-07-02 10:07:44
+tags: [Tecnología]
+categories: [Mexico, Diario]
+preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Neox-fm300-%20Sanshiro%20Cabañas.JPG
+---
+
+![neox.fm](https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Neox-fm500-%20Sanshiro%20Cabañas.JPG)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=http://feed.neox.fm/-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="https://tracking.feedpress.it/link/17432/6496267/337872894-neoxfm-podcast23.mp3"></audio>
+<!--reproductor-end-->
+
+<br/>  
+Todo lo que necesitas saber de tecnología al día.
+
+_ _ _
+
+<br>
+Autor: **@neoxfm**   
+[web](http://neox.fm)   
+[Feed](feed.neox.fm)  
+
+
+**Puedes escuchar este podcast en:**  
+[iTunes](https://itunes.apple.com/mx/podcast/neox-fm/id1234121370?mt=2)  
+
+
+**Contacta:**  
+Twitter: [@neoxfm](https://twitter.com/neoxfm)   
+Correo: [sanshiro@neox.fm](mailto:sanshiro@neox.fm)  
+
