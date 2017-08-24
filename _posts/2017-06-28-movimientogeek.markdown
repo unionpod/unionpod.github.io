@@ -14,9 +14,9 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Movimientogeek300.jpg
 
 ## Escucha el último episodio
 
-<!--reproductor-feed=http://www.spreaker.com/show/1246658/episodes/feed-->
+<!--reproductor-feed=https://www.ivoox.com/movimientogeek_fg_f1292042_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12605764/41_apple_causara_que_no_haya_paneles_oled_para_sus_ribales.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://www.ivoox.com/43-ya-se-presento-samsung-galaxy-note_mf_20497051_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

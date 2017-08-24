@@ -159,7 +159,7 @@ comments: false
 
 		<ul>
 			<div class="row">
-		    {% for post in site.categories.México %}
+		    {% for post in site.categories.Mexico %}
 		        <div class="col-xs-6 col-sm-4">
 		            <div class="preview-panel">
 		                <a href="{{ post.url | prepend: site.baseurl }}">

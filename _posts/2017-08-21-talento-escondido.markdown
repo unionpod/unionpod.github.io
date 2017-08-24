@@ -26,7 +26,7 @@ _ _ _
 
 <br>
 Autor: **Enrique Vargas**   
-[web](www.talentoescondido.com)  
+[web](http://www.jyestudio.com/talentoescondido/)  
 [Feed](https://feeds.feedburner.com/TalentoEscondido)  
 
 

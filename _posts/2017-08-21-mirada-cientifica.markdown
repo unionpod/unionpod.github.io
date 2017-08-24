@@ -26,7 +26,7 @@ _ _ _
 
 <br>
 Autor: **Enrique Vargas**  
-[web](www.miradacientifica.org)   
+[web](http://www.jyestudio.com/miradacientifica/)   
 [Feed](https://feeds.feedburner.com/MiradaCientfica)  
 
 

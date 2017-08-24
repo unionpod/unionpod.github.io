@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Cucubano"
+date: 2017-08-23 06:20:04
+tags: [Social]
+categories: [USA, Semanal]
+preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Cucubano300-ManoloMatos.jpg
+---
+
+![Cucubano](https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Cucubano500-ManoloMatos.jpg)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=https://us.ivoox.com/es/cucubano_fg_f1212087_filtro_1.xml-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/cucubano-98-la-comedia-mysia-chabert_mf_20468336_feed_1.mp3"></audio>
+<!--reproductor-end-->
+
+<br/>  
+Porque todos tenemos una historia que contar.
+
+_ _ _  
+
+<br>
+Autor: **Manolo Matos**  
+[web](http://www.cucubanopod.com/)  
+[Feed](https://us.ivoox.com/es/cucubano_fg_f1212087_filtro_1.xml)  
+
+
+**Puedes escuchar este podcast en:**  
+[Ivoox](https://www.ivoox.com/podcast-cucubano_sq_f1212087_1.html)  
+
+**Contacta:**  
+Twitter: [@cucubanopod](https://twitter.com/cucubanopod)  
+Correo: [cucubanopod@gmail.com](mailto:cucubanopod@gmail.com)  
+
