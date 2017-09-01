@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Desdelabarrad
 
 <!--reproductor-feed=http://www.spreaker.com/show/1409607/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12632785/que_telefono_le_llegara_android_oreo_primero_evento_thenextgalaxy.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12701006/compilado_iphone_8_e_ios_11_beta_9_y_varios_temas_mas.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

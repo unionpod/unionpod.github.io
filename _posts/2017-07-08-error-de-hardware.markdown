@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Errordehardware300.jpe
 
 <!--reproductor-feed=http://www.spreaker.com/user/8549030/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12595150/podcast_1502986931.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12662659/podcast_1503826869.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

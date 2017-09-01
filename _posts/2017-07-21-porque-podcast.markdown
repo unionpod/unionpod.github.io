@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/PorquePodcast300.jpg
 
 <!--reproductor-feed=http://porquepodcast.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/porquepodcast/p/porquepodcast.com/wp-content/uploads/PORQUEPODCAST.EPISODIO56.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/porquepodcast/api.spreaker.com/download/episode/12313095/nacion_podcaster_119_podcasting_con_jorge_eove_de_porquepodcast.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

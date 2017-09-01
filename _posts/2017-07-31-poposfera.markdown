@@ -20,7 +20,7 @@ PODCAST semanal de concienzudo análisis y apasionadas diatribas sobre cine, TV,
 
 <!--reproductor-feed=http://poposfera.libsyn.com/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/059_-_Leakeados_por_los_perros.mp3?dest-id=396222"></audio>
+<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/060b_-_The_Defenders_Spoiler_Spectacular.mp3?dest-id=396222"></audio>
 <!--reproductor-end-->
 
 <br>

@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/VoxRobotika300.png
 
 <!--reproductor-feed=http://voxrobotika.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://voxrobotika.podbean.com/mf/feed/2g6j4a/E70.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="http://voxrobotika.podbean.com/mf/feed/5y3q27/e71_James_Cameron_vs_el_internet.m4a"></audio>
 <!--reproductor-end-->
 
 <br/>  

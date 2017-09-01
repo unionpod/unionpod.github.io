@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Turnocuatro30
 
 <!--reproductor-feed=http://www.ivoox.com/podcast-turno-cu4tro_fg_f157353_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/turno-cu4tro-temporada-05-episodio-18-extra-01_mf_19847555_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/turno-cu4tro-temporada-05-episodio-19-extra-02_mf_20564971_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
