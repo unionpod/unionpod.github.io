@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La Pizarra de Doc"
-date: 2017-07-07
+date: 2017-07-08
 tags: [Deportes]
 categories: [Espana, Semanal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/LaPizarraDeDoc300.png

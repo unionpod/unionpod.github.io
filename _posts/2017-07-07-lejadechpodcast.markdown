@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lejadech Podcast   "
-date: 2017-07-09
+date: 2017-07-07
 tags: [Psicología, Religión]
 categories: [USA, Semanal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/image3904.png
