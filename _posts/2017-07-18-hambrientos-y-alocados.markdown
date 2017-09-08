@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/HyAlocados300.jpg
 
 <!--reproductor-feed=https://hambrientosyalocados.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://hambrientosyalocados.com/wp-content/uploads/2017/08/6.-Vacaciones.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://hambrientosyalocados.com/wp-content/uploads/2017/09/7.-Comparamos-Mercado-Pago-Payu-y-PayPal-como-medios-de-pago-online.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

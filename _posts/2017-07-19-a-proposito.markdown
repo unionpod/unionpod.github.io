@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/aproposito300.jpg
 
 <!--reproductor-feed=http://www.spreaker.com/show/2598481/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12558135/ciudades_abiertas_en_el_ecuador.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12727150/revolucionarios_y_la_distincion_entre_cultura_y_civilizacion.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>
