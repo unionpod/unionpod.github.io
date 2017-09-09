@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/eramagazine30
 
 <!--reproductor-feed=https://eramagazine.fm/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/eramagazine/podcast.eramagazine.fm/73-last-exit.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/eramagazine/podcast.eramagazine.fm/84-7-minutos-4.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>
