@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/VoxRobotika300.png
 
 <!--reproductor-feed=http://voxrobotika.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://voxrobotika.podbean.com/mf/feed/xwag57/e72.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="http://voxrobotika.podbean.com/mf/feed/vwiwcn/e73_-_Solo_en_la_primera_.m4a"></audio>
 <!--reproductor-end-->
 
 <br/>  

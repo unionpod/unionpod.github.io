@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Desdelabarrad
 
 <!--reproductor-feed=http://www.spreaker.com/show/1409607/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12776995/grabaci_n_25.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12820694/que_podrias_comprar_con_el_valor_de_un_iphone_x.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
