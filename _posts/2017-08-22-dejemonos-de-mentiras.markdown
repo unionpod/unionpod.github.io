@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Ddm300-LuisPo
 
 <!--reproductor-feed=http://dejemonosdementiras.com/wp/media-rss/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://dejemonosdementiras.com/wp/wp-content/uploads/2017/08/DDM-41-Los-Millenials-Con-Engel-Cast.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://dejemonosdementiras.com/wp/wp-content/uploads/2017/09/DDM-42-Hablando-de-Dios-Con-El-Negro.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
