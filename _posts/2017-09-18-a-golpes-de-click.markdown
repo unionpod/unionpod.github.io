@@ -3,7 +3,7 @@ layout: post
 title: "A golpes de click"
 date: 2017-09-18 10:35:58
 tags: [Tecnología]
-categories: [México, Quincenal]
+categories: [Mexico, Quincenal]
 preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/AGolpesDeClick300-RicardoEspinosa.png
 ---
 
