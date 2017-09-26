@@ -1,0 +1,36 @@
+---
+layout: post
+title: "De cuento"
+date: 2017-09-26
+tags: [Literatura]
+categories: [Argentina, Mensual]
+preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/DeCuento300.jpg
+---
+
+![De cuento](https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/DeCuento500.jpg)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=http://feeds.soundcloud.com/users/soundcloud:users:212594801/sounds.rss-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="http://feeds.soundcloud.com/stream/328191538-el-archivo-podcast-de-cuento-5.mp3"></audio>
+<!--reproductor-end-->
+
+<br/>  
+"El Archivo Podcast" es un espacio en cual generamos contenidos culturales para debatir y difundir las cosas que nos apasionan, buscando despertar la misma pasión e interés en nuestros oyentes.
+
+_ _ _
+<br>
+Autor: **Romi a veces @romiaveces y Cristian Bolajuzón @Boli_ilustra**  
+[web](https://soundcloud.com/el-archivo-podcast)  
+[Feed](http://feeds.soundcloud.com/users/soundcloud:users:212594801/sounds.rss)  
+
+
+
+**Contacta:**  
+Twitter: [@archivopodcast](https://twitter.com/archivopodcast)  
+Correo: [rominafaga@gmail.com](mailto:rominafaga@gmail.com)  
+

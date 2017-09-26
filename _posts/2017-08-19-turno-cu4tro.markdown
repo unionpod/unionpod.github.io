@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Turnocuatro30
 
 <!--reproductor-feed=http://www.ivoox.com/podcast-turno-cu4tro_fg_f157353_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/fw17-miguel-angel-last-bullet-games_mf_21014278_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/fw17-oscar-marcos-resina-planet_mf_21080172_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
