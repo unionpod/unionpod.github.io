@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kryptocast"
-date: 2017-07-02 08:49:55
+date: 2017-07-04 08:49:55
 tags: [Cine, Superhéroes]
 categories: [Costa_Rica, Quincenal]
 preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Kryptocast%20300-%20Andy%20Arias.jpg

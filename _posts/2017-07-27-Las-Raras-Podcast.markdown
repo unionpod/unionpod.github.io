@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Las Raras Podcast"
-date:   2017-07-25 15:39:40
+date:   2017-07-27 15:39:40
 tags: [Social]
 categories: [Chile, Bimensual]
 preview: https://ia601505.us.archive.org/4/items/unionpod/lasraras300.jpg
@@ -21,7 +21,7 @@ Somos un podcast independiente que cuenta relatos de no ficción. Historias que 
 
 <!--reproductor-feed=http://feeds.soundcloud.com/users/soundcloud:users:255016072/sounds.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feeds.soundcloud.com/stream/332970806-las_raras_podcast-llamadas-en-espera.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feeds.soundcloud.com/stream/344365627-las_raras_podcast-mapuche-style.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

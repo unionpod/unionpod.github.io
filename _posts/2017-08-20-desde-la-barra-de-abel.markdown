@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Desdelabarrad
 
 <!--reproductor-feed=http://www.spreaker.com/show/1409607/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12873510/se_viene_el_apocalipsis_y_te_lo_contamos.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12915072/apple_ralentiza_sus_iphone.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

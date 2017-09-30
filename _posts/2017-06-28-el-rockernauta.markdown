@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EL ROCKERNAUTA"
-date: 2017-07-03
+date: 2017-06-28
 tags: [Música]
 categories: [Argentina, Quincenal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/image3828.png
@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/image3828.png
 
 <!--reproductor-feed=http://ar.ivoox.com/es/rockernauta_fg_f188290_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/rockernauta-alien_mf_20788890_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://ar.ivoox.com/es/rockernauta-alien_mf_20788890_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
