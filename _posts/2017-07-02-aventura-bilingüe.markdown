@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Aventura-Bilinge300.pn
 
 <!--reproductor-feed=http://feedpress.me/aventurabilingue-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/15025/6935349/068_aventura_bilingu_e.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/15025/7064468/070_aventura_bilingu_e.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

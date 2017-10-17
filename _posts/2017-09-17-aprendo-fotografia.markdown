@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Caratula300-J
 
 <!--reproductor-feed=http://feeds.feedburner.com/AprendoFotografa-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/AprendoFotografa/~5/dPH89FrAy_g/012-animate-a-objetivo-fijo_mf_21140806_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/AprendoFotografa/~5/XFLBOe3Bmf0/015-aprendiendo-regla-sunny-16_mf_21493113_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

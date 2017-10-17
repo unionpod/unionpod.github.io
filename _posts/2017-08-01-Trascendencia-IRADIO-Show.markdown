@@ -20,7 +20,7 @@ Somos el podcast de música rock y metal hecho en Venezuela más antiguo y recon
 
 <!--reproductor-feed=https://feed.pippa.io/public/shows/trascendenciave-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feed.pippa.io/public/streams/5917add142858d1e2239d54d/episodes/59b8d907ed01d6b16d563ffb.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feed.pippa.io/public/streams/5917add142858d1e2239d54d/episodes/59da4d88c37530402d4bf574.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

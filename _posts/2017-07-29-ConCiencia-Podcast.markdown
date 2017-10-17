@@ -21,7 +21,7 @@ Un Podcast de religión, para aquellos que desagradan de la religión. **ConCien
 
 <!--reproductor-feed=Http://concienciamedia.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/conciencia/content.blubrry.com/conciencia/BONUS_FIN_DEL_MUNDO.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/conciencia/content.blubrry.com/conciencia/_34_religiosidad_politica_.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

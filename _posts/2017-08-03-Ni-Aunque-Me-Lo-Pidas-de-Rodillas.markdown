@@ -17,7 +17,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/derodillas.jpg
 
 <!--reproductor-feed=https://audioboom.com/channels/4816287.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6245226-la-vencida.mp3?source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6352763-guns-n-roses-the-who-ep-2.mp3?source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 <br>

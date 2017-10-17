@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/image3980.png
 
 <!--reproductor-feed=http://www.spreaker.com/show/1977713/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12689027/podcast_1503846253.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/12926853/podcast_1506794745.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
