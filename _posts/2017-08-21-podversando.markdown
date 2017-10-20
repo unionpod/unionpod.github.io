@@ -26,7 +26,7 @@ _ _ _
 
 <br>
 Autor: **Julio Aguilar**  
-[web](www.julioaguilar.com.ve)  
+[web](https://www.julioaguilar.com.ve)  
 [Feed](https://feed.pippa.io/public/shows/podversando)  
 
 

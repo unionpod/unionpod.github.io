@@ -27,7 +27,7 @@ _ _ _
 
 <br>
 Autor: **David olivares**  
-[web](Facebook.com/Cinereviewsenespanol)  
+[web](https://www.facebook.com/cinereviewsenespanol/)  
 [Feed](http://feeds.feedburner.com/ivoox/cinereviews)  
 
 

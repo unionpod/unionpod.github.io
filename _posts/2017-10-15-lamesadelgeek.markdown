@@ -24,7 +24,7 @@ Lamesadelgeek es un podcast de tecnología en el que subimos episodios cortos y 
 _ _ _
 <br>
 Autor: **Alexmm19 y toledofranc**  
-[web](lamesadelgeek.blogspot.com)  
+[web](https://lamesadelgeek.blogspot.com.es/)  
 [Feed](http://www.spreaker.com/user/9493208/episodes/feed)   
 
 

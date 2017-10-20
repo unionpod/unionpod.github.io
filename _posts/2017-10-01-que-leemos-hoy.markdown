@@ -24,7 +24,7 @@ Podcast bisemanal en español sobre libros, literatura y recomendaciones de lect
 _ _ _
 <br>
 Autor: **Mario Chacon**  
-[web](www.queleemoshoy.com)  
+[web](https://www.queleemoshoy.com/)  
 [Feed](https://www.queleemoshoy.com/feed/podcast/)  
 
 
