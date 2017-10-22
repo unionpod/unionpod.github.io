@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Movimientogeek300.jpg
 
 <!--reproductor-feed=https://www.ivoox.com/movimientogeek_fg_f1292042_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/59-google-fin-abre-tiendas-fisicas-e-e-u-u_mf_21549697_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/60-cerramos-semana-noticias-tecnologia_mf_21592822_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

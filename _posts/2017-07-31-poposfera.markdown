@@ -20,7 +20,7 @@ PODCAST semanal de concienzudo análisis y apasionadas diatribas sobre cine, TV,
 
 <!--reproductor-feed=http://poposfera.libsyn.com/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/067_-_El_payaso_de_IT_de_los_90s.mp3?dest-id=396222"></audio>
+<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/068_-_Monstruos_famosos.mp3?dest-id=396222"></audio>
 <!--reproductor-end-->
 
 <br>
