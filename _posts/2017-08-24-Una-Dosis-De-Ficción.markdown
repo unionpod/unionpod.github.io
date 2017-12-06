@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Una Dosis De Ficción"
-date:   2017-07-24 15:39:40
+date:   2017-08-24 15:39:40
 tags: [Literatura]
 categories: [Argentina, Semanal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/Unadosisdef300-RinnyA.png
