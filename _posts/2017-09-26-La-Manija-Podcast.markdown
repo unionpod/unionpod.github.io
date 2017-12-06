@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/LaManijaPodca
 
 <!--reproductor-feed=https://audioboom.com/channels/4598071.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6257011-s02e18-season-finale-a-lo-manija.mp3?source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6257011.mp3?source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 <br>

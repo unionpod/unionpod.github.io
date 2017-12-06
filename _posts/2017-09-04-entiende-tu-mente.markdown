@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Entiendetumen
 
 <!--reproductor-feed=http://feeds.feedburner.com/EntiendeTuMente-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/postureo-podcast-25_mf_21534354_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/dilema-del-prisionero-podcast-30_mf_22159982_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

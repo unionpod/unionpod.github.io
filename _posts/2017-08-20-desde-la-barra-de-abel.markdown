@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Desdelabarrad
 
 <!--reproductor-feed=http://www.spreaker.com/show/1409607/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13096478/los_millennials_prefieren_un_iphone_a_un_samsung.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13518248/google_lanza_android_oreo_go_y_android_oreo_8_1_novedades.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

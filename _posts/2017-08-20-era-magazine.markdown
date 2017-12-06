@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/eramagazine30
 
 <!--reproductor-feed=https://eramagazine.fm/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/eramagazine/podcast.eramagazine.fm/99-monkey-week.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/eramagazine/podcast.eramagazine.fm/138-lu-rois.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>

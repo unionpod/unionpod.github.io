@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Kryptocast%20
 
 <!--reproductor-feed=http://feeds.feedburner.com/kryptocast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/club-lectura-all-star-superman_mf_20919496_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/episodio-especial-previo-justice-league_mf_22010086_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

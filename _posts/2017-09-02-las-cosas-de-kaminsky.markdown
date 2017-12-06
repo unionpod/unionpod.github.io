@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/las-cosas-de-
 
 <!--reproductor-feed=http://www.ivoox.com/cosas-kaminsky_fg_f1112866_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/lck-mi-ciudad_mf_20405539_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/lck-a-cascarla_mf_21993707_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

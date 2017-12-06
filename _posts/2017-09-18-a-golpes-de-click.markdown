@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/AGolpesDeClic
 
 <!--reproductor-feed=http://feeds.feedburner.com/AGDC-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://awscdn.podcasts.com/AGDC-008-El-Feed-RSS-es-tu-amigo-y-hospedaje-de-proyectos-de-podcast-711c.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.whooshkaa.com/podcasts/2252/episodes/c9802a-agdc-008.mp3?id=150619"></audio>
 <!--reproductor-end-->
 
 <br>

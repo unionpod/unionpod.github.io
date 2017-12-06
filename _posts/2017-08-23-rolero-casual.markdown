@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Logo_1140-Azr
 
 <!--reproductor-feed=http://feeds.feedburner.com/RoleroCasual-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/RoleroCasual/~5/WHkkq5NdKnk/Rolero%20Casual%20-%20Episodio%2010%20-%20Sesi%C3%B3n%200.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/RoleroCasual/~5/LmE3cJhP71M/Rolero%20Casual%20-%20Episodio%2011%20-%20Religi%C3%B3n%20Rolera.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

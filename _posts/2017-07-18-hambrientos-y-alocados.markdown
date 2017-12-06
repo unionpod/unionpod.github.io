@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/HyAlocados300.jpg
 
 <!--reproductor-feed=https://hambrientosyalocados.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://hambrientosyalocados.com/wp-content/uploads/2017/10/11.-Financiamiento-para-emprendedores.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://media.blubrry.com/hambrientos_y_alocados/hambrientosyalocados.com/wp-content/uploads/2017/11/15.-Las-tareas-ocultas-del-emprendedor.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
