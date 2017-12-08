@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vox Robotika"
-date: 2017-07-26
+date: 2017-06-26
 tags: [Ciencia_ficcion]
 categories: [Puerto Rico]
 preview: https://ia601505.us.archive.org/4/items/unionpod/VoxRobotika300.png

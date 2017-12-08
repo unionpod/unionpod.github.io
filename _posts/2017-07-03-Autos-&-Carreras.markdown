@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Autos & Carreras"
-date:   2017-07-23 15:39:40
+date:   2017-07-03 15:39:40
 tags: [Deportes]
 categories: [Colombia, Semanal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/Autosycarreras300-RickerSilva.png

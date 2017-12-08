@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Catedral-Pepe
 
 <!--reproductor-feed=http://feed.quechilero.com/CatedraldeEscuintla-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/quechilero/p/dts.podtrac.com/redirect.mp3/archive.org/download/PalabraEspirituYVida/111-Domingo29DelTiempoOrdinarioA.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/quechilero/p/dts.podtrac.com/redirect.mp3/archive.org/download/PalabraEspirituYVida/118-Domingo2DelTiempoDeAdvientoB.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
