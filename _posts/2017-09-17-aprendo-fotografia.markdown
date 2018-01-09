@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Caratula300-J
 
 <!--reproductor-feed=http://feeds.feedburner.com/AprendoFotografa-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/AprendoFotografa/~5/7o27rcJRdRA/6535457.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/AprendoFotografa/~5/heYWxJAUjqo/6563311.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

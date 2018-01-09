@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Vapornosotras
 
 <!--reproductor-feed=http://feeds.feedburner.com/VaPorNosotras-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/84-follamigos-pagafantas-anecdotas_mf_21877240_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/VaPorNosotras/~5/QejVc6P_CH0/93-que-le-pasa-a-shakira_mf_22975331_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

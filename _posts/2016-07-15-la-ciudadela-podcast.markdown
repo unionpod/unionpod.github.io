@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Laciudadela300.jpg
 
 <!--reproductor-feed=https://www.ivoox.com/ciudadela-podcast_fg_f1145430_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://www.ivoox.com/2x06-la-ciudadela-podcast-el-mesias-thrall_mf_20061843_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://co.ivoox.com/es/2x06-la-ciudadela-podcast-el-mesias-thrall_mf_20061843_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

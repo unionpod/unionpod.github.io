@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Ddm300-LuisPo
 
 <!--reproductor-feed=http://dejemonosdementiras.com/wp/media-rss/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://dejemonosdementiras.com/wp/wp-content/uploads/2017/10/DDM-45-Charlando-Con-La-Amargada.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://dejemonosdementiras.com/wp/wp-content/uploads/2017/12/DDM-46-Familia-Linaje-y-Politica.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

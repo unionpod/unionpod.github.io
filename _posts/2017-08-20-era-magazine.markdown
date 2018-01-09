@@ -14,9 +14,9 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/eramagazine30
 
 ## Escucha el último episodio
 
-<!--reproductor-feed=https://eramagazine.fm/feed/podcast/-->
+<!--reproductor-feed=http://www.ivoox.com/era-magazine_fg_f1414152_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/eramagazine/podcast.eramagazine.fm/138-lu-rois.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/157-alondra-bentley_mf_23037280_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>
@@ -27,7 +27,7 @@ _ _ _
 <br>
 Autor: **Alberto Cortés**  
 [web](https://eramagazine.fm)  
-[Feed](https://eramagazine.fm/feed/podcast/)  
+[Feed](http://www.ivoox.com/era-magazine_fg_f1414152_filtro_1.xml)  
 
 
 **Puedes escuchar este podcast en:**  

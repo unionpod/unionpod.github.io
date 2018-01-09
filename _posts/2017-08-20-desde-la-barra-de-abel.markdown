@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Desdelabarrad
 
 <!--reproductor-feed=http://www.spreaker.com/show/1409607/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13535552/todos_critican_pero_todos_copian_al_iphone_x.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13754610/actualizacion_de_apple_para_spectre_y_meltdown.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

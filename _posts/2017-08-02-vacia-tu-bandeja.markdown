@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/VTBandeja300.jpg
 
 <!--reproductor-feed=https://feeds.feedburner.com/Vaciatubandeja-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Vaciatubandeja/~5/MdE9PF5EHUg/13-Aprendizaje-En%20que%20fase%20estas.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Vaciatubandeja/~5/lqYS17qvjaY/15-Fin%20de%20a%C3%B1o-Revisa%20tus%20proyectos%20y%20objetivos.mp3"></audio>
 <!--reproductor-end-->
 
 **Vacía Tu Bandeja** es un podcast sobre organización personal y creación de hábitos. Está basado en mi experiencia personal a lo largo de los años. El objetivo es compartir todo lo que he aprendido para poder ayudar a otras personas a ser mas organizadas y a crear los hábitos adecuados para ello. 

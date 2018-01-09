@@ -16,7 +16,7 @@ preview: https://ia600805.us.archive.org/21/items/unionpod/Android300-AdrianO.pn
 
 <!--reproductor-feed=http://www.spreaker.com/show/2219632/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13538649/257_criptogatos_qu_son_estamos_locos.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13758743/podcast_1515514340.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast (sin editar) donde intento contarte todo sobre tu smartphone y sistema operativo favorito, así como lo último en Tecnología.  

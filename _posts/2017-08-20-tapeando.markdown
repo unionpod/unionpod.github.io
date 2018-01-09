@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/%20TAPEANDO%2
 
 <!--reproductor-feed=http://www.ivoox.com/tapeando-radio_fg_f1119353_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/tapeandoradio-47-david-summers_mf_22419662_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/tapeandoradio-48-especial-tapeando-2017_mf_23011680_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
