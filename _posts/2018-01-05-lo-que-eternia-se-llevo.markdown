@@ -16,7 +16,7 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/Eternia300.jpe
 
 <!--reproductor-feed=http://www.ivoox.com/lo-eternia-se-llevo_fg_f1407317_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/2x14-lqesl-especial-star-wars-i_mf_22783276_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/2x15-especial-star-wars-2-episodio-vii-y_mf_23179317_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 En Eternia solo queremos tener un punto de encuentro para hablar de lo que nos gusta. Somos un grupo de amigos con gustos variados que disfruta de la vida y sus frikeces. Todo esto sin pretensiones de ningún tipo. Ven a Eternia! Conocerás a He-Man, a Skeletor y tenemos galletas! :)

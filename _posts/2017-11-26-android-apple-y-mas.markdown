@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Android, iOS y Más"
+title: "Android Apple y Más"
 date: 2017-11-26 15:04:33
 tags: [Tecnología]
-categories: [México, Diario]
-preview: https://ia600805.us.archive.org/21/items/unionpod/Android300-AdrianO.png
+categories: [Mexico, Diario]
+preview: https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/Android-apple-mas300.jpg
 ---
 
-![Android, iOS y Más](https://ia600805.us.archive.org/21/items/unionpod/Android500-AdrianO.png)
+![Android Apple y Más](https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/Android-apple-mas500.jpg)
 
 <br/>
 <br/>
@@ -16,7 +16,7 @@ preview: https://ia600805.us.archive.org/21/items/unionpod/Android300-AdrianO.pn
 
 <!--reproductor-feed=http://www.spreaker.com/show/2219632/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13758743/podcast_1515514340.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13823777/podcast_1516201117.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast (sin editar) donde intento contarte todo sobre tu smartphone y sistema operativo favorito, así como lo último en Tecnología.  

@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Entiendetumen
 
 <!--reproductor-feed=http://feeds.feedburner.com/EntiendeTuMente-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/crisis-40-otras-crisis_mf_22944906_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/personas-alta-sensibilidad-pas-podcast-35_mf_23203310_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br>
