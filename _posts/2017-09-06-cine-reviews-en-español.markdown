@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cine Reviews En Español"
-date: 2017-09-04 06:33:19
+date: 2017-09-06 06:33:19
 tags: [Cine]
 categories: [Costa_Rica]
 preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Cinereview300-DavidOlivaresVargas.jpg

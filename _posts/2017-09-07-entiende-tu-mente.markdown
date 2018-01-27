@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Entiende Tu Mente"
-date: 2017-09-04 05:49:52
+date: 2017-09-07 05:49:52
 tags: [Psicología]
 categories: [Espana, Semanal]
 preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Entiendetumente300px-EntiendeTuMente.jpg
@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Entiendetumen
 
 <!--reproductor-feed=http://feeds.feedburner.com/EntiendeTuMente-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/personas-alta-sensibilidad-pas-podcast-35_mf_23203310_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/apego-emocional-podcast-36_mf_23335182_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

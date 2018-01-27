@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Tnakzcmj_300-
 
 <!--reproductor-feed=http://www.spreaker.com/user/9493208/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13702184/fin_ano_feliz_2018_mf_22911463_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13850621/posibles_lanzamientos_huawei_para_este_2018_mf_23261123_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Lamesadelgeek es un podcast de tecnología en el que subimos episodios cortos y amenos sobre ellas e intentamos escuchar y disponer al oyente de todas las soluciones posibles.

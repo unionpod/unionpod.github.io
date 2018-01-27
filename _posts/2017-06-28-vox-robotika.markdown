@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vox Robotika"
-date: 2017-06-26
+date: 2017-06-28
 tags: [Ciencia_ficcion]
 categories: [Puerto_Rico]
 preview: https://ia601505.us.archive.org/4/items/unionpod/VoxRobotika300.png
@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/VoxRobotika300.png
 
 <!--reproductor-feed=http://voxrobotika.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://voxrobotika.podbean.com/mf/feed/i2k98h/E82.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="http://voxrobotika.podbean.com/mf/feed/8hn4q2/E83_2_.m4a"></audio>
 <!--reproductor-end-->
 
 <br/>  

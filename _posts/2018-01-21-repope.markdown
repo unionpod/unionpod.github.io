@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Repopé"
+date: 2018-01-21 14:18:31
+tags: [Metapodcast]
+categories: [Semanal, Perú]
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/repope300.jpg
+---
+
+![Repopé](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/repope500.jpg)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=http://www.ivoox.com/repope-resumen-podcast-peru_fg_f1490473_filtro_1.xml-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/03-repope-semana-del-15-al-21-de_mf_23268551_feed_1.mp3"></audio>
+<!--reproductor-end-->
+
+Un resumen semanal de los podcast de Perú.
+
+_ _ _
+<br>
+Autor: **Lúen Mendoza**
+[Feed](http://www.ivoox.com/repope-resumen-podcast-peru_fg_f1490473_filtro_1.xml)
+
+
+
+
+**Contacta:**
+Twitter: [@luenmendoza](https://twitter.com/luenmendoza)
+Correo: [Lmendoza4649@gmail.com](mailto:Lmendoza4649@gmail.com)
+

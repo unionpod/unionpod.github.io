@@ -16,7 +16,7 @@ preview: https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/Android-apple-
 
 <!--reproductor-feed=http://www.spreaker.com/show/2219632/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13823777/podcast_1516201117.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13901672/podcast_1517060852.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast (sin editar) donde intento contarte todo sobre tu smartphone y sistema operativo favorito, así como lo último en Tecnología.  
