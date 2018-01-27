@@ -3,7 +3,7 @@ layout: post
 title: "Me Paso los Sábados Hablando de Videojuegos"
 date: 2018-01-21 10:09:23
 tags: [Videojuegos]
-categories: [Perú]
+categories: [Peru]
 preview: https://ia801503.us.archive.org/23/items/Music500x500EstebanMontoya/parallax%20podcast%20300-%20Enrique%20Martinez.jpg
 ---
 

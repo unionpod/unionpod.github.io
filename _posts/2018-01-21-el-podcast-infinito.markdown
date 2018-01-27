@@ -3,7 +3,7 @@ layout: post
 title: "El Podcast Infinito"
 date: 2018-01-21 20:07:01
 tags: [Cultura]
-categories: [Perú]
+categories: [Peru]
 preview: https://ia801503.us.archive.org/23/items/Music500x500EstebanMontoya/podcastII%20300-%20Luis%20M.%20Santa%20Cruz.jpg
 ---
 

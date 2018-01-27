@@ -3,7 +3,7 @@ layout: post
 title: "Nación Combi"
 date: 2018-01-22 01:33:02
 tags: [Economía, política]
-categories: [Semanal, Perú]
+categories: [Semanal, Peru]
 preview: https://ia801503.us.archive.org/23/items/Music500x500EstebanMontoya/nacion-combi%20300-%20Hans%20Rothgiesser.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Fuera Del Cine"
 date: 2018-01-23 12:10:18
 tags: [Cine]
-categories: [Semanal, Perú]
+categories: [Semanal, Peru]
 preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/FueraDelCine300.jpg
 ---
 

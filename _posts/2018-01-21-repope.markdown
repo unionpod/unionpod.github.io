@@ -3,7 +3,7 @@ layout: post
 title: "Repopé"
 date: 2018-01-21 14:18:31
 tags: [Metapodcast]
-categories: [Semanal, Perú]
+categories: [Semanal, Peru]
 preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/repope300.jpg
 ---
 
