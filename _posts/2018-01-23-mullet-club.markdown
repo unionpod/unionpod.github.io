@@ -23,14 +23,14 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Mul
 
 _ _ _
 <br>
-Autor: **Wan Pérez**
-[web](http://mulletclub.pe)
-[Feed](http://mulletclub.libsyn.com/rss)
+Autor: **Wan Pérez**  
+[web](http://mulletclub.pe)  
+[Feed](http://mulletclub.libsyn.com/rss)  
 
 
 
 
-**Contacta:**
-Twitter: [@mulletclubpe](https://twitter.com/mulletclubpe)
-Correo: [info@mulletclub.pe](mailto:info@mulletclub.pe)
+**Contacta:**  
+Twitter: [@mulletclubpe](https://twitter.com/mulletclubpe)  
+Correo: [info@mulletclub.pe](mailto:info@mulletclub.pe)  
 

@@ -23,15 +23,13 @@ En Eternia solo queremos tener un punto de encuentro para hablar de lo que nos g
 
 _ _ _
 <br>
-Autor: **Jarvis McNulty, Nekrom, Vic Vega, Yasumaro y la escritora Alícia Pérez Gil**
-[web](https://lqesll.wordpress.com)
-[Feed](http://www.ivoox.com/lo-eternia-se-llevo_fg_f1407317_filtro_1.xml)
+Autor: **Jarvis McNulty, Nekrom, Vic Vega, Yasumaro y la escritora Alícia Pérez Gil**  
+[web](https://lqesll.wordpress.com)  
+[Feed](http://www.ivoox.com/lo-eternia-se-llevo_fg_f1407317_filtro_1.xml)  
 
 
-**Puedes escuchar este podcast en:**
 
-
-**Contacta:**
-Twitter: [@lqeterniasllevo](https://twitter.com/lqeterniasllevo)
-Correo: [vicvegaeternia@gmail.com](mailto:vicvegaeternia@gmail.com)
+**Contacta:**  
+Twitter: [@lqeterniasllevo](https://twitter.com/lqeterniasllevo)  
+Correo: [vicvegaeternia@gmail.com](mailto:vicvegaeternia@gmail.com)  
 

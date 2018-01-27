@@ -31,15 +31,14 @@ Nos esforzamos por hacer radio de calidad para personas como tú.
 
 _ _ _
 <br>
-Autor: **Óscar Blázquez**
-[web](https://www.plusradio.es)
-[Feed](http://www.ivoox.com/cronovisor_fg_f1328897_filtro_1.xml)
+Autor: **Óscar Blázquez**  
+[web](https://www.plusradio.es)  
+[Feed](http://www.ivoox.com/cronovisor_fg_f1328897_filtro_1.xml)  
 
 
-**Puedes escuchar este podcast en:**
 
 
-**Contacta:**
-Twitter: [@ElCronovisor](https://twitter.com/ElCronovisor)
-Correo: [elcronovisor@gmail.com](mailto:elcronovisor@gmail.com)
+**Contacta:**  
+Twitter: [@ElCronovisor](https://twitter.com/ElCronovisor)  
+Correo: [elcronovisor@gmail.com](mailto:elcronovisor@gmail.com)  
 

@@ -23,16 +23,16 @@ Show de improvisación y comedia grabado en vivo donde los artistas tienen el re
 
 _ _ _
 <br>
-Autor: **Enrique Vargas**
-[web](http://www.imprompturicensis.com)
-[Feed](http://feeds.feedburner.com/Imprompturicensis)
+Autor: **Enrique Vargas**  
+[web](http://www.imprompturicensis.com)  
+[Feed](http://feeds.feedburner.com/Imprompturicensis)  
 
 
-**Puedes escuchar este podcast en:**
-[Ivoox](JYE Studio)
+**Puedes escuchar este podcast en:**  
+[Ivoox](JYE Studio)  
 
 
-**Contacta:**
-Twitter: [@Imprompturico](https://twitter.com/Imprompturico)
-Correo: [impromptu@jyestudio.com](mailto:impromptu@jyestudio.com)
+**Contacta:**  
+Twitter: [@Imprompturico](https://twitter.com/Imprompturico)  
+Correo: [impromptu@jyestudio.com](mailto:impromptu@jyestudio.com)  
 

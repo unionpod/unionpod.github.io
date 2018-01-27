@@ -23,15 +23,14 @@ Claqueta en escena es un podcast en español en el que charlamos sobre película
 
 _ _ _
 <br>
-Autor: **@DnielCaro_ @LJesus17 @SusanaJaimeG @BrandonGeek_ @Andresforero27**
-[web](https://www.facebook.com/ClaquetaEnEscena/)
-[Feed](https://audioboom.com/channels/4922035.rss)
+Autor: **@DnielCaro_ @LJesus17 @SusanaJaimeG @BrandonGeek_ @Andresforero27**  
+[web](https://www.facebook.com/ClaquetaEnEscena/)  
+[Feed](https://audioboom.com/channels/4922035.rss)  
 
 
-**Puedes escuchar este podcast en:**
 
 
-**Contacta:**
-Twitter: [@DnielCaro_ @LJesus17 @SusanaJaimeG @BrandonGeek_ @Andresforero27](https://twitter.com/DnielCaro_ @LJesus17 @SusanaJaimeG @BrandonGeek_ @Andresforero27)
-Correo: [Claquetaenescena@gmail.com](mailto:Claquetaenescena@gmail.com)
+**Contacta:**  
+Twitter: [@DnielCaro_ @LJesus17 @SusanaJaimeG @BrandonGeek_ @Andresforero27](https://twitter.com/DnielCaro_ @LJesus17 @SusanaJaimeG @BrandonGeek_ @Andresforero27)  
+Correo: [Claquetaenescena@gmail.com](mailto:Claquetaenescena@gmail.com)  
 

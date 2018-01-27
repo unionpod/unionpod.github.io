@@ -23,11 +23,11 @@ Un podcast donde hablaremos de manera irreverente y sarcástica de temas varios.
 
 _ _ _
 <br>
-Autor: **David Olivares, Jay Flores e iinvitados**
-[Feed](http://mx.ivoox.com/es/con-todo-respeto_fg_f1487596_filtro_1.xml)
+Autor: **David Olivares, Jay Flores e iinvitados**  
+[Feed](http://mx.ivoox.com/es/con-todo-respeto_fg_f1487596_filtro_1.xml)  
 
 
 
-**Contacta:**
-Correo: [dolivares1x@gmail.com](mailto:dolivares1x@gmail.com)
+**Contacta:**  
+Correo: [dolivares1x@gmail.com](mailto:dolivares1x@gmail.com)  
 

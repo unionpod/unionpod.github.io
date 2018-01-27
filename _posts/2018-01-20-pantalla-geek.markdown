@@ -23,15 +23,15 @@ Un podcast sobre cines y series en el que solo o con amigos nos juntamos para ha
 
 _ _ _
 <br>
-Autor: **Andy Arias**
-[Feed](https://audioboom.com/channels/4912121.rss)
+Autor: **Andy Arias**  
+[Feed](https://audioboom.com/channels/4912121.rss)  
 
 
-**Puedes escuchar este podcast en:**
-[LaLiga.FM](https://audioboom.com/channel/pantalla-geek)
+**Puedes escuchar este podcast en:**  
+[LaLiga.FM](https://audioboom.com/channel/pantalla-geek)  
 
 
-**Contacta:**
-Twitter: [@PantallaGeek](https://twitter.com/PantallaGeek)
-Correo: [pantallageek@gmail.com](mailto:pantallageek@gmail.com)
+**Contacta:**  
+Twitter: [@PantallaGeek](https://twitter.com/PantallaGeek)  
+Correo: [pantallageek@gmail.com](mailto:pantallageek@gmail.com)  
 

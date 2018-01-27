@@ -23,15 +23,14 @@ Podcast semanal sobre nuevas tecnologías, cultura digital, gadgets, apps, hardw
 
 _ _ _
 <br>
-Autor: **David Ochoa**
-[web](www.bytepodcast.com)
-[Feed](http://feeds.feedburner.com/Byte)
+Autor: **David Ochoa**  
+[web](www.bytepodcast.com)  
+[Feed](http://feeds.feedburner.com/Byte)  
 
 
-**Puedes escuchar este podcast en:**
 
 
-**Contacta:**
-Twitter: [@BytePodcast](https://twitter.com/BytePodcast)
-Correo: [BytePodcast@gmail.com](mailto:BytePodcast@gmail.com)
+**Contacta:**  
+Twitter: [@BytePodcast](https://twitter.com/BytePodcast)  
+Correo: [BytePodcast@gmail.com](mailto:BytePodcast@gmail.com)  
 

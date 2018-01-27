@@ -23,15 +23,14 @@ Supernova Pod es la primera revista de literatura de ciencia ficción en formato
 
 _ _ _
 <br>
-Autor: **Fernando Dávila**
-[web](https://supernovapod.org/)
-[Feed](https://feeds.podcastmirror.com/supernovapod)
+Autor: **Fernando Dávila**  
+[web](https://supernovapod.org/)  
+[Feed](https://feeds.podcastmirror.com/supernovapod)  
 
 
-**Puedes escuchar este podcast en:**
 
 
-**Contacta:**
-Twitter: [@supernovapod](https://twitter.com/supernovapod)
-Correo: [info@supernovapod.org](mailto:info@supernovapod.org)
+**Contacta:**  
+Twitter: [@supernovapod](https://twitter.com/supernovapod)  
+Correo: [info@supernovapod.org](mailto:info@supernovapod.org)  
 

@@ -23,14 +23,14 @@ Desde Perú, Luis M. Santa Cruz y sus invitados conversan sobre cosas nerd y cul
 
 _ _ _
 <br>
-Autor: **Luis M. Santa Cruz**
-[web](https://www.facebook.com/pg/podcastinfinito/)
-[Feed](http://pe.ivoox.com/es/podcast-infinito_fg_f1277999_filtro_1.xml)
+Autor: **Luis M. Santa Cruz**  
+[web](https://www.facebook.com/pg/podcastinfinito/)  
+[Feed](http://pe.ivoox.com/es/podcast-infinito_fg_f1277999_filtro_1.xml)  
 
 
 
 
-**Contacta:**
-Twitter: [@luis_de_m](https://twitter.com/luis_de_m)
-Correo: [lmsc1992@gmail.com](mailto:lmsc1992@gmail.com)
+**Contacta:**  
+Twitter: [@luis_de_m](https://twitter.com/luis_de_m)  
+Correo: [lmsc1992@gmail.com](mailto:lmsc1992@gmail.com)  
 

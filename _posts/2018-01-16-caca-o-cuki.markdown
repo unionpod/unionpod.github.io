@@ -23,13 +23,13 @@ Comentamos las noticias más absurdas que podemos encontrar hablándole a una cu
 
 _ _ _
 <br>
-Autor: **Chema, Chancla, Chechu, Hindu, Yegui y el becario.**
+Autor: **Chema, Chancla, Chechu, Hindu, Yegui y el becario.**  
 
-[Feed](http://www.ivoox.com/caca-o-cuki_fg_f1391664_filtro_1.xml)
+[Feed](http://www.ivoox.com/caca-o-cuki_fg_f1391664_filtro_1.xml)  
 
 
 
-**Contacta:**
-Twitter: [@CacaoCuki1](https://twitter.com/CacaoCuki1)
-Correo: [cacaocuki@gmail.com](mailto:cacaocuki@gmail.com)
+**Contacta:**  
+Twitter: [@CacaoCuki1](https://twitter.com/CacaoCuki1)  
+Correo: [cacaocuki@gmail.com](mailto:cacaocuki@gmail.com)  
 

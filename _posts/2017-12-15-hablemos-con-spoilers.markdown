@@ -23,15 +23,14 @@ Podcast dedicado a los spoilers en la cultura popular. También comentamos actua
 
 _ _ _
 <br>
-Autor: **Lúen Mendoza, César Vílchez, Saussure Figueroa, Alberto Escalante, Carlos Huamán y Alexander Peña**
-[web](https://www.facebook.com/hablemosconspoilers/)
-[Feed](http://www.ivoox.com/hablemos-spoilers_fg_f1285937_filtro_1.xml)
+Autor: **Lúen Mendoza, César Vílchez, Saussure Figueroa, Alberto Escalante, Carlos Huamán y Alexander Peña**  
+[web](https://www.facebook.com/hablemosconspoilers/)  
+[Feed](http://www.ivoox.com/hablemos-spoilers_fg_f1285937_filtro_1.xml)  
 
 
-**Puedes escuchar este podcast en:**
 
 
-**Contacta:**
-Twitter: [@luenmendoza](https://twitter.com/luenmendoza)
-Correo: [Lmendoza4649@gmail.com](mailto:Lmendoza4649@gmail.com)
+**Contacta:**  
+Twitter: [@luenmendoza](https://twitter.com/luenmendoza)  
+Correo: [Lmendoza4649@gmail.com](mailto:Lmendoza4649@gmail.com)  
 

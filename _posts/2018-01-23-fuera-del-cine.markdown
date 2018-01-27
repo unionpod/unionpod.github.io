@@ -23,15 +23,15 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Fue
 
 _ _ _
 <br>
-Autor: **Raul Chamorro, Logan Perez**
-[web](http://fueradelcine.com)
-[Feed](http://fueradelcine.com/feed)
+Autor: **Raul Chamorro, Logan Perez**  
+[web](http://fueradelcine.com)  
+[Feed](http://fueradelcine.com/feed)  
 
 
 
 
 
-**Contacta:**
-Twitter: [@fueradelcine](https://twitter.com/fueradelcine)
-Correo: [drwest@fueradelcine.com](mailto:drwest@fueradelcine.com)
+**Contacta:**  
+Twitter: [@fueradelcine](https://twitter.com/fueradelcine)  
+Correo: [drwest@fueradelcine.com](mailto:drwest@fueradelcine.com)  
 

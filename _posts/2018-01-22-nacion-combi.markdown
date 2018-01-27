@@ -23,11 +23,11 @@ Un economista, un abogado y un publicista comentan las noticias más relevantes 
 
 _ _ _
 <br>
-Autor: **Hans Rothgiesser, Erick Iriarte, Carlos Zúñiga**
-[Feed](http://www.ivoox.com/nacion-combi_fg_f1254978_filtro_1.xml)
+Autor: **Hans Rothgiesser, Erick Iriarte, Carlos Zúñiga**  
+[Feed](http://www.ivoox.com/nacion-combi_fg_f1254978_filtro_1.xml)  
 
 
-**Contacta:**
-Twitter: [@NacionCombiPe](https://twitter.com/NacionCombiPe)
-Correo: [eek_x@hotmail.com](mailto:eek_x@hotmail.com)
+**Contacta:**  
+Twitter: [@NacionCombiPe](https://twitter.com/NacionCombiPe)  
+Correo: [eek_x@hotmail.com](mailto:eek_x@hotmail.com)  
 

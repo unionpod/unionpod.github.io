@@ -23,12 +23,12 @@ Conversatorio sobre videojuegos, especiales y las noticias más importantes de l
 
 _ _ _
 <br>
-Autor: **Enrique "Junior" Martinez, Fernando Chuquillanqui, Phillip Chu Joy, Jorge García, Juan Pablo Cabrejos y Samuel Moreno**
-[web](http://www.parallax.com.pe)
-[Feed](http://www.ivoox.com/parallax-podcast_fg_f147865_filtro_1.xml)
+Autor: **Enrique "Junior" Martinez, Fernando Chuquillanqui, Phillip Chu Joy, Jorge García, Juan Pablo Cabrejos y Samuel Moreno**  
+[web](http://www.parallax.com.pe)  
+[Feed](http://www.ivoox.com/parallax-podcast_fg_f147865_filtro_1.xml)  
 
 
 
-**Contacta:**
-Correo: [junior@parallax.com.pe](mailto:junior@parallax.com.pe)
+**Contacta:**  
+Correo: [junior@parallax.com.pe](mailto:junior@parallax.com.pe)  
 

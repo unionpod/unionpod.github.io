@@ -23,14 +23,14 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Cor
 
 _ _ _
 <br>
-Autor: **Joeh Bernard**
-[web](https://corazonesemprendedores.com/podcast)
-[Feed](http://www.ivoox.com/corazones-emprendedores-historias-humanas_fg_f1426637_filtro_1.xml)
+Autor: **Joeh Bernard**  
+[web](https://corazonesemprendedores.com/podcast)  
+[Feed](http://www.ivoox.com/corazones-emprendedores-historias-humanas_fg_f1426637_filtro_1.xml)  
 
 
 
 
-**Contacta:**
-Twitter: [@joehbernard](https://twitter.com/joehbernard)
-Correo: [joeh@corazonesemprendedores.com](mailto:joeh@corazonesemprendedores.com)
+**Contacta:**  
+Twitter: [@joehbernard](https://twitter.com/joehbernard)  
+Correo: [joeh@corazonesemprendedores.com](mailto:joeh@corazonesemprendedores.com)  
 

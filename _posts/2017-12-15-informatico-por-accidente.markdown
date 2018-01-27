@@ -23,14 +23,11 @@ Podcast de tecnología, sobre todo en el entorno apple, pero se habla de todo lo
 
 _ _ _
 <br>
-Autor: **Esteban e Invitados**
-[web]()
-[Feed](http://www.ivoox.com/informatico-accidente_fg_f1425119_filtro_1.xml)
+Autor: **Esteban e Invitados**  
+[Feed](http://www.ivoox.com/informatico-accidente_fg_f1425119_filtro_1.xml)  
 
 
-**Puedes escuchar este podcast en:**
 
-
-**Contacta:**
-Correo: [smontoy@gmail.com](mailto:smontoy@gmail.com)
+**Contacta:**  
+Correo: [smontoy@gmail.com](mailto:smontoy@gmail.com)  
 

@@ -23,15 +23,15 @@ Podcast de Tecnologia y Noticias
 
 _ _ _
 <br>
-Autor: **Berlin González**
-[web](https://www.tendencias.tech)
-[Feed](http://www.spreaker.com/show/2139293/episodes/feed)
+Autor: **Berlin González**  
+[web](https://www.tendencias.tech)  
+[Feed](http://www.spreaker.com/show/2139293/episodes/feed)  
 
 
-**Puedes escuchar este podcast en:**
 
 
-**Contacta:**
-Twitter: [@tendenciastech](https://twitter.com/tendenciastech)
-Correo: [berlin@tendencias.tech](mailto:berlin@tendencias.tech)
+
+**Contacta:**  
+Twitter: [@tendenciastech](https://twitter.com/tendenciastech)  
+Correo: [berlin@tendencias.tech](mailto:berlin@tendencias.tech)  
 

@@ -23,12 +23,12 @@ Podcast de música donde se ponen varios temas para compartir con todos
 
 _ _ _
 <br>
-Autor: **Juanjo, Esteban, Miguel Angel**
-[Feed](http://www.ivoox.com/music-of-weekend_fg_f1455664_filtro_1.xml)
+Autor: **Juanjo, Esteban, Miguel Angel**  
+[Feed](http://www.ivoox.com/music-of-weekend_fg_f1455664_filtro_1.xml)  
 
 
 
 
-**Contacta:**
-Correo: [musicofweekend@gmail.com](mailto:musicofweekend@gmail.com)
+**Contacta:**  
+Correo: [musicofweekend@gmail.com](mailto:musicofweekend@gmail.com)  
 
