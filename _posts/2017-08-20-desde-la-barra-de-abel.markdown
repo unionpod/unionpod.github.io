@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Desdelabarrad
 
 <!--reproductor-feed=http://www.spreaker.com/show/1409607/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13899244/dando_explicaciones.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13951647/que_esperar_de_los_smartphone_en_el_2018.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

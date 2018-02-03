@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Bar Bedel"
+date: 2018-01-28 05:31:45
+tags: [Música]
+categories: [Semanal, Espana]
+preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/BarBedel_Logo_300.jpg
+---
+
+![Bar Bedel](https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/BarBedel_Logo_500x500%20-%20Bar%20Bedel.jpg)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=http://feeds.feedburner.com/barbedel-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13903625/episodio_46_noche_de_flamenco_y_blues.mp3"></audio>
+<!--reproductor-end-->
+
+El Bar Bedel es un podcast en directo en la plataforma Spreaker, todos los sábados a las 22:45 CET donde escuchamos buena música, invitamos a amigos a comentarlo en directo con el camarero y tenemos participación activa con nuestros escuchantes en el chat del programa. Solo hay un objetivo, pasar 45 minutos entretenidos y con buena música.  
+
+_ _ _
+<br>
+Autor: **Julián @jeanbedel**  
+[Feed](http://feeds.feedburner.com/barbedel)  
+
+
+**Puedes escuchar este podcast en:**  
+[Spreaker](https://www.spreaker.com/show/bar-bedel)  
+
+
+**Contacta:**  
+Twitter: [@elbarbedel](https://twitter.com/elbarbedel)  
+Correo: [elbarbedel@gmail.com](mailto:elbarbedel@gmail.com)  
+

@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/image3828.png
 
 <!--reproductor-feed=http://ar.ivoox.com/es/rockernauta_fg_f188290_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/rockernauta-interstellar_mf_22633346_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://ar.ivoox.com/es/rockernauta-interstellar_mf_22633346_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

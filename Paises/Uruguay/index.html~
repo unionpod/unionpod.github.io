@@ -5,23 +5,15 @@ description: "An archive of posts sorted by tag."
 comments: false
 ---
 
-
 	
-
 	<article>
-		<center><h2>Argentina</h2></center>
+		<center><h2>Puerto Rico</h2></center>
 <br>
 
 <br>
-		
-	
-	
-	<article>
-		<center><h2>Colombia</h2></center>
-
 		<ul>
 			<div class="row">
-		    {% for post in site.categories.Colombia %}
+		    {% for post in site.categories.Puerto_Rico %}
 		        <div class="col-xs-6 col-sm-4">
 		            <div class="preview-panel">
 		                <a href="{{ post.url | prepend: site.baseurl }}">

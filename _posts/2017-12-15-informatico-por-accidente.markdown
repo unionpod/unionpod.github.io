@@ -16,7 +16,7 @@ preview: https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/300Informatico
 
 <!--reproductor-feed=http://www.ivoox.com/informatico-accidente_fg_f1425119_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/entrevistando-a-appleusos_mf_23380042_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/notas-del-dominio-2_mf_23500480_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast de tecnología, sobre todo en el entorno apple, pero se habla de todo lo que se mundo geek

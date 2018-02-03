@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Mal Vivir"
+date: 2018-01-24 20:20:08
+tags: [Anime]
+categories: [Semanal, Peru]
+preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/300Mal%20vivir%20-%20Diego%20E.S..jpg
+---
+
+![Mal Vivir](https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/500Mal%20vivir%20-%20Diego%20E.S..jpg)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=http://www.ivoox.com/mal-vivir_fg_f1113172_filtro_1.xml-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/mal-vivir-2t-116-la-visita-del-papa_mf_23275770_feed_1.mp3"></audio>
+<!--reproductor-end-->
+
+Programa de radio en linea en el que hablamos de mangas, animes, novelas ligeras y otras cosas relacionadas con este mundo, transmitimos todos los sábados a las 7 pm en JapanNext Radio, hora Perú.  
+
+_ _ _
+<br>
+Autor: **LuxF, Gin, Erico**  
+[web](https://www.facebook.com/malvivirradio/)  
+[Feed](http://www.ivoox.com/mal-vivir_fg_f1113172_filtro_1.xml)  
+
+
+**Contacta:**  
+Twitter: [@MalVivirRadio](https://twitter.com/MalVivirRadio)  
+Correo: [diegoandreestebasardon@gmail.com](mailto:diegoandreestebasardon@gmail.com)  
+

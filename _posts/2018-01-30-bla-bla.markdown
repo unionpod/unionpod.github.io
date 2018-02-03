@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Bla Bla"
+date: 2018-01-30 15:44:15
+tags: [Entretenimiento]
+categories: [Argentina]
+preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/BLABLA-300.jpeg
+---
+
+![Bla Bla](https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/BLABLA-500.jpeg)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=http://www.spreaker.com/show/2824422/episodes/feed-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13920029/jugar.mp3"></audio>
+<!--reproductor-end-->
+
+Una catarsis de emociones humanas.  
+
+_ _ _
+<br>
+Autor: **Pato Lopardo**  
+[Feed](http://www.spreaker.com/show/2824422/episodes/feed)  
+
+
+
+**Contacta:**  
+Twitter: [@patolopardo](https://twitter.com/patolopardo)  
+Correo: [Lopardo.p@gmail.com](mailto:Lopardo.p@gmail.com)  
+

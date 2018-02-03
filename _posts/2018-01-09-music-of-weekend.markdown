@@ -16,7 +16,7 @@ preview: https://ia801503.us.archive.org/23/items/Music500x500EstebanMontoya/Mus
 
 <!--reproductor-feed=http://www.ivoox.com/music-of-weekend_fg_f1455664_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/musica-disco-80-compania_mf_23012949_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/grupos-britanicos-peticiones-directo_mf_23404552_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast de música donde se ponen varios temas para compartir con todos

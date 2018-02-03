@@ -20,7 +20,7 @@ PODCAST semanal de concienzudo análisis y apasionadas diatribas sobre cine, TV,
 
 <!--reproductor-feed=http://poposfera.libsyn.com/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/082_-_Desayunar_con_vino.mp3?dest-id=396222"></audio>
+<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/083_-_Ahora_explota.mp3?dest-id=396222"></audio>
 <!--reproductor-end-->
 
 <br>

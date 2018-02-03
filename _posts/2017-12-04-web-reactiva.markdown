@@ -16,7 +16,7 @@ preview: https://ia800805.us.archive.org/21/items/unionpod/Webreactiva300-Daniel
 
 <!--reproductor-feed=https://www.danielprimo.io/podcast/feed.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13870033/webreactiva_podcast_19.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13923627/webreactiva_podcast_20.mp3"></audio>
 <!--reproductor-end-->
 
 Web Reactiva es un podcast sobre desarrollo web. Te contaré historias que tienen que ver con eso que nos apasiona: la programación web. Recursos, reflexiones y todo el ecosistema de producción web: backend, frameworks, cms, ecommerce, cloud, frontend, programación a medida y más cosas. También hablaremos del negocio que podemos crear en torno a todo este mundo.  

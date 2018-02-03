@@ -1,0 +1,38 @@
+---
+layout: post
+title: "ToJUNTO"
+date: 2018-01-25 19:13:55
+tags: [Entretenimiento]
+categories: [Semanal, USA]
+preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/300-%20Mysia%20Chabert.JPG
+---
+
+![ToJUNTO](https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/500-%20Mysia%20Chabert.JPG)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=http://mysiachabert.libsyn.com/rss-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/mysiachabert/Mas_Que_dosEpd31.mp3?dest-id=506835"></audio>
+<!--reproductor-end-->
+
+TOJUNTO (All together) es un podcast where I will bring you a bit de everything in my life. Amigos, family, variety of guests and topics de todo lo que está around me and current events.  
+
+_ _ _
+<br>
+Autor: **Mysia Chabert**  
+[web](https://www.mysiachabert.com/)  
+[Feed](http://mysiachabert.libsyn.com/rss)  
+
+
+**Puedes escuchar este podcast en:**  
+[Facebook](https://www.facebook.com/MysiaChabertOficial/)  
+
+
+**Contacta:**  
+Twitter: [@MysiaChabert](https://twitter.com/MysiaChabert)  
+Correo: [mysia.chabert@gmail.com](mailto:mysia.chabert@gmail.com)  
+
