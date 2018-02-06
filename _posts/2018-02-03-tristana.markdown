@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Tristana"
+date: 2018-02-03 09:57:59
+tags: [Cultura]
+categories: [Quincenal, Argentina]
+preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/Logo_tristana_producciones_300-TristanaProducciones.jpg
+---
+
+![Tristana](https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/Logo_tristana_producciones_500-TristanaProducciones.jpg)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=http://feeds.soundcloud.com/users/soundcloud:users:112560925/sounds.rss-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/372301631-tristanaproducciones-dominemos-la-tecnologia-2-enchufadas.mp3"></audio>
+<!--reproductor-end-->
+
+Tristana producciones es una productora que surge de la necesidad de generar contenidos con voz propia. Se trata de una forma de resignificar sonidos que han sido olvidados. Rescatar el lenguaje radiofónico, componer desde la belleza musical de la palabra. El arte de la radio y su estética. Un medio expresivo en continuo movimiento, un idioma que se reinventa sin perder su identidad particular. A partir de la creación de piezas radiofónicas y podcast nos proponemos abrir el diálogo. Apelar a la escucha. Respetar el silencio. Decir, crear, manifestar, en definitiva... producir.  
+
+_ _ _
+<br>
+Autor: **Tristana producciones está integrado por Florencia Flores Iborra; Miranda Carrete y Laura Mangialavori.**
+[web](http://tristanaproducciones.com)  
+[Feed](http://feeds.soundcloud.com/users/soundcloud:users:112560925/sounds.rss)  
+
+
+**Puedes escuchar este podcast en:**  
+[Argentina Podcastera](http://www.argentinapodcastera.com.ar/)  
+
+
+**Contacta:**  
+Twitter: [@tristana_prod](https://twitter.com/tristana_prod)  
+Correo: [contacto@tristanaproducciones.com](mailto:contacto@tristanaproducciones.com)  
+
