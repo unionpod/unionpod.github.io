@@ -16,7 +16,7 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/300hcslogo2-Lu
 
 <!--reproductor-feed=http://www.ivoox.com/hablemos-spoilers_fg_f1285937_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://www.ivoox.com/92-hablemos-spoilers-django-sangre-mi_mf_23428900_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://www.ivoox.com/94-hablemos-spoilers-inuyashiki-the-last-hero_mf_23748956_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast dedicado a los spoilers en la cultura popular. También comentamos actualidad, política, fútbol y muchos temas random.

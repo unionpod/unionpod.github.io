@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/LaPizarraDeDoc300.png
 
 <!--reproductor-feed=http://www.ivoox.com/pizarra-de-doc_fg_f1256313_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/a-pyeongchang-2018-la-carrera-la_mf_23426234_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/juegos-olimpicos-juventud-horarios_mf_23685807_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

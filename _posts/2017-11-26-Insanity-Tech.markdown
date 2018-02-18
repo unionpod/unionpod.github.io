@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Android Apple y Más"
+title: "Insanity Tech"
 date: 2017-11-26 15:04:33
 tags: [Tecnología]
 categories: [Mexico, Diario]
-preview: https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/Android-apple-mas300.jpg
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300InsanityTech.jpg
 ---
 
-![Android Apple y Más](https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/Android-apple-mas500.jpg)
+![Android Apple y Más](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/500InsanityTech.jpg)
 
 <br/>
 <br/>
@@ -16,7 +16,7 @@ preview: https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/Android-apple-
 
 <!--reproductor-feed=http://www.spreaker.com/show/2219632/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/13984638/podcast_1517802127.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14083356/imported_1518898608.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast (sin editar) donde intento contarte todo sobre tu smartphone y sistema operativo favorito, así como lo último en Tecnología.  

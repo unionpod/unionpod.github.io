@@ -16,7 +16,7 @@ preview: https://ia801503.us.archive.org/23/items/Music500x500EstebanMontoya/pan
 
 <!--reproductor-feed=https://audioboom.com/channels/4912121.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6602942.mp3?source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6677287.mp3?source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 Un podcast sobre cines y series en el que solo o con amigos nos juntamos para hablar de lo más reciente visto en la pequeña y gran pantalla.

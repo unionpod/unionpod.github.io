@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Tortu_300-Die
 
 <!--reproductor-feed=http://feeds.feedburner.com/LaTortuliaPodcast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://audioboom.com/posts/6610019-balance-tortuliano-1-the-last-jedi.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/tortulia-de-era-enchapada-en_md_23704067_wp_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

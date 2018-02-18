@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Podcast Lab 137"
+date: 2018-02-17 04:34:25
+tags: [Literatura]
+categories: [Mensual, Espana]
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300Lab137.jpg
+---
+
+![Podcast Lab 137](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/500Lab137.jpg)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=http://www.ivoox.com/podcast-lab-137_fg_f1147716_filtro_1.xml-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/farmer-madre-1953-philip-j-farmer-relato-poco_mf_23569323_feed_1.mp3"></audio>
+<!--reproductor-end-->
+
+Proyecto de retribución kármica leyendo cuentos y novelas que sean clásicos dentro del género. Especial atención a los autores Philip K Dick y Stanislaw Lem. Hay varios cuentos del primero (más de 40) y varios libros del ultimo (Ciberíada, Diarios de las Estrellas y Fábulas de Robots). Además cuentos de otros autores y las novelas LaGuerraDeLasSalamandras. (KarelCapek) y ElHacedorDeEstrellas (OlafStapledon).  
+
+_ _ _
+<br>
+Autor: **Mesh_Mescalito**  
+[web](http://www.ivoox.com/podcast-podcast-lab-137_sq_f1147716_1.html)  
+[Feed](http://www.ivoox.com/podcast-lab-137_fg_f1147716_filtro_1.xml)  
+
+
+**Contacta:**
+Twitter: [@mesh_mescalito](https://twitter.com/mesh_mescalito)  
+Correo: [podcastlab137@gmail.com](mailto:podcastlab137@gmail.com)  
+

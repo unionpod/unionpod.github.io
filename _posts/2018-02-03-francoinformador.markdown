@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/F
 
 <!--reproductor-feed=http://feeds.soundcloud.com/users/soundcloud:users:332307216/sounds.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feeds.soundcloud.com/stream/395028198-user-603885931-rusiala-cuenta-regresiva.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feeds.soundcloud.com/stream/400737609-user-603885931-popurri-de-noticias-1.mp3"></audio>
 <!--reproductor-end-->
 
 Noticias destacadas, entrevistas a líderes, innovadores y emprendedores. Mundo tech también tiene un lugar.
