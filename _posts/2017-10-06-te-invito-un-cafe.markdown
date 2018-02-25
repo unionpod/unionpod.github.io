@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Tiuclogo3k-09
 
 <!--reproductor-feed=http://feedpress.me/tiuc-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://tracking.feedpress.it/link/16669/8292228/habitos-te-mantienen-ansiedad-tiuc605_mf_23823475_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://tracking.feedpress.it/link/16669/8372415/ikigai-la-filosofia-para-vivir-plenamente-tiuc610_mf_23995058_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Programa de Desarrollo y Crecimiento Personal que te motivará a enfocarte en todo lo que deseas lograr, y mejorar tu calidad de vida. En cada entrega te facilitamos las mejores herramientas para iniciar cada día con las baterías recargadas y con mucho ánimo. Es producido y conducido por Robert Sasuke, Consultor en Desarrollo Humano y Emprendimiento.  

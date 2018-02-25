@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Conciencia Virtual"
+date: 2018-02-24 13:05:25
+tags: [Tecnología]
+categories: [Quincenal, Venezuela]
+preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/300concienciaVirtual-ConcienciaVirtual.png
+---
+
+![Conciencia Virtual](https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/500concienciaVirtual-ConcienciaVirtual.png)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=https://anchor.fm/s/28d9530/podcast/rss-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/28d9530/podcast/play/149757/http%3A%2F%2Fpodcastcdn-19.ivoox.com%2Faudio%2F6%2F9%2F6%2F0%2Fep7vulnerabilidadesantivirustiposata-concienciavirtual-ivoox22340696.mp3%3Fsecure%3DhyDeISevMJMGK2e47tZ5Uw%3D%3D%2C1519326938"></audio>
+<!--reproductor-end-->
+
+Podcast enfocado en la Tecnología, desde una perspectiva más Social. Asesorando a las personas que no conocen del mundo de la Internet para su mayor provecho, promoviendo la Seguridad Informática y un mejor uso de las herramientas tecnológicas de nuestro alcance por medio de las ultimas noticias en tendencia.
+
+_ _ _
+<br>
+Autor: **Jean Carlos Gutierrez, Zikiu Ferrer**  
+[web](https://www.instagram.com/concienciavirtual/)  
+[Feed](https://anchor.fm/s/28d9530/podcast/rss)  
+
+
+**Contacta:**  
+Twitter: [@concienciavirt](https://twitter.com/concienciavirt)  
+Correo: [concienciavirtualve@gmail.com](mailto:concienciavirtualve@gmail.com)  
+

@@ -4,10 +4,10 @@ title:  "Vacia tu bandeja"
 date:   2017-08-02 15:39:40
 tags: [Salud]
 categories: [Espana, Quincenal]
-preview: https://ia601505.us.archive.org/4/items/unionpod/VTBandeja300.jpg
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/VTB300.jpg
 ---
 
-![Vacia tu bandeja](http://vaciatubandeja.com/images/Logo400x400.jpg)  
+![Vacia tu bandeja](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/VTB500.jpg)  
 
 <br/>  
 <br/>  
@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/VTBandeja300.jpg
 
 <!--reproductor-feed=https://feeds.feedburner.com/Vaciatubandeja-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Vaciatubandeja/~5/4mxgOwvXiS0/6642655.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Vaciatubandeja/~5/Nh9JBipd-jU/6684219.mp3"></audio>
 <!--reproductor-end-->
 
 **Vacía Tu Bandeja** es un podcast sobre organización personal y creación de hábitos. Está basado en mi experiencia personal a lo largo de los años. El objetivo es compartir todo lo que he aprendido para poder ayudar a otras personas a ser mas organizadas y a crear los hábitos adecuados para ello. 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Aprende hoy"
+title: "¿Ya lo Sabías?"
 date: 2017-11-30 09:20:06
 tags: [Entretenimiento]
 categories: [Mexico]
-preview: https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/AprendeHoy300.jpg
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300yaLoSabias.jpeg
 ---
 
-![Aprende hoy](https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/AprendeHoy500.jpg)
+![¿Ya lo Sabías?](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/500yaLoSabias.jpeg)
 
 <br/>
 <br/>
@@ -16,7 +16,7 @@ preview: https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/AprendeHoy300.
 
 <!--reproductor-feed=http://www.spreaker.com/show/2747199/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14077050/imported_1518874727.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14134952/imported_1519505110.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast muy relajado e informal de todo y mucho más para que... Ya NO te aburras.  

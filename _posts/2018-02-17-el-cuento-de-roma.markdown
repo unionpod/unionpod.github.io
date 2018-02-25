@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 
 <!--reproductor-feed=http://wps.abelakay.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/elcuentoderoma/content.blubrry.com/elcuentoderoma/Episodio_047-La_Batalla_de_Sentino.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/elcuentoderoma/content.blubrry.com/elcuentoderoma/Episodio_049-Manio_Curio_Dentato.mp3"></audio>
 <!--reproductor-end-->
 
 Roma antigua — mitad podcast, mitad audionovela.  

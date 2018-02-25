@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=https://anchor.fm/s/1409394/podcast/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/1409394/podcast/play/128533/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-data%2Fstationexports%2Fpodcasts%2FLibro-19---u201cLo-que-sucedi--e18f22053ad32.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/1409394/podcast/play/140777/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-data%2Fstationexports%2Fpodcasts%2FLibro-20---u201cCuando-sale-la-511e7d8e71415.m4a"></audio>
 <!--reproductor-end-->
 
 Un podcast de libros en el que leo en voz alta las primeras páginas de libros nuevos publicados en España.  
