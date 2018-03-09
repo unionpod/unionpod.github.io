@@ -4,10 +4,10 @@ title:  "Ni Aunque Me Lo Pidas de Rodillas"
 date:   2017-08-05 15:39:40
 tags: [Música]
 categories: [Argentina, Mensual]
-preview: https://ia601505.us.archive.org/4/items/unionpod/derodillas.jpg
+preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/rodillas300.png
 ---
 
-![Ni Aunque Me Lo Pidas de Rodillas](https://archive.org/download/unionpod/derodillas500.jpg)  
+![Ni Aunque Me Lo Pidas de Rodillas](https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/rodillas500.png)
 
 <br/>  
 <br/>  

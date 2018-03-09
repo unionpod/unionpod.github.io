@@ -4,10 +4,10 @@ title: "Pantalla Geek"
 date: 2018-01-20 12:51:38
 tags: [Cine]
 categories: [Mensual, Costa_Rica]
-preview: https://ia801503.us.archive.org/23/items/Music500x500EstebanMontoya/pantallageek%20300%20-%20Pantalla%20Geek.jpg
+preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/PantallaGeek300.png
 ---
 
-![Pantalla Geek](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/pantallageek%20500%20-%20Pantalla%20Geek.jpg)
+![Pantalla Geek](https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/PantallaGeek500.png)
 
 <br/>
 <br/>

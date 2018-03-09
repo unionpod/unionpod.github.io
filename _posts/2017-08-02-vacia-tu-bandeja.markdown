@@ -4,10 +4,10 @@ title:  "Vacia tu bandeja"
 date:   2017-08-02 15:39:40
 tags: [Salud]
 categories: [Espana, Quincenal]
-preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/VTB300.jpg
+preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/VTB300.jpg
 ---
 
-![Vacia tu bandeja](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/VTB500.jpg)  
+![Vacia tu bandeja](https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/VTB500.jpg)  
 
 <br/>  
 <br/>  

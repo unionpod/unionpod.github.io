@@ -4,10 +4,10 @@ title:  "Unión Podcastera"
 date:   2017-09-06 15:39:40
 tags: [Arte]
 categories: [Varios-países, Quincenal]
-preview: https://ia601505.us.archive.org/4/items/unionpod/Unionpod300.jpg
+preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/UP300.png
 ---
 
-![Unión Podcastera](https://archive.org/download/unionpod/Unionpod500.jpg)  
+![Unión Podcastera](https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/UP500.png)  
 
 <br/>  
 <br/>  

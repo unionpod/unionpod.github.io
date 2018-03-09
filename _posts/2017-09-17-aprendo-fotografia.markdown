@@ -4,10 +4,10 @@ title: "Aprendo Fotografía"
 date: 2017-09-17 18:19:27
 tags: [Fotografía]
 categories: [Argentina, Quincenal]
-preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Caratula300-JavierGonzlez.jpg
+preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/foto300.png
 ---
 
-![Aprendo Fotografía](https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Caratula500-JavierGonzlez.jpg)
+![Aprendo Fotografía](https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/foto500.png)
 
 <br/>
 <br/>
