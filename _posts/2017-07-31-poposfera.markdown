@@ -20,7 +20,7 @@ PODCAST semanal de concienzudo análisis y apasionadas diatribas sobre cine, TV,
 
 <!--reproductor-feed=http://poposfera.libsyn.com/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/086_-_Churro_al_plato.mp3?dest-id=396222"></audio>
+<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/088_-_Lo_peor_de_Shakespeare.mp3?dest-id=396222"></audio>
 <!--reproductor-end-->
 
 <br>

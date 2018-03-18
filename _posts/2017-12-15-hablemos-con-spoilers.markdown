@@ -16,7 +16,7 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/300hcslogo2-Lu
 
 <!--reproductor-feed=http://www.ivoox.com/hablemos-spoilers_fg_f1285937_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/95-hablemos-spoilers-amores-perros-la_mf_23921665_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://www.ivoox.com/97-hablemos-spoilers-devilman-crybaby_mf_24360273_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast dedicado a los spoilers en la cultura popular. También comentamos actualidad, política, fútbol y muchos temas random.

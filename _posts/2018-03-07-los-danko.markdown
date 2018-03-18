@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Los Danko"
+date: 2018-03-07 08:22:03
+tags: [Humor]
+categories: [Quincenal, Espana]
+preview: https://ia601500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/300%20LosDanko_Ivoox%20-%20Sam%20Saiz.jpg
+---
+
+![Los Danko](https://ia601500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/500%20LosDanko_Ivoox%20-%20Sam%20Saiz.jpg)
+
+<br/>
+<br/>
+
+## Escucha el último episodio
+
+<!--reproductor-feed=http://losdanko.podomatic.com/rss2.xml-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="http://losdanko.podOmatic.com/enclosure/2018-03-02T02_00_00-08_00.mp3"></audio>
+<!--reproductor-end-->
+
+¿Qué tendrán Los Danko para que artistas como Mario Vaquerizo, Toteking o la propia MTV se acerquen a su universo? 
+El Pelos y Sam Danko te traen una visión alternativa y desdenfadada de la realidad, episodios divertidos e inesperados sobre lo actual, lo humano, y lo divino. Un show alternativo y único, no vinculado a ningún ente mediático, libre de censuras y tabús... 
+Desde 2008 innovando, con un humor muy particular e inimitable, han traspasado las barreras del podcasting en numerosas ocasiones a través de actuaciones, directos, emisoras de radio como Ona Sants o ScannerFM, ...¡e incluso se han atrevido a destripar vídeos musicales en MTV España! 
+Más de 1.000.000 de descargas de sus programas, número 1 en Itunes, Trending topic en Twitter o premios nacionales de Podcasting atesoran un estilo inconfundible que engancha desde el primer minuto. 
+Nancys Rubias, Arkano, Eva Santolaria, Porta, Teo Rodríguez o Rafael Amargo son solo algunos de los entrevistados que han sucumbido a las preguntas humanas e irreverentes de Los Danko... 
+...Donde otros no llegan, Los Danko se pasan.  
+
+_ _ _
+<br>
+Autor: **El Pelos y Sam Danko**  
+[web](http://losdanko.com/)  
+[Feed](http://losdanko.podomatic.com/rss2.xml)  
+
+
+**Contacta:**  
+Twitter: [@losdanko](https://twitter.com/losdanko)  
+Correo: [losdanko@hotmail.com](mailto:losdanko@hotmail.com)  
+

@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Desdelabarrad
 
 <!--reproductor-feed=http://www.spreaker.com/show/1409607/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14122584/novedades_de_mega_evento.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14292335/novedades_de_nokia.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

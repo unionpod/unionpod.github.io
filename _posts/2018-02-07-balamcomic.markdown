@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://feeds.feedburner.com/balamcomic-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/balamcomic/~5/2Rq5IcV8PPw/Alberto-Calvo-en-BalamComic-2405.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/balamcomic/~5/RGBaz4H7AHY/Martin-Paz-Romero-Habla-de-Tableta-Digitales-BalamComic-9607.mp3"></audio>
 <!--reproductor-end-->
 
 En BalamComic platico con dibujantes y artistas, donde me cuentan su historia de como se formaron y lucharon para alcanzar su sueño, vivir de su arte.  

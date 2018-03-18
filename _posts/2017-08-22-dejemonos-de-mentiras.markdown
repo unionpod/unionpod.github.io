@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Ddm300-LuisPo
 
 <!--reproductor-feed=http://dejemonosdementiras.com/wp/media-rss/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://dejemonosdementiras.com/wp/wp-content/uploads/2017/12/DDM-46-Familia-Linaje-y-Politica.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://dejemonosdementiras.com/wp/wp-content/uploads/2018/03/DDM-47-Hablando-De-Boxeo-Con-Diego.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
