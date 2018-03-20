@@ -16,7 +16,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://feeds.feedburner.com/desdeboxes-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/desdeboxes/~5/ccq-MzrWr7g/desde-boxes-2017-327-resumen-temporada-2017_md_22449823_wp_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/desdeboxes/~5/QXwgFeCYt0c/previo-gp-australia-2018_md_24598142_wp_1.mp3"></audio>
 <!--reproductor-end-->
 
 El podcast de Formula 1 hecho por aficionados para aficionados.  

@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 
 <!--reproductor-feed=http://pe.ivoox.com/es/panic-room-podcast_fg_f1323479_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://pe.ivoox.com/es/episodio-34-black-panther_mf_23997449_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://pe.ivoox.com/es/episodio-35-annihilation-vision-alex_mf_24603766_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Proyecto de podcast sobre arte popular en general. Hablamos de cómics, películas, música, libros, series... De todo un poco para todos los gustos.  

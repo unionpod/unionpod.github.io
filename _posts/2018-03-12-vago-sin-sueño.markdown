@@ -16,7 +16,7 @@ preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/300%20-
 
 <!--reproductor-feed=http://www.ivoox.com/vago-sin-sueno_fg_f1452022_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/10-improvisacion-rap-amistad-soporte-alterno_mf_24156915_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/11-un-crossover-amigos-arenales_mf_24586932_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast quincenal de entrevistas a proyectos artísticos, culturales y musicales independientes.  
