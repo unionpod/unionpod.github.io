@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Barbudos-Barbados-300.
 
 <!--reproductor-feed=http://lapatadafm.com/barbudosbarbados?format=rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://static1.squarespace.com/static/577fb181197aead0eb96ef42/t/5a9e7f490d9297fd81a8e86c/1520336929801/Barbudos+Barbados+%2315.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://static1.squarespace.com/static/577fb181197aead0eb96ef42/t/5abad8daaa4a99a0ab39e954/1522194769029/Barbudos+Barbados+S2E02.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

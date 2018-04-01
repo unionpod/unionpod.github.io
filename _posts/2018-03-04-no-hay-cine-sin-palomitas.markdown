@@ -16,7 +16,7 @@ preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/LOGOver
 
 <!--reproductor-feed=http://www.ivoox.com/podcast-no-hay-cine-sin-palomitas_fg_f1178206_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/no-hay-cine-sin-palomitas-079-la_mf_24589768_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/no-hay-cine-sin-palomitas-080-ready_mf_24959248_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Un podcast de cine de estreno. A veces hacemos especiales de alguna temática, actor o director de cine.  

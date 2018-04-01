@@ -21,7 +21,7 @@ Somos un podcast independiente que cuenta relatos de no ficción. Historias que 
 
 <!--reproductor-feed=http://feeds.soundcloud.com/users/soundcloud:users:255016072/sounds.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feeds.soundcloud.com/stream/412335561-las_raras_podcast-un-secreto-mil-secretos.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://cuonda.com/las-raras-podcast/un-secreto-mil-secretos/817843.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

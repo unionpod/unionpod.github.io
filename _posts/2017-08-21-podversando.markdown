@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Podversando-u
 
 <!--reproductor-feed=https://feed.pippa.io/public/shows/podversando-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feed.pippa.io/public/streams/5988f35f169e4a172309fd98/episodes/5991c9cfd313d7440335d9a4.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://feed.pippa.io/public/streams/5988f35f169e4a172309fd98/episodes/5991c9cfd313d7440335d9a4.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

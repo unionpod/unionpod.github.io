@@ -16,7 +16,7 @@ preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/Wapa300
 
 <!--reproductor-feed=https://rss.simplecast.com/podcasts/4571/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://dts.podtrac.com/redirect.mp3/audio.simplecast.com/815548ec.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://dts.podtrac.com/redirect.mp3/audio.simplecast.com/b6c9870d.mp3"></audio>
 <!--reproductor-end-->
 
 El Podcast de Wapa 2 Deportes es un podcast semanal donde se discuten diferentes noticias del mundo del deporte y los comentarios de los seguidores de Wapa 2 Deportes son los que mueven la conversación. También entrevistamos a diferentes personalidades del deporte en Puerto Rico.  

@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://www.spreaker.com/show/2836167/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14259498/superlunes_17_les_brown.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14380785/superlunes_18_eric_hoffer.mp3"></audio>
 <!--reproductor-end-->
 
 Comienza la semana con una frase motivadora que te ayude a enfocarte en tus metas.

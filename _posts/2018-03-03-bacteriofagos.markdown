@@ -16,7 +16,7 @@ preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/Bacteri
 
 <!--reproductor-feed=http://feedpress.me/bacteriofagos-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/16632/8536301/episodio25.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/16632/8677220/episodio26.mp3"></audio>
 <!--reproductor-end-->
 
 Un podcast sobre curiosidades biológicas y actualidad científica para todos los públicos.  
