@@ -19,14 +19,14 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 <audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/ep-3-el-presidente-vizcarra_mf_24774184_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
-20 episodios acerca de la coyuntura política luego de la renuncia de Pedro Pablo Kuczynski a la presidencia de Perú.
+20 episodios acerca de la coyuntura política luego de la renuncia de Pedro Pablo Kuczynski a la presidencia de Perú.  
 
 _ _ _
 <br>
-Autor: **Enrique Durand**
-[Feed](http://www.ivoox.com/consecuencias-21m_fg_f1560435_filtro_1.xml)
+Autor: **Enrique Durand**  
+[Feed](http://www.ivoox.com/consecuencias-21m_fg_f1560435_filtro_1.xml)  
 
 
-**Contacta:**
-Correo: [lasonceradio@gmail.com](mailto:lasonceradio@gmail.com)
+**Contacta:**  
+Correo: [lasonceradio@gmail.com](mailto:lasonceradio@gmail.com)  
 

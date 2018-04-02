@@ -4,10 +4,10 @@ title: "Lleno De Dudas"
 date: 2018-03-09 09:10:34
 tags: [Cultura, Entretenimiento]
 categories: [Semanal, Uruguay]
-preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/LdD_podcast%20300-%20Juan%20Amor%C3%ADn.png
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Ldd_podcast300-JuanAmorn.png
 ---
 
-![Lleno De Dudas](https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/LdD_podcast%20500-%20Juan%20Amor%C3%ADn.png)
+![Lleno De Dudas](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Ldd_podcast500-JuanAmorn.png)
 
 <br/>
 <br/>

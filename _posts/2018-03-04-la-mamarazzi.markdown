@@ -4,10 +4,10 @@ title: "La Mamarazzi"
 date: 2018-03-04 01:49:59
 tags: [Fotografía]
 categories: [Espana]
-preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/Mamarazzi%20300-%20Sandra.jpeg
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Mamarazzi300-Sandra.jpeg
 ---
 
-![La Mamarazzi](https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/Mamarazzi%20500-%20Sandra.jpeg)
+![La Mamarazzi](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Mamarazzi500-Sandra.jpeg)
 
 <br/>
 <br/>

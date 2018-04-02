@@ -4,10 +4,10 @@ title: "Langoy Podcast"
 date: 2018-03-19 06:13:44
 tags: [Cultura, Social]
 categories: [Semanal, Peru]
-preview: https://ia601500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/langoy300.png
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/langoy300.png
 ---
 
-![Langoy Podcast](https://ia601500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/langoy500.png)
+![Langoy Podcast](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/langoy500.png)
 
 <br/>
 <br/>
@@ -19,7 +19,7 @@ preview: https://ia601500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/langoy3
 <audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/langoy-141-animacion-nuestra-infancia_mf_24888839_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
-Un podcast sobre cultura pop, coyuntura nacional y política.
+Un podcast sobre cultura pop, coyuntura nacional y política.  
 
 _ _ _
 <br>

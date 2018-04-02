@@ -4,10 +4,10 @@ title: "No Hay Cine Sin Palomitas"
 date: 2018-03-04 01:54:48
 tags: [Cine]
 categories: [Semanal, Espana]
-preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/LOGOvertical_300%20NoHayCine%20SinPalomitas.png
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Logovertical_300NohaycineSinpalomitas.png
 ---
 
-![No Hay Cine Sin Palomitas](https://ia601500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/LOGOvertical_500%20NoHayCine%20SinPalomitas.png)
+![No Hay Cine Sin Palomitas](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Logovertical_500NohaycineSinpalomitas.png)
 
 <br/>
 <br/>

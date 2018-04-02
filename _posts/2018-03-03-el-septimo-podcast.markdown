@@ -4,10 +4,10 @@ title: "El Séptimo Podcast"
 date: 2018-03-03 22:13:26
 tags: [Cine,  Series]
 categories: [Argentina]
-preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/300%20Nuyevo%20Logo-01%20-%20Tomas%20Fenili.jpg
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300NuyevoLogo-01-TomasFenili.jpg
 ---
 
-![El Séptimo Podcast](https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/500%20Nuyevo%20Logo-01%20-%20Tomas%20Fenili.jpg)
+![El Séptimo Podcast](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/500NuyevoLogo-01-TomasFenili.jpg)
 
 <br/>
 <br/>

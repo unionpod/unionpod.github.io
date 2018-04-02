@@ -4,10 +4,10 @@ title: "Un Disque Podcast"
 date: 2018-02-26 21:09:26
 tags: [Entretenimiento]
 categories: [Semanal, Peru]
-preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/logo-itunes%20300%20-%20Un%20Disque%20Podcast.jpg
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Logo-itunes300-UnDisquePodcast.jpg
 ---
 
-![Un Disque Podcast](https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/logo-itunes%20500-%20Un%20Disque%20Podcast.jpg)
+![Un Disque Podcast](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Logo-itunes500-UnDisquePodcast.jpg)
 
 <br/>
 <br/>

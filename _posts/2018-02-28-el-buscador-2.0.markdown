@@ -4,10 +4,10 @@ title: "El Buscador 2.0"
 date: 2018-02-28 10:15:51
 tags: [Social]
 categories: [Semanal, Espana]
-preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/el%20buscador%202.0%20-300-%20Pedro%20Garc%C3%ADa%20Recover.jpg
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/ElBuscador2.0-300-PedroGarcaRecover.jpg
 ---
 
-![El Buscador 2.0](https://ia601500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/el%20buscador%202.0%20-500-%20Pedro%20Garc%C3%ADa%20Recover.jpg)
+![El Buscador 2.0](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/ElBuscador2.0-500-PedroGarcaRecover.jpg)
 
 <br/>
 <br/>

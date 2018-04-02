@@ -4,10 +4,10 @@ title: "Bacteriófagos"
 date: 2018-03-03 09:11:41
 tags: [Ciencia]
 categories: [Quincenal, Suiza]
-preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/Bacteriofagos300-%20Emilio%20Cano.png
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Bacteriofagos300-EmilioCano.png
 ---
 
-![Bacteriófagos](https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/Bacteriofagos500-%20Emilio%20Cano.png)
+![Bacteriófagos](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Bacteriofagos500-EmilioCano.png)
 
 <br/>
 <br/>

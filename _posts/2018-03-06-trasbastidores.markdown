@@ -4,10 +4,10 @@ title: "Trasbastidores"
 date: 2018-03-06 11:07:58
 tags: [Arte]
 categories: [Puerto_Rico]
-preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/300%20Trasbastidores%20-%20Eliezer%20Rivera.jpg
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300Trasbastidores-EliezerRivera.jpg
 ---
 
-![Trasbastidores](https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/500%20Trasbastidores%20-%20Eliezer%20Rivera.jpg)
+![Trasbastidores](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/500Trasbastidores-EliezerRivera.jpg)
 
 <br/>
 <br/>

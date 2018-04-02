@@ -4,10 +4,10 @@ title: "Vago sin Sueño"
 date: 2018-03-12 14:21:47
 tags: [Entrevistas]
 categories: [Quincenal, Peru]
-preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/300%20-%20Vago%20Sin%20Sue%C3%B1o.jpg
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300-VagoSinSueo.jpg
 ---
 
-![Vago sin Sueño](https://ia601500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/500%20-%20Vago%20Sin%20Sue%C3%B1o.jpg)
+![Vago sin Sueño](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/500-VagoSinSueo.jpg)
 
 <br/>
 <br/>

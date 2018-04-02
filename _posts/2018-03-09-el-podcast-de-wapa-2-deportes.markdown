@@ -4,10 +4,10 @@ title: "El Podcast de Wapa 2 Deportes"
 date: 2018-03-09 13:57:57
 tags: [Deportes]
 categories: [Semanal, Puerto_Rico]
-preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/Wapa300-%20Julio%20Axel%20Ponce.png
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Wapa300-JulioAxelPonce.png
 ---
 
-![El Podcast de Wapa 2 Deportes](https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/Wapa500-%20Julio%20Axel%20Ponce.png)
+![El Podcast de Wapa 2 Deportes](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Wapa500-JulioAxelPonce.png)
 
 <br/>
 <br/>

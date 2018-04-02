@@ -19,16 +19,16 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 <audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/ivoox/xFvF/~5/zuucqeTlI74/dc-oficialista-9-krypton-otras-yerbas_mf_24793696_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
-Ultimas noticias del mundo DC, comics, peliculas, videojuegos. La vida por los colores que elegimos defender desde niños.
+Ultimas noticias del mundo DC, comics, peliculas, videojuegos. La vida por los colores que elegimos defender desde niños.  
 
 _ _ _
 <br>
-Autor: **Porou, Juli, Marian e invitados frecuentes**
-[Feed](http://feeds.feedburner.com/ivoox/xFvF)
+Autor: **Porou, Juli, Marian e invitados frecuentes**  
+[Feed](http://feeds.feedburner.com/ivoox/xFvF)  
 
 
 
-**Contacta:**
-Twitter: [@DCoficialista](https://twitter.com/DCoficialista)
-Correo: [dcoficialista@gmail.com](mailto:dcoficialista@gmail.com)
+**Contacta:**  
+Twitter: [@DCoficialista](https://twitter.com/DCoficialista)  
+Correo: [dcoficialista@gmail.com](mailto:dcoficialista@gmail.com)  
 

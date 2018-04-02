@@ -4,10 +4,10 @@ title: "Corta Corriente"
 date: 2018-03-12 19:36:54
 tags: [Social, Género]
 categories: [Quincenal, Costa_Rica]
-preview: https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/Cortacorriente%20300-%20Jason%20Salas.jpeg
+preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Cortacorriente300-JasonSalas.jpeg
 ---
 
-![Corta Corriente](https://ia801500.us.archive.org/4/items/500LosDankoIvooxSamSaiz/Cortacorriente%20500-%20Jason%20Salas.jpeg)
+![Corta Corriente](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Cortacorriente500-JasonSalas.jpeg)
 
 <br/>
 <br/>
