@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=https://anchor.fm/s/28d9530/podcast/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/28d9530/podcast/play/149757/http%3A%2F%2Fpodcastcdn-19.ivoox.com%2Faudio%2F6%2F9%2F6%2F0%2Fep7vulnerabilidadesantivirustiposata-concienciavirtual-ivoox22340696.mp3%3Fsecure%3DhyDeISevMJMGK2e47tZ5Uw%3D%3D%2C1519326938"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/28d9530/podcast/play/407718/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-audio-bank%2Fstaging%2F2018-3-14%2F-Ep8-Concurso-Interpodcast2018-5c74cfa2a0c18.m4a"></audio>
 <!--reproductor-end-->
 
 Podcast enfocado en la Tecnología, desde una perspectiva más Social. Asesorando a las personas que no conocen del mundo de la Internet para su mayor provecho, promoviendo la Seguridad Informática y un mejor uso de las herramientas tecnológicas de nuestro alcance por medio de las ultimas noticias en tendencia.

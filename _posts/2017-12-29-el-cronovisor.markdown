@@ -16,7 +16,7 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/300logoPodcast
 
 <!--reproductor-feed=http://www.ivoox.com/cronovisor_fg_f1328897_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://www.ivoox.com/cronovisor-programa-41-especial-dia-la_mf_24278315_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/cronovisor-programa-41-especial-dia-la_mf_24278315_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 El Cronovisor, es un espacio radiofónico de carácter divulgativo que acerca al público, de manera accesible, cuestiones relacionadas con nuestra historia, la ciencia y la investigación científica.

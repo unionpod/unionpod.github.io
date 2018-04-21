@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 
 <!--reproductor-feed=http://www.spreaker.com/show/2219632/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14418140/imported_1522126692.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14590857/amazon_y_mas_amazon_excelente_y_pesima_noticia.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast (sin editar) donde intento contarte todo sobre tu smartphone y sistema operativo favorito, así como lo último en Tecnología.  

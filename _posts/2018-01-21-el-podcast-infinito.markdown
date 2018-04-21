@@ -16,7 +16,7 @@ preview: https://ia801503.us.archive.org/23/items/Music500x500EstebanMontoya/pod
 
 <!--reproductor-feed=http://pe.ivoox.com/es/podcast-infinito_fg_f1277999_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://pe.ivoox.com/es/podcast-infinito-52-romulo-assereto-oscar_mf_24599550_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://pe.ivoox.com/es/podcast-infinito-53-patricia-barreto-nomedigassolterona_mf_25092033_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Desde Perú, Luis M. Santa Cruz y sus invitados conversan sobre cosas nerd y cultura pop dentro de tus orejas.

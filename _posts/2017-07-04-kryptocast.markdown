@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Kryptocast%20
 
 <!--reproductor-feed=http://feeds.feedburner.com/kryptocast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://ar.ivoox.com/es/final-kryptocast_mf_23156376_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/final-kryptocast_mf_23156376_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

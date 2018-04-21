@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Tnakzcmj_300-
 
 <!--reproductor-feed=http://www.spreaker.com/user/9493208/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14316074/mejores_auriculares_menos_50euros_mf_24584139_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14434631/mis_impresiones_sobre_ipad_2018_xiaomi_mi_mf_24983112_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Lamesadelgeek es un podcast de tecnología en el que subimos episodios cortos y amenos sobre ellas e intentamos escuchar y disponer al oyente de todas las soluciones posibles.

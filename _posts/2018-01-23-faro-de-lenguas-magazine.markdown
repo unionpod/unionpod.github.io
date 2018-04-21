@@ -16,7 +16,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://www.ivoox.com/faro-lenguas-magazine_fg_f1408919_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/blanca-s-interview-you-can-learn-spanish-watching-movies_mf_24376012_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/hablemos-experiencias-episodio-1_mf_25367573_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcasts con variedad de contenidos y secciones destinado a aprendices de español como lengua extranjera.  

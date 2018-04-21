@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/eramagazine30
 
 <!--reproductor-feed=http://www.ivoox.com/era-magazine_fg_f1414152_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/203-7-minutos-al-dia-capitulo-17_mf_24934175_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/215-mallorca-live-festival_mf_25490875_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>

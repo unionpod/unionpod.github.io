@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Turnocuatro30
 
 <!--reproductor-feed=http://www.ivoox.com/podcast-turno-cu4tro_fg_f157353_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/turno-cu4tro-temporada-06-episodio-10_mf_24751158_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/turno-cu4tro-temporada-06-episodio-11_mf_25116717_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

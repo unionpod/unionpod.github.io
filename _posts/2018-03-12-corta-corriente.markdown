@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Cor
 
 <!--reproductor-feed=https://rss.simplecast.com/podcasts/4418/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audio.simplecast.com/4576ddcc.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audio.simplecast.com/718e399a.mp3"></audio>
 <!--reproductor-end-->
 
 Desde hoy las locas toman los micrófonos para homosexualizar el país. Ser miembro de la comunidad LGBTIQ en un país del tercer mundo no es nada fácil, que lo diga Juanga ( que de Dios goce) y en Costa Rica es a veces catastrófico, pero en la diversidad está el sabor; de ahí nace corta corriente, con la energía de la comunidad más maravillosa de todas con su diversidad de voces.  
