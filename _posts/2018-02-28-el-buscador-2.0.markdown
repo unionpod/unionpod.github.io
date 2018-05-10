@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/ElB
 
 <!--reproductor-feed=http://www.spreaker.com/show/2743802/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14513935/aliber_alianza_iberoamericana_de_afectados_por_enfermedades_raras.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14618166/el_color_violeta_con_lola_pinel.mp3"></audio>
 <!--reproductor-end-->
 
 Un espacio donde ponemos atención en cuestiones que enriquecen nuestro día a día. Lo social es un copecto amplio: educación, asociaciones, empleo, derechos...Te esperamos, así que..., !síguenos!!  

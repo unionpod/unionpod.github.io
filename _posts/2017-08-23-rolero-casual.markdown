@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Logo_1140-Azr
 
 <!--reproductor-feed=http://feeds.feedburner.com/RoleroCasual-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/RoleroCasual/~5/aOYOtOtC3jI/Rolero%20Casual%20-%20Episodio%2013.a%20-%20Narratividad%20y%20Recursos%20-%20Potencial%20Millonario%20-%20Interpodacast2018.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/RoleroCasual/~5/vbx3SiS1RC4/interpodcast_2018_rolero_casual_by_tal_vez_me_mf_25140665_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

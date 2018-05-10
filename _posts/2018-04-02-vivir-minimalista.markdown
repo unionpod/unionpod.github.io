@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Vivi
 
 <!--reproductor-feed=https://vivirminimalista.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://vivirminimalista.podbean.com/mf/feed/w267r2/Episodio_6_Formar_nuevos_habitos.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://vivirminimalista.podbean.com/mf/feed/9wdsny/Episodio_9_Qu_es_el_mindfulness.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast semanal sobre el estilo de vida minimalista y mindfulness.  

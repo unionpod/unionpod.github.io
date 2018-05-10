@@ -16,7 +16,7 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/300logo_improm
 
 <!--reproductor-feed=http://feeds.feedburner.com/Imprompturicensis-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://dts.podtrac.com/redirect.mp3/www.jyestudio.com/imprompturicensis/podcast/Interpodcast2018_IMP_Repope.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://dts.podtrac.com/redirect.mp3/www.jyestudio.com/imprompturicensis/podcast/interpodcast2018-una-luz-roja-imitando-a-imprompturicensis.mp3"></audio>
 <!--reproductor-end-->
 
 Show de improvisación y comedia grabado en vivo donde los artistas tienen el reto de crear escenas como si las estuvieras escuchando en la radio

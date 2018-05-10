@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Movimientogeek300.jpg
 
 <!--reproductor-feed=https://www.ivoox.com/movimientogeek_fg_f1292042_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/viernes-motorola-ya-presento-sus-terminales-de_mf_25536046_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/hoy-tratamos-evento-google-i-o-2018_mf_25889491_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

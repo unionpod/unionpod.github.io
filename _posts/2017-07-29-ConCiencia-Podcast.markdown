@@ -21,7 +21,7 @@ Un Podcast de religión, para aquellos que desagradan de la religión. **ConCien
 
 <!--reproductor-feed=Http://concienciamedia.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/conciencia/content.blubrry.com/conciencia/CC_39_biblia_unicamente_y_adherir_al_caNON_.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/conciencia/content.blubrry.com/conciencia/interpodcast2018_Logos.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

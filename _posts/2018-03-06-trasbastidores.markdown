@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 
 <!--reproductor-feed=http://www.spreaker.com/show/2852333/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14299714/julio_angel.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14649952/christopher_nomar.mp3"></audio>
 <!--reproductor-end-->
 
 Trasbastidores es un podcast dedicado al arte donde encontrarás entrevistas que revelan una historia detrás de la pasión de cada entrevistador. ¡Así que ven y pasa trasbastidores!  

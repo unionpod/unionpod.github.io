@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Entiendetumen
 
 <!--reproductor-feed=http://feeds.feedburner.com/EntiendeTuMente-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14526181/etm_46_ap_psicologia_02.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14647851/etm_49_el_sindrome_del_impostor.mp3"></audio>
 <!--reproductor-end-->
 
 <br>
