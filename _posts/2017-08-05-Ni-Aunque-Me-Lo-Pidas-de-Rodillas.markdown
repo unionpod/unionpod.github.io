@@ -13,7 +13,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/r
 <br/>  
 
 
-### Escucha el último episodio  
+### Escucha su más reciente episodio  
 
 <!--reproductor-feed=https://audioboom.com/channels/4816287.rss-->
 <!--reproductor-start-->
@@ -35,10 +35,3 @@ Autor: **@patolopardo, @jcc846 y @davicitoloco**
 
 **Contacta:**  
 Twitter: [@derodillaspod](https://twitter.com/@derodillaspod)  
-
-
-
-
-
-
-

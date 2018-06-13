@@ -12,11 +12,11 @@ preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300legi
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://mx.ivoox.com/es/legion-gamer-podcast_fg_f1472757_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://mx.ivoox.com/es/legion-gamer-podcast-20-gaminforme-semanal-gamefemerides_mf_25844663_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://mx.ivoox.com/es/legion-gamer-podcast-24-gaminforme-semanal-gamefemerides_mf_26447265_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Un podcast enfocado en discutir cualquier suceso, título, y personalidad relevante a los videojuegos, con los particulares puntos de vista de cada participante, para mantener la animosidad y dinámica entre bromas y noticias, de manera semanal.  
@@ -32,4 +32,3 @@ Autor: **Amaury Parra Abreu, Amauris Vargas, Miguel Herasme, Kevin Cruz, Diego B
 **Contacta:**  
 Twitter: [@LegionGamerRD](https://twitter.com/LegionGamerRD)  
 Correo: [ryuken.apa@gmail.com](mailto:ryuken.apa@gmail.com)  
-

@@ -12,7 +12,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/podcast-lab-137_fg_f1147716_filtro_1.xml-->
 <!--reproductor-start-->
@@ -31,4 +31,3 @@ Autor: **Mesh_Mescalito**
 **Contacta:**
 Twitter: [@mesh_mescalito](https://twitter.com/mesh_mescalito)  
 Correo: [podcastlab137@gmail.com](mailto:podcastlab137@gmail.com)  
-

@@ -12,11 +12,11 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Neox-fm300-%2
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feed.neox.fm/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://tracking.feedpress.it/link/17432/9014113/6834357.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://tracking.feedpress.it/link/17432/9432392/6893694.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -37,4 +37,3 @@ Autor: **@neoxfm**
 **Contacta:**  
 Twitter: [@neoxfm](https://twitter.com/neoxfm)   
 Correo: [sanshiro@neox.fm](mailto:sanshiro@neox.fm)  
-

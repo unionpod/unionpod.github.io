@@ -12,14 +12,14 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Itu
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.pistadeaterrizaje.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/pistadeaterrizaje/traffic.libsyn.com/pistadeaterrizaje/Nuevo_Proyecto_-_Vlogs.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/pistadeaterrizaje/traffic.libsyn.com/pistadeaterrizaje/Podlog_3_-_El_KGB_y_el_Castillo_de_Trakai.mp3"></audio>
 <!--reproductor-end-->
 
-Pista de aterrizaje es el podcast sobre viajes que alimenta tus ganas de viajar. 
+Pista de aterrizaje es el podcast sobre viajes que alimenta tus ganas de viajar.
 
 Aquí conocerás las últimas tendencias y curiosidades del mundo del turismo y aprenderás los trucos que necesitas para viajar "como un profesional".  
 
@@ -33,4 +33,3 @@ Autor: **Andrea Soaafi**
 **Contacta:**  
 Twitter: [@Paterrizaje](https://twitter.com/Paterrizaje)  
 Correo: [pistadeaterrizajecast@gmail.com](mailto:pistadeaterrizajecast@gmail.com)  
-

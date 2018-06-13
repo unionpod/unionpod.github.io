@@ -12,11 +12,11 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://pe.ivoox.com/es/bgm-podcast_fg_f1470633_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://ar.ivoox.com/es/bgm-podcast-27-yu-yu-hakusho_mf_25854326_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://pe.ivoox.com/es/bgm-podcast-32-series-animadas-disney_mf_26491873_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast dedicado a repasar temas musicales de series de tv, películas y bandas.
@@ -30,4 +30,3 @@ Autor: **Jose Miguel Villanueva Grey**
 
 **Contacta:**  
 Correo: [jmvgrakuen8@gmail.com](mailto:jmvgrakuen8@gmail.com)  
-

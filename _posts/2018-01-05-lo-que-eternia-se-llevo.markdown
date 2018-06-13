@@ -12,11 +12,11 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/Eternia300.jpe
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/lo-eternia-se-llevo_fg_f1407317_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/lqesl-episodio-especial-estudio-ghibli_mf_25727959_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/2x22-lqesl-avengers-infinity-war-vengadores-3_mf_26046009_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 En Eternia solo queremos tener un punto de encuentro para hablar de lo que nos gusta. Somos un grupo de amigos con gustos variados que disfruta de la vida y sus frikeces. Todo esto sin pretensiones de ningún tipo. Ven a Eternia! Conocerás a He-Man, a Skeletor y tenemos galletas! :)
@@ -32,4 +32,3 @@ Autor: **Jarvis McNulty, Nekrom, Vic Vega, Yasumaro y la escritora Alícia Pére
 **Contacta:**  
 Twitter: [@lqeterniasllevo](https://twitter.com/lqeterniasllevo)  
 Correo: [vicvegaeternia@gmail.com](mailto:vicvegaeternia@gmail.com)  
-

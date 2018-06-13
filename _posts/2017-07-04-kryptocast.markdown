@@ -12,7 +12,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Kryptocast%20
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/kryptocast-->
 <!--reproductor-start-->
@@ -34,4 +34,3 @@ Autor: **Andy Arias**
 **Contacta:**  
 Twitter: [@podcastico](https://twitter.com/podcastico)  
 Correo: [elpodcastico@gmail.com](mailto:elpodcastico@gmail.com)  
-

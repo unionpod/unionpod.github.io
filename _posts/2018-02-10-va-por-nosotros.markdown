@@ -12,11 +12,11 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/VaPorNosotros-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/16-becky-g-natti-natasha-no-haberme_mf_25855792_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/21-entrevista-exclusiva-julen-lopetegui-desde-krasnodar-por_mf_26515099_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Problemas e inquietudes que afectan al hombre del Siglo XXI, en relación a la salud, sexualidad, paternidad, comportamientos o estilos de vida.  
@@ -31,4 +31,3 @@ Autor: **Marta Yébenes, Iván Patxi**
 **Contacta:**  
 Twitter: [@nosotros_podcast](https://twitter.com/nosotros_podcast)  
 Correo: [vapornosotrospodcast@gmail.com](mailto:vapornosotrospodcast@gmail.com)  
-

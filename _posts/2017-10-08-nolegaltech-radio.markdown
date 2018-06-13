@@ -12,7 +12,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Nolegaltech_r
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/nolegaltechradio-->
 <!--reproductor-start-->
@@ -39,4 +39,3 @@ Autor: **@abogadopenal @kuartillo @raivenra**
 **Contacta:**  
 Twitter: [@NoLegalTech](https://twitter.com/NoLegalTech)  
 Correo: [nolegaltech.radio@gmail.com](mailto:nolegaltech.radio@gmail.com)  
-

@@ -12,14 +12,14 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/image4055.png
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/distrito-midas_fg_f1442686_filtro_1.xml-->
 <!--reproductor-start-->
 <audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/distrito-midas-star-wars-viii-juego-de_mf_20240495_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
-<br/> 
+<br/>
 Un grupo de Venezolanos dedicados a informar todo lo referente al mundo del entretenimiento: Cine, Series de TV, Anime, Cómics y mas.
 
 _ _ _
@@ -33,4 +33,3 @@ Autor: **Enrique Figueroa, Pedro Habanero y Profesor Jose Raul Salazar**
 
 **Contacta:**  
 Correo: [hozenri@gmail.com](mailto:hozenri@gmail.com)  
-

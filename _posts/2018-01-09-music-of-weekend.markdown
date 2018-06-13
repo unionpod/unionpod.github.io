@@ -12,7 +12,7 @@ preview: https://ia801503.us.archive.org/23/items/Music500x500EstebanMontoya/Mus
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/music-of-weekend_fg_f1455664_filtro_1.xml-->
 <!--reproductor-start-->
@@ -31,4 +31,3 @@ Autor: **Juanjo, Esteban, Miguel Angel**
 
 **Contacta:**  
 Correo: [musicofweekend@gmail.com](mailto:musicofweekend@gmail.com)  
-

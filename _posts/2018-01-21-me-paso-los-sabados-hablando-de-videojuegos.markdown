@@ -12,11 +12,11 @@ preview: https://ia801503.us.archive.org/23/items/Music500x500EstebanMontoya/par
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/parallax-podcast_fg_f147865_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/mpshv-ep93-los-videojuegos-mas-extranos_mf_25805803_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/mpshv-ep98-detroit-become-human-spoilercast_mf_26446690_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Conversatorio sobre videojuegos, especiales y las noticias más importantes de la semana. Participan los más destacados medios de videojuegos de Perú, incluyendo a top influencers, desarrolladores, analistas y escritores.
@@ -31,4 +31,3 @@ Autor: **Enrique "Junior" Martinez, Fernando Chuquillanqui, Phillip Chu Joy, Jor
 
 **Contacta:**  
 Correo: [junior@parallax.com.pe](mailto:junior@parallax.com.pe)  
-

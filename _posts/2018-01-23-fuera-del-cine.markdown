@@ -12,11 +12,11 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Fue
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://fueradelcine.com/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-56-fdc-01-05-2018.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-57-fdc-29-05-2018.mp3"></audio>
 <!--reproductor-end-->
 
 
@@ -34,4 +34,3 @@ Autor: **Raul Chamorro, Logan Perez**
 **Contacta:**  
 Twitter: [@fueradelcine](https://twitter.com/fueradelcine)  
 Correo: [drwest@fueradelcine.com](mailto:drwest@fueradelcine.com)  
-

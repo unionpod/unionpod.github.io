@@ -12,11 +12,11 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/f
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/AprendoFotografa-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/AprendoFotografa/~5/zQpKACMPEl0/6814677.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/AprendoFotografa/~5/FdHhLIHGGA8/6872821.mp3"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -35,4 +35,3 @@ Autor: **Javier González**
 **Contacta:**  
 Twitter: [@aprendofoto](https://twitter.com/aprendofoto)  
 Correo: [javier@aprendofotografia.com](mailto:javier@aprendofotografia.com)  
-

@@ -12,7 +12,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.spreaker.com/show/2852333/episodes/feed-->
 <!--reproductor-start-->
@@ -29,4 +29,3 @@ Autor: **Eliezer Rivera**
 
 **Contacta:**  
 Correo: [eliezer.rivera4@upr.edu](mailto:eliezer.rivera4@upr.edu)  
-

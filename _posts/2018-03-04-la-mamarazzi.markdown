@@ -12,7 +12,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Mam
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feedpress.me/soylamamarazzi-->
 <!--reproductor-start-->
@@ -33,4 +33,3 @@ Pertenece a la red **Nación Podcast**
 **Contacta:**  
 Twitter: [@soylamamarazzi](https://twitter.com/soylamamarazzi)  
 Correo: [soylamamarazzi@gmail.com](mailto:soylamamarazzi@gmail.com)  
-

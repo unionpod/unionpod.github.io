@@ -12,11 +12,11 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://anchor.fm/s/28d9530/podcast/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/28d9530/podcast/play/407718/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-audio-bank%2Fstaging%2F2018-3-14%2F-Ep8-Concurso-Interpodcast2018-5c74cfa2a0c18.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/28d9530/podcast/play/707204/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-audio-bank%2Fstaging%2F2018-5-8%2F-Ep16-Ciberdelicuentes-se-hace-29d223a2b37fc.m4a"></audio>
 <!--reproductor-end-->
 
 Podcast enfocado en la Tecnología, desde una perspectiva más Social. Asesorando a las personas que no conocen del mundo de la Internet para su mayor provecho, promoviendo la Seguridad Informática y un mejor uso de las herramientas tecnológicas de nuestro alcance por medio de las ultimas noticias en tendencia.
@@ -31,4 +31,3 @@ Autor: **Jean Carlos Gutierrez, Zikiu Ferrer**
 **Contacta:**  
 Twitter: [@concienciavirt](https://twitter.com/concienciavirt)  
 Correo: [concienciavirtualve@gmail.com](mailto:concienciavirtualve@gmail.com)  
-

@@ -12,7 +12,7 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/300logo_improm
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/Imprompturicensis-->
 <!--reproductor-start-->
@@ -35,4 +35,3 @@ Autor: **Enrique Vargas**
 **Contacta:**  
 Twitter: [@Imprompturico](https://twitter.com/Imprompturico)  
 Correo: [impromptu@jyestudio.com](mailto:impromptu@jyestudio.com)  
-

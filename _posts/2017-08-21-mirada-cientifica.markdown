@@ -12,7 +12,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Miradacientif
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://feeds.feedburner.com/MiradaCientfica-->
 <!--reproductor-start-->
@@ -37,4 +37,3 @@ Autor: **Enrique Vargas**
 **Contacta:**  
 Twitter: [@MiradaCientific](https://twitter.com/MiradaCientific)  
 Correo: [podcast@miradacientifica.org](mailto:podcast@miradacientifica.org)  
-

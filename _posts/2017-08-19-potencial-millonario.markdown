@@ -12,11 +12,11 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Potencialmill
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://Audiodice.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://AudioDice.podbean.com/mf/feed/82vzc2/Ep_221_1_.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://AudioDice.podbean.com/mf/feed/6fprti/Ep_238.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -33,4 +33,3 @@ Autor: **Felix A. Montelara**
 **Contacta:**  
 Twitter: [@audiodicenet](https://twitter.com/audiodicenet)  
 Correo: [fmontelara@potencialmilonario.com](mailto:fmontelara@potencialmilonario.com)  
-

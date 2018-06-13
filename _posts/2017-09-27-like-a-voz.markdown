@@ -12,7 +12,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/PodcastLikeav
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/like-a-voz_fg_f1321404_filtro_1.xml-->
 <!--reproductor-start-->
@@ -34,4 +34,3 @@ Autor: **Gastón Cánepa, Silvia Cuitiño, Tomás Sotelo, Gonzalo Chocca**
 **Contacta:**  
 Twitter: [@Likeavoz](https://twitter.com/Likeavoz)  
 Correo: [podcastlikeavoz@gmail.com](mailto:podcastlikeavoz@gmail.com)  
-

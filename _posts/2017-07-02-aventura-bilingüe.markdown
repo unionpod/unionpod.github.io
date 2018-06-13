@@ -12,11 +12,11 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Aventura-Bilinge300.pn
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feedpress.me/aventurabilingue-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/15025/9111553/099_aventura_bilingu_e.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/15025/9386501/103_aventura_bilingu_e.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -37,4 +37,3 @@ Autor: **Alex PerDel**
 **Contacta:**  
 Twitter: [@Crecereningles](https://twitter.com/Crecereningles)  
 Correo: [contacto@crecereningles.com](mailto:contacto@crecereningles.com)  
-

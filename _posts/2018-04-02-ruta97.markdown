@@ -12,11 +12,11 @@ preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Ruta
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feedpress.me/ruta97-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/17960/8884898/R97_PEDRO_Y_JOAN.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/17960/9431532/RUTA97_TALKS3_MOTR.mp3"></audio>
 <!--reproductor-end-->
 
 Programa de entrevistas a gente que ha vivido experiencias en el extranjero.  
@@ -34,4 +34,3 @@ AVpodcast
 **Contacta:**  
 Twitter: [@ruta97pod](https://twitter.com/ruta97pod)  
 Correo: [tonimateu997@gmail.com](mailto:tonimateu997@gmail.com)  
-

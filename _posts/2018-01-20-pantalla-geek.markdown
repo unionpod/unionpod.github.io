@@ -12,7 +12,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/P
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://audioboom.com/channels/4912121.rss-->
 <!--reproductor-start-->
@@ -34,4 +34,3 @@ Autor: **Andy Arias**
 **Contacta:**  
 Twitter: [@PantallaGeek](https://twitter.com/PantallaGeek)  
 Correo: [pantallageek@gmail.com](mailto:pantallageek@gmail.com)  
-

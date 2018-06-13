@@ -12,17 +12,17 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/eramagazine30
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/era-magazine_fg_f1414152_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/227-7-minutos-al-dia-capitulo-20_mf_25887948_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/246-ganges-electronica-mas-sutil_mf_26503840_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>
 El podcast de la música independiente española, con entrevista a grupos, discográficas, festivales, prensa.
 
-_ _ _ 
+_ _ _
 
 <br>
 Autor: **Alberto Cortés**  
@@ -36,4 +36,3 @@ Autor: **Alberto Cortés**
 **Contacta:**  
 Twitter: [@eramagazine_fm](https://twitter.com/eramagazine_fm)  
 Correo: [hola@eramagazine.fm](mailto:hola@eramagazine.fm)  
-

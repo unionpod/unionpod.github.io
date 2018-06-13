@@ -12,11 +12,11 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Tecn
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.spreaker.com/show/2571792/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/14622229/ep_34.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/15014678/tecnocracia_wwdc.mp3"></audio>
 <!--reproductor-end-->
 
 El podcast en donde hablamos acerca de los últimos temas del mundo de la tecnología.  
@@ -30,4 +30,3 @@ Autor: **Daniel Dorronsoro, Juan Carlos Vargas**
 
 **Contacta:**
 Correo: [dorronsoro1@hotmail.com](mailto:dorronsoro1@hotmail.com)  
-

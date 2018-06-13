@@ -12,7 +12,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Podversando-u
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://feed.pippa.io/public/shows/podversando-->
 <!--reproductor-start-->
@@ -34,4 +34,3 @@ Autor: **Julio Aguilar**
 **Contacta:**  
 Twitter: [@julioaguilar300](https://twitter.com/julioaguilar300)  
 Correo: [contacto@julioaguilar.com.ve](mailto:contacto@julioaguilar.com.ve)  
-

@@ -12,11 +12,11 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300cafe
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://audioboom.com/channels/4954389.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6833277.mp3?modified=1525056072&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6891217.mp3?modified=1528688970&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 Café con Java es un podcast que no habla de café ni de Java, pero que pretende desarmar y comprender los estereotipos establecidos en el inconsciente colectivo sobre el individuo de sistemas.  
@@ -32,4 +32,3 @@ Autor: **Federico Rusconi -- Bernie Pau Tombetta - Christian Breitman - Luciano 
 **Contacta:**  
 Twitter: [@cafeconjavapod](https://twitter.com/cafeconjavapod)  
 Correo: [cafeconjavapod@gmail.com](mailto:cafeconjavapod@gmail.com)  
-

@@ -12,11 +12,11 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Turnocuatro30
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/podcast-turno-cu4tro_fg_f157353_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/turno-cu4tro-temporada-06-episodio-12_mf_25710349_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/turno-cu4tro-temporada-06-episodio-13_mf_26017244_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -33,4 +33,3 @@ Autor: **Rigg Veda, Raven, Jaime, Quique**
 **Contacta:**  
 Twitter: [@turnocu4tro](https://twitter.com/turnocu4tro)  
 Correo: [turnocu4tro@gmail.com](mailto:turnocu4tro@gmail.com)  
-

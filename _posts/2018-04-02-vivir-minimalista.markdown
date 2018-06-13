@@ -12,11 +12,11 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Vivi
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://vivirminimalista.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://vivirminimalista.podbean.com/mf/feed/9wdsny/Episodio_9_Qu_es_el_mindfulness.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://vivirminimalista.podbean.com/mf/feed/c6kte2/Episodio_14_Convivir_con_un_Minimalista.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast semanal sobre el estilo de vida minimalista y mindfulness.  
@@ -32,4 +32,3 @@ Autor: **David Pérez Marulanda**
 **Contacta:**  
 Twitter: [@minimalistamu](https://twitter.com/minimalistamu)  
 Correo: [minimalistamu@gmail.com](mailto:minimalistamu@gmail.com)  
-

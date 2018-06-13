@@ -12,11 +12,11 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Log
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/UnDisquePodcast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/episodio-22-recordando-sabrina-la-bruja-adolescente_mf_25797149_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/episodio-27-rick-and-morty_mf_26438657_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Pasatiempos & Curiosidades  
@@ -31,4 +31,3 @@ Autor: **Arturo Valderrama**
 **Contacta:**  
 Twitter: [@arfur11](https://twitter.com/arfur11)  
 Correo: [undisquepodcast@gmail.com](mailto:undisquepodcast@gmail.com)  
-

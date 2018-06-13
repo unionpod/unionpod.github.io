@@ -12,14 +12,14 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/experto-aprendiz_fg_f1453282_filtro_1.xml-->
 <!--reproductor-start-->
 <audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/episodio-24-permite-tu-curiosidad-te_mf_25377385_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
-Experto Aprendiz es el podcast sobre educación no tradicional para tu crecimiento personal, exploramos los caminos no tradicionales con los que puedes educarte para cumplir tus sueños y llamado de vida. 
+Experto Aprendiz es el podcast sobre educación no tradicional para tu crecimiento personal, exploramos los caminos no tradicionales con los que puedes educarte para cumplir tus sueños y llamado de vida.
 Compartimos herramientas e inspiración para que tomes el control de tu educación porque creemos que aprender es un camino que dura toda la vida.  
 
 _ _ _
@@ -32,4 +32,3 @@ Autor: **Jazmín Contreras**
 
 **Contacta:**  
 Correo: [Retoexpertoaprendiz@gmail.com](mailto:Retoexpertoaprendiz@gmail.com)  
-

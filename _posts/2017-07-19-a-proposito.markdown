@@ -12,7 +12,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/aproposito300.jpg
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.spreaker.com/show/2598481/episodes/feed-->
 <!--reproductor-start-->
@@ -35,4 +35,3 @@ Autor: **Fermín Sandoval**
 **Contacta:**  
 Twitter: [@ferminhsandoval](https://twitter.com/ferminhsandoval)  
 Correo: [ferminhomero@hotmail.com](mailto:ferminhomero@hotmail.com)  
-

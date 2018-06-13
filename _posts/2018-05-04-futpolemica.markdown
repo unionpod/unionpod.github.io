@@ -12,11 +12,11 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-Dan
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.spreaker.com/show/2571812/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/14679920/futpolemica_27.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/15023882/futpolemica29.mp3"></audio>
 <!--reproductor-end-->
 
 Una discusión del fútbol en su más elemental esencia.  
@@ -30,4 +30,3 @@ Autor: **Daniel Dorronsoro, Fernando Victoria**
 
 **Contacta:**
 Correo: [dorronsoro1@hotmail.com](mailto:dorronsoro1@hotmail.com)  
-

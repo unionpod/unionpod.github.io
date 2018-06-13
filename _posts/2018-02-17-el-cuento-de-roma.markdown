@@ -12,11 +12,11 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://wps.abelakay.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/elcuentoderoma/content.blubrry.com/elcuentoderoma/Episodio_058-Otra_Victoria_Pirrica.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/elcuentoderoma/content.blubrry.com/elcuentoderoma/Episodio_060-Alianza_con_Cartago.mp3"></audio>
 <!--reproductor-end-->
 
 Roma antigua — mitad podcast, mitad audionovela.  
@@ -31,4 +31,3 @@ Autor: **Abel A. Kay**
 **Contacta:**  
 Twitter: [@west4east](https://twitter.com/west4east)  
 Correo: [wodezhongguo.a@outlook.com](mailto:wodezhongguo.a@outlook.com)  
-

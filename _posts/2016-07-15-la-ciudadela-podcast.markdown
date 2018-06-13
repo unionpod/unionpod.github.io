@@ -12,16 +12,16 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Laciudadela300.jpg
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://www.ivoox.com/ciudadela-podcast_fg_f1145430_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://co.ivoox.com/es/3x02-la-ciudadela-podcast-guardianes-tirisfal_mf_25337571_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/3x02-la-ciudadela-podcast-guardianes-tirisfal_mf_25337571_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
 
-Podcast sobre el juego World of Warcraft. Desde el lore más recondito hasta los parches o las nuevas mazmorras, bandas... 
+Podcast sobre el juego World of Warcraft. Desde el lore más recondito hasta los parches o las nuevas mazmorras, bandas...
 
 _ _ _
 <br>
@@ -39,4 +39,3 @@ Autor: **None**
 **Contacta:**
 Twitter: [@CiudadelaPod](https://twitter.com/CiudadelaPod)  
 Correo: [laciudadelapodcast@gmail.com](mailto:laciudadelapodcast@gmail.com)  
-

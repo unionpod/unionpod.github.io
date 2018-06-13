@@ -12,11 +12,11 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>  
 <br/>  
 
-## Escucha el último episodio  
+## Escucha su más reciente episodio 
 
 <!--reproductor-feed=http://www.spreaker.com/show/2836167/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14599846/superlunes_20_william_faulkner.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14959811/superlunes_21_robert_browning.mp3"></audio>
 <!--reproductor-end-->
 
 Comienza la semana con una frase motivadora que te ayude a enfocarte en tus metas.
@@ -35,10 +35,3 @@ Autor: **Laura**
 **Contacta:**  
 Twitter: [@lormez16](https://twitter.com/lormez16)  
 Telegram: [@lormez16](@lormez16)  
-
-
-
-
-
-
-

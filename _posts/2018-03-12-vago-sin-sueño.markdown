@@ -12,11 +12,11 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/vago-sin-sueno_fg_f1452022_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/14-luen-mendoza-podcasting-el_mf_25642944_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/17-caserita-cartonera_mf_26433883_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast quincenal de entrevistas a proyectos artísticos, culturales y musicales independientes.  
@@ -31,4 +31,3 @@ Autor: **Zd. y Cerberus**
 **Contacta:**  
 Twitter: [@vagosinsueno](https://twitter.com/vagosinsueno)  
 Correo: [vagosinsueno@gmail.com](mailto:vagosinsueno@gmail.com)  
-

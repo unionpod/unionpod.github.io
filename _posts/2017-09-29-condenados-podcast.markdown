@@ -12,11 +12,11 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Condenados300
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/CondenadosPodcast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/CondenadosPodcast/~5/PbpHHifpP20/Condenados63.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/CondenadosPodcast/~5/ikn0X-_4iG8/Condenados64.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -33,4 +33,3 @@ Autor: **@portifai @juandeochpu @etaviel @Bumertucho @joagarcia @Jesusestepa**
 **Contacta:**  
 Twitter: [@CondenadosPod](https://twitter.com/CondenadosPod)  
 Correo: [condenadospodcast@gmail.com](mailto:condenadospodcast@gmail.com)  
-

@@ -12,11 +12,11 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/Venganuno-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Venganuno/~5/s8qGZ4khQBo/Vengan_de_a_uno_4x11_070518_.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Venganuno/~5/-Hbc3vV2joQ/Vengan_de_a_uno_4x15_110618_.mp3"></audio>
 <!--reproductor-end-->
 
 Con el objetivo de sacar a la luz contradicciones de la clase política, los personajes del fútbol y la sociedad misma, mediante la ironía y el humor negro, les presentamos, un programa de radio radicado en el mejor país del mundo. No todo lo que te contemos acá será cierto, y no todo lo que escuches en los grandes medios es real.
@@ -35,4 +35,3 @@ Autor: **Cuffaro; Medina; Alan; Pablo**
 
 **Contacta:**  
 Correo: [cuffarodiego@gmail.com](mailto:cuffarodiego@gmail.com)  
-

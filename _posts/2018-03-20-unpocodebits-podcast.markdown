@@ -12,11 +12,11 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/updb-podcast_fg_f1247203_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/updb-podcast-016-el-update-los_mf_25831430_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/updb-podcast-021-especial-e3-2018-square-enix_mf_26514815_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Los editores de UPDB hablan de videojuegos, Gadgets, tecnología y Todo lo relacionado a la cultura digital, todo de una manera digerida acompañado de cafeína y muchos bits.  
@@ -32,4 +32,3 @@ Autor: **Ivan Velasco (@arqiv) Alex (@astrandajan) Osmand (@Zeuqzlev09)**
 **Contacta:**  
 Twitter: [@unpocodebits](https://twitter.com/unpocodebits)  
 Correo: [unpocodebits@gmail.com](mailto:unpocodebits@gmail.com)  
-

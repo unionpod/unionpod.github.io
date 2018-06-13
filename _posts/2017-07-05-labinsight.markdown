@@ -12,7 +12,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/image3980.png
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.spreaker.com/show/1977713/episodes/feed-->
 <!--reproductor-start-->
@@ -37,4 +37,3 @@ Autor: **Julio Sandoval**
 **Contacta:**  
 Twitter: [@socialtegia](https://twitter.com/socialtegia)  
 Correo: [socialtegia@gmail.com](mailto:socialtegia@gmail.com)  
-

@@ -12,14 +12,14 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/V
 <br/>  
 <br/>  
 
-## Escucha el último episodio  
+## Escucha su más reciente episodio    
 
 <!--reproductor-feed=https://feeds.feedburner.com/Vaciatubandeja-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Vaciatubandeja/~5/4WbIX9D6dKg/6814117.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Vaciatubandeja/~5/h_IjuS-7BY4/6875891.mp3"></audio>
 <!--reproductor-end-->
 
-**Vacía Tu Bandeja** es un podcast sobre organización personal y creación de hábitos. Está basado en mi experiencia personal a lo largo de los años. El objetivo es compartir todo lo que he aprendido para poder ayudar a otras personas a ser mas organizadas y a crear los hábitos adecuados para ello. 
+**Vacía Tu Bandeja** es un podcast sobre organización personal y creación de hábitos. Está basado en mi experiencia personal a lo largo de los años. El objetivo es compartir todo lo que he aprendido para poder ayudar a otras personas a ser mas organizadas y a crear los hábitos adecuados para ello.
 
 _ _ _
 <br>
@@ -39,10 +39,3 @@ Telegram: [@lormez16](@lormez16)
 Correo: [vaciatubandeja@gmail.com](mailto:vaciatubandeja@gmail.com)  
 Grupo de Telegram de [Vacía tu Bandeja](http://t.me/Vaciatubandeja)  
 Grupo de Telegram de [Bullet Journal](http://t.me/miBulletJournal)  
-
-
-
-
-
-
-

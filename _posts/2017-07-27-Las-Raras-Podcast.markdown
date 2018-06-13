@@ -11,17 +11,17 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/lasraras300.jpg
 
 <br/>  
 <br/>
- 
+
 Somos un podcast independiente que cuenta relatos de no ficción. Historias que desafían las imposiciones sociales y proponen reflexiones sobre el mundo que habitamos y el que queremos construir.  
 
 <br/>
 
-## Escucha el último episodio  
+## Escucha su más reciente episodio 
 
 
 <!--reproductor-feed=http://feeds.soundcloud.com/users/soundcloud:users:255016072/sounds.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://cuonda.com/las-raras-podcast/un-secreto-mil-secretos/817843.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://cuonda.com/las-raras-podcast/patagonia-fertil/997640.mp3"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -41,13 +41,6 @@ Autores: **Catalina May, Martín Cruz**
 
 
 **Contacta:**  
-Twitter: [@lasraraspodcast](https://twitter.com/lasraraspodcast) 
+Twitter: [@lasraraspodcast](https://twitter.com/lasraraspodcast)
 
 Correo: [lasraraspodcast@gmail.com](mailto:lasraraspodcast@gmail.com)  
-
-
-
-
-
-
-

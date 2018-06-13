@@ -12,7 +12,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/consecuencias-21m_fg_f1560435_filtro_1.xml-->
 <!--reproductor-start-->
@@ -29,4 +29,3 @@ Autor: **Enrique Durand**
 
 **Contacta:**  
 Correo: [lasonceradio@gmail.com](mailto:lasonceradio@gmail.com)  
-

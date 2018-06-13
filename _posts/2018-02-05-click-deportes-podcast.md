@@ -12,7 +12,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/click-deportes-podcast_fg_f1424657_filtro_1.xml-->
 <!--reproductor-start-->
@@ -32,4 +32,3 @@ Autor: **Julio Axel Ponce**
 **Contacta:**  
 Twitter: [@clickpodcast](https://twitter.com/clickpodcast)  
 Correo: [jponcemarin@gmail.com](mailto:jponcemarin@gmail.com)  
-

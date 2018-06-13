@@ -12,11 +12,11 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feedpress.me/mundolgbt-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/18069/9070738/mlgbt034.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/18069/9406024/mlgbt039.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast de noticias y entrevistas sobre diversidad afectivo sexual y todo lo referente al colectivo LGBT.  
@@ -32,4 +32,3 @@ Autor: **Juanjo**
 **Contacta:**  
 Twitter: [@lgbtmundolgbt](https://twitter.com/lgbtmundolgbt)  
 Correo: [lgbtmundolgbt@gmail.com](mailto:lgbtmundolgbt@gmail.com)  
-

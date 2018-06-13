@@ -12,11 +12,11 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/HothFactory300.jpg
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/HothFactory-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/HothFactory/~5/3IDrgh5_Npg/Hoth%20Factory%20233.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/HothFactory/~5/TvJhWjilmZQ/Hoth%20Factory%20235.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -37,4 +37,3 @@ Autor: **Adrian, Kori, Fer, Diego, Alberto, Christian, Gintoky, Noa, Sandra**
 **Contacta:**  
 Twitter: [@hothfactory](https://twitter.com/hothfactory)  
 Correo: [hothfactory@gmail.com](mailto:hothfactory@gmail.com)  
-

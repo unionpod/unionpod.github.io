@@ -12,7 +12,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/L
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.soundcloud.com/users/soundcloud:users:112560925/sounds.rss-->
 <!--reproductor-start-->
@@ -35,4 +35,3 @@ Autor: **Tristana producciones está integrado por Florencia Flores Iborra; Mira
 **Contacta:**  
 Twitter: [@tristana_prod](https://twitter.com/tristana_prod)  
 Correo: [contacto@tristanaproducciones.com](mailto:contacto@tristanaproducciones.com)  
-

@@ -11,17 +11,17 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Unadosisdef300-RinnyA.
 
 <br/>  
 <br/>
- 
+
 **Una Dosis De Ficción** es un podcast de lectura de ciencia ficción y fantasía en novelas y comics. En cada capítulo se habla de tres obras, o de sagas, y se discute su contenido desde una perspectiva feminista. Su peculiaridad es quizás que la cola de lecturas se alimenta de recomendaciones de les oyentes, por lo que el espectro de libros es bastante amplio. UDDF se realiza en género neutro.   
 
 <br/>
 
-## Escucha el último episodio  
+## Escucha su más reciente episodio 
 
 
 <!--reproductor-feed=https://www.ivoox.com/una-dosis-ficcion_fg_f1277366_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/epilogo-tercer-temporada_mf_22921016_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/the-booklovers_mf_26162993_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -35,18 +35,11 @@ Autores: **Rinny**
 [Feed](https://www.ivoox.com/una-dosis-ficcion_fg_f1277366_filtro_1.xml)  
 
 **Puedes escuchar este podcast en:**  
-  
+
 [iTunes](https://itunes.apple.com/ar/podcast/una-dosis-de-ficcion/id1121887872?mt=2)   
 
 
 **Contacta:**  
-Twitter: [@1dosisdeficcion](https://twitter.com/@1dosisdeficcion) 
+Twitter: [@1dosisdeficcion](https://twitter.com/@1dosisdeficcion)
 
 Correo: [unadosisdeficcion@hotmail.com](mailto:unadosisdeficcion@hotmail.com)  
-
-
-
-
-
-
-

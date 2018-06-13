@@ -12,7 +12,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/yogurtera_fg_f1493673_filtro_1.xml-->
 <!--reproductor-start-->
@@ -30,4 +30,3 @@ Autor: **@Cblazquez @Ric_Martinez @CRancio1**
 **Contacta:**  
 Twitter: [@layogurterapod](https://twitter.com/layogurterapod)  
 Correo: [layogurterapod@gmail.com](mailto:layogurterapod@gmail.com)  
-

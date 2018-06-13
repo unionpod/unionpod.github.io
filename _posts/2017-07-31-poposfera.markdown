@@ -15,12 +15,12 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/poposfera300.png
 PODCAST semanal de concienzudo análisis y apasionadas diatribas sobre cine, TV, comics y otros artefactos culturales POP. Con Sebastián Tabany y Eric Londaits.  
 <br/>
 
-## Escucha el último episodio  
+## Escucha su más reciente episodio   
 
 
 <!--reproductor-feed=http://poposfera.libsyn.com/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/091b_-_Avengers_Infinity_War_Spoiler_Spectacular.mp3?dest-id=396222"></audio>
+<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/poposfera/092_-_Delay_tipo_Victor_Hugo.mp3?dest-id=396222"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -40,10 +40,3 @@ Autores: **Sebastián Tabany y Eric Londaits**
 **Contacta:**  
 Twitter: [@poposfera](https://twitter.com/poposfera)  
 Correo: [emilio@poposfera.com](mailto:emilio@poposfera.com)  
-
-
-
-
-
-
-

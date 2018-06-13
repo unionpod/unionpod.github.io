@@ -12,7 +12,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Catedral-Pepe
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feed.quechilero.com/CatedraldeEscuintla-->
 <!--reproductor-start-->
@@ -20,7 +20,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Catedral-Pepe
 <!--reproductor-end-->
 
 <br/>  
-Podcast de la Catedral de la Diócesis de Escuintla, Guatemala. 
+Podcast de la Catedral de la Diócesis de Escuintla, Guatemala.
 El primer podcast católico de Guatemala, mensajes, homilías, celebraciones del Obispo Diocesano y de los Presbíteros de la Catedral.
 
 _ _ _  
@@ -35,4 +35,3 @@ Autor: **Pepe Barrascout**
 **Contacta:**  
 Twitter: [@ReginaCaelorum](https://twitter.com/ReginaCaelorum)  
 Correo: [podcast@quechilero.com](mailto:podcast@quechilero.com)  
-

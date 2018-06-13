@@ -12,7 +12,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Logo
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/mates-football_fg_f1566742_filtro_1.xml-->
 <!--reproductor-start-->
@@ -31,4 +31,3 @@ Autor: **Agustín Espósito, Gonzalo Machín, Ricardo Chocron**
 **Contacta:**  
 Twitter: [@MatesyFootball](https://twitter.com/MatesyFootball)  
 Correo: [matesyfootball@gmail.com](mailto:matesyfootball@gmail.com)  
-

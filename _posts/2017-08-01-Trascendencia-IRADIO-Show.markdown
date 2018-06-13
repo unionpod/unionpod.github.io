@@ -15,7 +15,7 @@ Somos el podcast de música rock y metal hecho en Venezuela más antiguo y recon
 
 <bs/>
 
-## Escucha el último episodio  
+## Escucha su más reciente episodio   
 
 
 <!--reproductor-feed=https://feed.pippa.io/public/shows/trascendenciave-->
@@ -40,10 +40,3 @@ Autor: **Julio Aguilar**
 **Contacta:**  
 Twitter: [@TrascendenciaVe](https://twitter.com/TrascendenciaVE)  
 Correo: [contacto@trascendencia.com.ve](mailto:contacto@trascendencia.com.ve)  
-
-
-
-
-
-
-

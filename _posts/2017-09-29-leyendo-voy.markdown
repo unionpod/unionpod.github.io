@@ -12,7 +12,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/LeyendoVoy300
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/leyendovoy-->
 <!--reproductor-start-->
@@ -34,4 +34,3 @@ Autor: **Juanjo Gurillo**
 **Contacta:**  
 Twitter: [@jgurillo](https://twitter.com/jgurillo)  
 Correo: [educandogeek@gmail.com](mailto:educandogeek@gmail.com)  
-

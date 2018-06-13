@@ -12,11 +12,11 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300wfgp
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://mx.ivoox.com/es/what-fart-games-podcast_fg_f1424749_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://mx.ivoox.com/es/wfg-podcast-021-a-way-god-avengers-xv_mf_25748745_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://mx.ivoox.com/es/wfg-podcast-024-blood-riders-of-the-solid_mf_26265819_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Describimos datos de desarrollo, arte y música de videojuegos actuales y clásicos.  
@@ -32,4 +32,3 @@ Autor: **Luis Llamas, Julio Llamas, Oscar Franco y Christian Gómez**
 **Contacta:**  
 Twitter: [@WhatFartGames](https://twitter.com/WhatFartGames)  
 Correo: [whatfartgames@gmail.com](mailto:whatfartgames@gmail.com)  
-

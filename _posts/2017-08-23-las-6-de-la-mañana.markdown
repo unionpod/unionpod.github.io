@@ -12,7 +12,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/06am-PepeBarr
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feed.quechilero.com/las6am-->
 <!--reproductor-start-->
@@ -35,4 +35,3 @@ Autor: **Pepe Barrascout Ortiz**
 **Contacta:**  
 Twitter: [@PepeBarrascout](https://twitter.com/PepeBarrascout)  
 Correo: [podcast@quechilero.com](mailto:podcast@quechilero.com)  
-

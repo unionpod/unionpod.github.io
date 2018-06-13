@@ -12,7 +12,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/F
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://audioboom.com/channels/4856599.rss-->
 <!--reproductor-start-->
@@ -35,4 +35,3 @@ Autor: **Malena Solda (@SoldaMalena) conversa con amigos y colegas del mundo del
 **Contacta:**  
 Twitter: [@fueradelibreto](https://twitter.com/fueradelibreto)  
 Correo: [hola@fueradelibreto.com](mailto:hola@fueradelibreto.com)  
-

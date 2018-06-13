@@ -12,7 +12,7 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/300logoPodcast
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/cronovisor_fg_f1328897_filtro_1.xml-->
 <!--reproductor-start-->
@@ -41,4 +41,3 @@ Autor: **Óscar Blázquez**
 **Contacta:**  
 Twitter: [@ElCronovisor](https://twitter.com/ElCronovisor)  
 Correo: [elcronovisor@gmail.com](mailto:elcronovisor@gmail.com)  
-

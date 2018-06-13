@@ -12,7 +12,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/TalEsc_podcas
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://feeds.feedburner.com/TalentoEscondido-->
 <!--reproductor-start-->
@@ -36,4 +36,3 @@ Autor: **Enrique Vargas**
 **Contacta:**  
 Twitter: [@TalentEscondido](https://twitter.com/TalentEscondido)  
 Correo: [podcast@talentoescondido.com](mailto:podcast@talentoescondido.com)   
-

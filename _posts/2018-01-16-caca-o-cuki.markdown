@@ -12,7 +12,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/PRO
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/caca-o-cuki_fg_f1391664_filtro_1.xml-->
 <!--reproductor-start-->
@@ -32,4 +32,3 @@ Autor: **Chema, Chancla, Chechu, Hindu, Yegui y el becario.**
 **Contacta:**  
 Twitter: [@CacaoCuki1](https://twitter.com/CacaoCuki1)  
 Correo: [cacaocuki@gmail.com](mailto:cacaocuki@gmail.com)  
-

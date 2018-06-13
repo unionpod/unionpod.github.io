@@ -12,7 +12,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/paz-del-freak_fg_f1479410_filtro_1.xml-->
 <!--reproductor-start-->
@@ -30,4 +30,3 @@ Autor: **Fortunato Avila**
 
 **Contacta:**  
 Correo: [lapazdelfreak@gmail.com](mailto:lapazdelfreak@gmail.com)  
-

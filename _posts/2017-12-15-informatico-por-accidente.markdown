@@ -12,11 +12,11 @@ preview: https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/300Informatico
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/informatico-accidente_fg_f1425119_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/notas-del-dominio-3_mf_25441713_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/notas-del-dominio-10_mf_26501053_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast de tecnología, sobre todo en el entorno apple, pero se habla de todo lo que se mundo geek
@@ -30,4 +30,3 @@ Autor: **Esteban e Invitados**
 
 **Contacta:**  
 Correo: [smontoy@gmail.com](mailto:smontoy@gmail.com)  
-

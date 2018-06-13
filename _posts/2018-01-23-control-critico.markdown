@@ -12,7 +12,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/control-critico-podcast_fg_f1260758_filtro_1.xml-->
 <!--reproductor-start-->
@@ -31,4 +31,3 @@ Autor: **Aldo Santivañez y Manuel Espinoza**
 **Contacta:**  
 Twitter: [@control_critico](https://twitter.com/control_critico)  
 Correo: [manuel@controlcritico.com](mailto:manuel@controlcritico.com)  
-

@@ -12,7 +12,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://anchor.fm/s/1409394/podcast/rss-->
 <!--reproductor-start-->
@@ -31,4 +31,3 @@ Autor: **Teresa A. (MissHonky)**
 **Contacta:**  
 Twitter: [@botondemuestra](https://twitter.com/botondemuestra)  
 Correo: [elbotondemuestra@gmail.com](mailto:elbotondemuestra@gmail.com)  
-

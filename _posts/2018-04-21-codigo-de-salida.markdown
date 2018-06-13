@@ -12,11 +12,11 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-Cod
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/codigodesalida-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/estelar-trek_mf_25686217_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/ellebanna-estrategy-room-escape_mf_26478580_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Un podcast sobre room escape, reviews de salas sin spoilers.  
@@ -32,4 +32,3 @@ Autor: **Víctor Lozano e invitados**
 **Contacta:**  
 Twitter: [@codigodesalida](https://twitter.com/codigodesalida)  
 Correo: [codigodesalida@gmail.com](mailto:codigodesalida@gmail.com)  
-

@@ -12,7 +12,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.nosoyuntroll.es/feed.xml-->
 <!--reproductor-start-->
@@ -31,4 +31,3 @@ Autor: **Agustin Palmeiro (Verdugo789)**
 **Contacta:**  
 Twitter: [@Nstroll_podcast](https://twitter.com/Nstroll_podcast)  
 Correo: [nosoyuntrollpodcast@gmail.com](mailto:nosoyuntrollpodcast@gmail.com)  
-

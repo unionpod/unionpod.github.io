@@ -12,11 +12,11 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/300tendenciasT
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.spreaker.com/show/2139293/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14750810/tendencias_tech_121.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14970854/tendencias_tech_131.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast de Tecnologia y Noticias
@@ -34,4 +34,3 @@ Autor: **Berlin González**
 **Contacta:**  
 Twitter: [@tendenciastech](https://twitter.com/tendenciastech)  
 Correo: [berlin@tendencias.tech](mailto:berlin@tendencias.tech)  
-

@@ -12,7 +12,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Karvala300px1
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/bombo-karvala_fg_f1260816_filtro_1.xml-->
 <!--reproductor-start-->
@@ -34,4 +34,3 @@ Autor: **Karvala**
 **Contacta:**  
 Twitter: [@BomboKarvala](https://twitter.com/BomboKarvala)  
 Correo: [Crece@elbombodekarvala.com](mailto:Crece@elbombodekarvala.com)  
-

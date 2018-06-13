@@ -12,7 +12,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Ddm300-LuisPo
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://dejemonosdementiras.com/wp/media-rss/-->
 <!--reproductor-start-->
@@ -39,4 +39,3 @@ Autor: **Chapin, Cocos,**
 **Contacta:**  
 Twitter: [@DDMPodcast](https://twitter.com/DDMPodcast)  
 Correo: [dejemonosdementiras@gmail.com](mailto:dejemonosdementiras@gmail.com)  
-

@@ -12,11 +12,11 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Un_a
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/un-aguacate-a-vez_fg_f1570325_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/episodio-5-aprendiendo-del-state-of-flow_mf_25692760_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/episodio-8-prevencion-suicidio-post-maria_mf_26466796_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Empezamos este podcast como una forma de explicar por qué somos tan fieles creyentes en tener rituales positivos que nos hacen sentir bien. Ya sea empezar las mañanas con un buen green juice, meditar en las noches, o simplemente contar hasta 10 antes de mandar al cara^&*$% a alguien en el trabajo.  
@@ -32,4 +32,3 @@ Autor: **María Elena Rodríguez y Silvia Vallejo**
 **Contacta:**
 Twitter: [@aguacatepodcast](https://twitter.com/aguacatepodcast)  
 Correo: [unaguacatealavez@gmail.com](mailto:unaguacatealavez@gmail.com)  
-

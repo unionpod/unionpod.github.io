@@ -12,11 +12,11 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Vapornosotras
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/VaPorNosotras-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/VaPorNosotras/~5/2fWxzLWP8dc/129-jugueteria-erotica-divertida-maryasexora-y_mf_25673611_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/VaPorNosotras/~5/Fupq2Kv94go/138-yellow-day-felices-calendario_mf_26125301_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -39,4 +39,3 @@ Autor: **Ivan Patxi y Marta Yébenes**
 **Contacta:**  
 Twitter: [@vapornosotras](https://twitter.com/vapornosotras)  
 Correo: [vapornosotras@gmail.com](mailto:vapornosotras@gmail.com)  
-

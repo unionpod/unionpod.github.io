@@ -12,11 +12,11 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/faro-lenguas-magazine_fg_f1408919_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/hablemos-experiencias-episodio-1_mf_25367573_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/deportes_mf_26463861_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcasts con variedad de contenidos y secciones destinado a aprendices de español como lengua extranjera.  
@@ -31,4 +31,3 @@ Autor: **Francisco José Martínez Vicente**
 **Contacta:**  
 Twitter: [@FaroDeLenguas](https://twitter.com/FaroDeLenguas)  
 Correo: [info@farodelenguas.xyz](mailto:info@farodelenguas.xyz)  
-

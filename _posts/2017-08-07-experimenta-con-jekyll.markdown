@@ -15,7 +15,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/ECJ-300x300.jpg
 <br/>  
 
 
-## Escucha el último episodio  
+## Escucha su más reciente episodio  
 
 <!--reproductor-feed=https://feeds.feedburner.com/ExperimentaConJekyll-->
 <!--reproductor-start-->
@@ -23,7 +23,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/ECJ-300x300.jpg
 <!--reproductor-end-->
 
 <br>
-**Experimenta con Jekyll** es un podcast en el que explico paso a paso cómo desarrollar una web utilizando el generador estático Jekyll. 
+**Experimenta con Jekyll** es un podcast en el que explico paso a paso cómo desarrollar una web utilizando el generador estático Jekyll.
 
 Si estás interesado en hacer tu propia web y quieres experimentar con algo sencillo, este es tu podcast.
 
@@ -43,7 +43,3 @@ Web del [Podcast](https://lormez16.github.io/experimenta-con-jekyll/)
 Twitter: [@lormez16](https://twitter.com/lormez16)  
 Telegram: [@lormez16](@lormez16)  
 Correo: [experimentaconjekyll@gmail.com](mailto:experimentaconjekyll@gmail.com)  
-
-
-
-

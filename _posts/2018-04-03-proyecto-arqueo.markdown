@@ -12,7 +12,7 @@ preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300%20-
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/proyecto-arqueo_fg_f191818_filtro_1.xml-->
 <!--reproductor-start-->
@@ -31,4 +31,3 @@ Autor: **Carlos Pérez, Ana Seisdedos y Maria Ruiz**
 **Contacta:**  
 Twitter: [@proyectoarqueo](https://twitter.com/proyectoarqueo)  
 Correo: [proyectoarqueo@gmail.com](mailto:proyectoarqueo@gmail.com)  
-

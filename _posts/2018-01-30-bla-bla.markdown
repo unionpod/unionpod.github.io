@@ -12,7 +12,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/B
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.spreaker.com/show/2824422/episodes/feed-->
 <!--reproductor-start-->
@@ -31,4 +31,3 @@ Autor: **Pato Lopardo**
 **Contacta:**  
 Twitter: [@patolopardo](https://twitter.com/patolopardo)  
 Correo: [Lopardo.p@gmail.com](mailto:Lopardo.p@gmail.com)  
-

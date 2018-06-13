@@ -16,12 +16,12 @@ Un Podcast de religión, para aquellos que desagradan de la religión. **ConCien
 
 <br/>
 
-## Escucha el último episodio  
+## Escucha su más reciente episodio  
 
 
 <!--reproductor-feed=Http://concienciamedia.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/conciencia/content.blubrry.com/conciencia/interpodcast2018_Logos.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/conciencia/content.blubrry.com/conciencia/AyA___Comunidad.mp3"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -42,10 +42,3 @@ Autores: **Andres Marin Solis, Frank Joya, Anthony Sepulvada**
 **Contacta:**  
 Twitter: [@ConCienciaTweet](https://twitter.com/ConCienciaTweet)   
 Correo:  [ConCienciaPodcast@gmail.com](mailto:ConCienciaPodcast@gmail.com)  
-
-
-
-
-
-
-

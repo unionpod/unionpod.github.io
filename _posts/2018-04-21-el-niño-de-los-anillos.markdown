@@ -12,7 +12,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-Vic
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/elninodelosanillos-->
 <!--reproductor-start-->
@@ -32,4 +32,3 @@ Autor: **Alan L.**
 **Contacta:**  
 Twitter: [@NinoAnillos](https://twitter.com/NinoAnillos)  
 Correo: [elninodelosanillos@gmail.com](mailto:elninodelosanillos@gmail.com)  
-

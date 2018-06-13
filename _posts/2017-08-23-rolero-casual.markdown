@@ -12,11 +12,11 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Logo_1140-Azr
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/RoleroCasual-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/RoleroCasual/~5/vbx3SiS1RC4/interpodcast_2018_rolero_casual_by_tal_vez_me_mf_25140665_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/RoleroCasual/~5/bawiye1Yy6Q/Rolero%20Casual%20-%20Episodio%2014%20-%20Rumores%2C%20Enlaces%2C%20Juegos%20Gratuitos%20y%20un%20Regalo.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -34,4 +34,3 @@ Autor: **Azrael Arocha**
 **Contacta:**  
 Twitter: [@RoleroCasual](https://twitter.com/RoleroCasual)  
 Correo: [azraelarocha@gmail.com](mailto:azraelarocha@gmail.com)  
-

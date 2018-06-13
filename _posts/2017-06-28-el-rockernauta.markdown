@@ -12,11 +12,11 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/image3828.png
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://ar.ivoox.com/es/rockernauta_fg_f188290_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/rockernauta-black-sabbath-angeles-demonios_mf_25397139_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/rockernauta-queen-las-joyas-de-la-reina_mf_26201769_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -33,4 +33,3 @@ Autor: **Claudio Dante Varretto Barbarin**
 **Contacta:**  
 Twitter: [@elrockernauta](https://twitter.com/elrockernauta)  
 Correo: [elrockernauta@yahoo.com.ar](mailto:elrockernauta@yahoo.com.ar)  
-

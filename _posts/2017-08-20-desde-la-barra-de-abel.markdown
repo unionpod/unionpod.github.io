@@ -12,11 +12,11 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Desdelabarrad
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.spreaker.com/show/1409607/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14740848/io_2018.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/15034265/anti_resumen_del_e3_2018.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -34,4 +34,3 @@ Autor: **,Jorge Romo, David Giordano, Edy Rodríguez, Eduardo Zavala, Marco Yá�
 **Contacta:**  
 Twitter: [@damiantiscornia](https://twitter.com/damiantiscornia)  
 Correo: [damiangtiscornia@gmail.com](mailto:damiangtiscornia@gmail.com)  
-

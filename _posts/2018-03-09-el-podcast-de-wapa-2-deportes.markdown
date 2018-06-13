@@ -12,15 +12,15 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Wap
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://rss.simplecast.com/podcasts/4571/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://dts.podtrac.com/redirect.mp3/audio.simplecast.com/3d19bf62.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://dts.podtrac.com/redirect.mp3/audio.simplecast.com/45035572.mp3"></audio>
 <!--reproductor-end-->
 
 El Podcast de Wapa 2 Deportes es un podcast semanal donde se discuten diferentes noticias del mundo del deporte y los comentarios de los seguidores de Wapa 2 Deportes son los que mueven la conversación. También entrevistamos a diferentes personalidades del deporte en Puerto Rico.  
- 
+
 _ _ _
 <br>
 Autor: **Xiomara Ríos**  
@@ -31,4 +31,3 @@ Autor: **Xiomara Ríos**
 **Contacta:**  
 Twitter: [@wapa2deportes](https://twitter.com/wapa2deportes)  
 Correo: [socialmedia@wapa.tv](mailto:socialmedia@wapa.tv)  
-

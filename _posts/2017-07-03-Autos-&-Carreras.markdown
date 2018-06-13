@@ -11,17 +11,17 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Autosycarreras300-Rick
 
 <br/>  
 <br/>
- 
+
 **Autos & Carreras** es un espacio de opinión y difusión del automovilismo y la participación de pilotos colombianos en todas sus expresiones desde Karting hasta fórmula 1 y ahora también simracing.   
 
 <br/>
 
-## Escucha el último episodio  
+## Escucha su más reciente episodio  
 
 
 <!--reproductor-feed=http://www.spreaker.com/show/1402570/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/14719784/esto_es_mayo_de_500_millas.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/15008935/p11_para_tunjo_en_la_gt_masters.mp3"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -34,17 +34,10 @@ Autores: **Ricker Silva y Olivera Silva**
 [Web](http://Podcast.autosycarreras.com)  
 [Feed](http://www.spreaker.com/show/1402570/episodes/feed)  
 
- 
+
 
 
 **Contacta:**  
-Twitter: [@autos_carreras](https://twitter.com/@autos_carreras) 
+Twitter: [@autos_carreras](https://twitter.com/@autos_carreras)
 
 Correo: [ricker.silva@gmail.com](mailto:ricker.silva@gmail.com)  
-
-
-
-
-
-
-

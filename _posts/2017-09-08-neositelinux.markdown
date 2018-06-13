@@ -12,11 +12,11 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Neositelinux3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/neositelinux-podcast_fg_f1169111_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/neositelinux-podcast-2018-7-ubuntu-18-04_mf_25665496_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/neositelinux-podcast-2018-9-experiencia-amazfit_mf_26517674_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -38,4 +38,3 @@ Autor: **Natanael Garrido**
 **Contacta:**
 Twitter: [@NeoSiteLinux](https://twitter.com/NeoSiteLinux)  
 Correo: [nag.garrido@gmail.com](mailto:nag.garrido@gmail.com)  
-

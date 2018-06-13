@@ -12,18 +12,18 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://losdanko.podomatic.com/rss2.xml-->
 <!--reproductor-start-->
 <audio id="audio" preload="auto" controls="" src="http://losdanko.podOmatic.com/enclosure/2018-04-23T13_00_00-07_00.mp3"></audio>
 <!--reproductor-end-->
 
-¿Qué tendrán Los Danko para que artistas como Mario Vaquerizo, Toteking o la propia MTV se acerquen a su universo? 
-El Pelos y Sam Danko te traen una visión alternativa y desdenfadada de la realidad, episodios divertidos e inesperados sobre lo actual, lo humano, y lo divino. Un show alternativo y único, no vinculado a ningún ente mediático, libre de censuras y tabús... 
-Desde 2008 innovando, con un humor muy particular e inimitable, han traspasado las barreras del podcasting en numerosas ocasiones a través de actuaciones, directos, emisoras de radio como Ona Sants o ScannerFM, ...¡e incluso se han atrevido a destripar vídeos musicales en MTV España! 
-Más de 1.000.000 de descargas de sus programas, número 1 en Itunes, Trending topic en Twitter o premios nacionales de Podcasting atesoran un estilo inconfundible que engancha desde el primer minuto. 
-Nancys Rubias, Arkano, Eva Santolaria, Porta, Teo Rodríguez o Rafael Amargo son solo algunos de los entrevistados que han sucumbido a las preguntas humanas e irreverentes de Los Danko... 
+¿Qué tendrán Los Danko para que artistas como Mario Vaquerizo, Toteking o la propia MTV se acerquen a su universo?
+El Pelos y Sam Danko te traen una visión alternativa y desdenfadada de la realidad, episodios divertidos e inesperados sobre lo actual, lo humano, y lo divino. Un show alternativo y único, no vinculado a ningún ente mediático, libre de censuras y tabús...
+Desde 2008 innovando, con un humor muy particular e inimitable, han traspasado las barreras del podcasting en numerosas ocasiones a través de actuaciones, directos, emisoras de radio como Ona Sants o ScannerFM, ...¡e incluso se han atrevido a destripar vídeos musicales en MTV España!
+Más de 1.000.000 de descargas de sus programas, número 1 en Itunes, Trending topic en Twitter o premios nacionales de Podcasting atesoran un estilo inconfundible que engancha desde el primer minuto.
+Nancys Rubias, Arkano, Eva Santolaria, Porta, Teo Rodríguez o Rafael Amargo son solo algunos de los entrevistados que han sucumbido a las preguntas humanas e irreverentes de Los Danko...
 ...Donde otros no llegan, Los Danko se pasan.  
 
 _ _ _
@@ -36,4 +36,3 @@ Autor: **El Pelos y Sam Danko**
 **Contacta:**  
 Twitter: [@losdanko](https://twitter.com/losdanko)  
 Correo: [losdanko@hotmail.com](mailto:losdanko@hotmail.com)  
-

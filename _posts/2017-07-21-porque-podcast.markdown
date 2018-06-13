@@ -12,7 +12,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/PorquePodcast300.jpg
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://porquepodcast.com/feed/-->
 <!--reproductor-start-->
@@ -39,4 +39,3 @@ Autor: **Jorge Marín, Fernando Espí, Bárbara Ramón, Enrique García, Blanca 
 **Contacta:**  
 Twitter: [@porquepodcast](https://twitter.com/porquepodcast)  
 Correo: [porquepodcast@gmail.com](mailto:porquepodcast@gmail.com)  
-

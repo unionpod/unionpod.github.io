@@ -12,7 +12,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/las-cosas-de-
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/cosas-kaminsky_fg_f1112866_filtro_1.xml-->
 <!--reproductor-start-->
@@ -36,4 +36,3 @@ Autor: **Sr. Kaminsky**
 **Contacta:**  
 Twitter: [@srkaminsky](https://twitter.com/srkaminsky)  
 Correo: [kaminskypod@gmail.com](mailto:kaminskypod@gmail.com)  
-

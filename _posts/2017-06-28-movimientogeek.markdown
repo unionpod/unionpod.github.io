@@ -12,11 +12,11 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Movimientogeek300.jpg
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://www.ivoox.com/movimientogeek_fg_f1292042_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/hoy-tratamos-evento-google-i-o-2018_mf_25889491_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/vivo-nexya-esta-aqui-nokia-x6-a-nivel_mf_26504355_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -38,4 +38,3 @@ Autor: **@gabrielcar23**
 **Contacta:**  
 Twitter: [@gabrielcar23 ](https://twitter.com/gabrielcar23)  
 Correo: [GabrielCarbone23@gmail.com](mailto:GabrielCarbone23@gmail.com)  
-

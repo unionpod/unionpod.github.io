@@ -12,11 +12,11 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Mul
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://mulletclub.libsyn.com/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/mulletclub/RDC020.mp3?dest-id=439256"></audio>
+<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/mulletclub/OPM002.mp3?dest-id=439256"></audio>
 <!--reproductor-end-->
 
 
@@ -33,4 +33,3 @@ Autor: **Wan Pérez**
 **Contacta:**  
 Twitter: [@mulletclubpe](https://twitter.com/mulletclubpe)  
 Correo: [info@mulletclub.pe](mailto:info@mulletclub.pe)  
-

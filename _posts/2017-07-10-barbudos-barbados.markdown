@@ -12,7 +12,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Barbudos-Barbados-300.
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://lapatadafm.com/barbudosbarbados?format=rss-->
 <!--reproductor-start-->
@@ -32,4 +32,3 @@ Autor: **Kike Dóniz y Quique Medarde**
 **Contacta:**  
 Twitter: [@barbudobarbado](https://twitter.com/barbudobarbado)  
 Correo: [barbudos@medarde.com](mailto:barbudos@medarde.com)  
-

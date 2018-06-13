@@ -12,11 +12,11 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/300hcslogo2-Lu
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/hablemos-spoilers_fg_f1285937_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/crossover-hablemos-spoilers-2vk_mf_25729985_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/103-hablemos-spoilers-guerrero-tigrillo-la_mf_26415631_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast dedicado a los spoilers en la cultura popular. También comentamos actualidad, política, fútbol y muchos temas random.
@@ -33,4 +33,3 @@ Autor: **Lúen Mendoza, César Vílchez, Saussure Figueroa, Alberto Escalante, C
 **Contacta:**  
 Twitter: [@luenmendoza](https://twitter.com/luenmendoza)  
 Correo: [Lmendoza4649@gmail.com](mailto:Lmendoza4649@gmail.com)  
-

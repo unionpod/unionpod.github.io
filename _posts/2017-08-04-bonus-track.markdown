@@ -13,11 +13,11 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/BonusPerfil300.jpg
 <br/>  
 
 
-### Escucha el último episodio  
+### Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/BonusTrackEnRadio-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.whooshkaa.com/podcasts/1923/episodes/525745-bonus227.mp3?id=193172"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.whooshkaa.com/podcasts/1923/episodes/643f71-bonus236.mp3?id=244632"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -34,9 +34,3 @@ Autores: **@walteralta, @pablooliphant y @primofernandez1**
 
 **Contacta:**  
 Twitter: [@bonusfm](https://twitter.com/bonusfm)  
-
-
-
-
-
-

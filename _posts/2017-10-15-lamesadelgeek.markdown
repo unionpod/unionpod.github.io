@@ -12,7 +12,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Tnakzcmj_300-
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.spreaker.com/user/9493208/episodes/feed-->
 <!--reproductor-start-->
@@ -32,4 +32,3 @@ Autor: **Alexmm19 y toledofranc**
 **Contacta:**  
 Twitter: [@lamesadelgeek](https://twitter.com/lamesadelgeek)  
 Correo: [lamesadelgeek@gmail.com](mailto:lamesadelgeek@gmail.com)  
-

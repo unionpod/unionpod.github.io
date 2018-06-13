@@ -12,7 +12,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/podcast-logos-podcast_fg_f164083_filtro_1.xml-->
 <!--reproductor-start-->
@@ -31,4 +31,3 @@ Autor: **Zero Uno, Nad Two, Nexus, Mai, Kiwi, Benring, Tex Tek**
 **Contacta:**  
 Twitter: [@logospodcast](https://twitter.com/logospodcast)  
 Correo: [podcastlogos@gmail.com](mailto:podcastlogos@gmail.com)  
-

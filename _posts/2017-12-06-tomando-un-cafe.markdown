@@ -12,11 +12,11 @@ preview: https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/TomandoUnCaf30
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://rss.whooshkaa.com/rss/podcast/id/2429-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.whooshkaa.com/podcasts/2429/episodes/34455d-31-compraalternativaraspberry.mp3?id=193200&ha=2580"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.whooshkaa.com/podcasts/2429/episodes/889c3c-rock64-i.mp3?id=245043&ha=2580"></audio>
 <!--reproductor-end-->
 
 Podcast sobre aplicaciones de Linux que pongo en mi canal de telegram Un Día Una Aplicación, https://t.me/UnDiaUnaAplicacion, y comentarios o reflexiones sobre diversos temas relacionados con informática, Telegram ,programación o tecnología.  
@@ -33,4 +33,3 @@ Autor: **Jose Jimenez**
 **Contacta:**  
 Twitter: [@Tomando_Un_Cafe](https://twitter.com/Tomando_Un_Cafe)  
 Correo: [tomandouncafe@netc.eu](mailto:tomandouncafe@netc.eu)  
-

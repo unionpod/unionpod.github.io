@@ -12,7 +12,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Cinereview300
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.feedburner.com/ivoox/cinereviews-->
 <!--reproductor-start-->
@@ -34,4 +34,3 @@ Autor: **David olivares**
 **Contacta:**  
 Twitter: [@ReviewsCine](https://twitter.com/ReviewsCine)  
 Correo: [cinereviewsespanol@outlook.com](mailto:cinereviewsespanol@outlook.com)  
-

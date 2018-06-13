@@ -12,11 +12,11 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/lan
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://pe.ivoox.com/es/langoy-podcast_fg_f1115612_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/interpodcast2018-rodrigo-wangeman-una-luz-roja_mf_25785650_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/langoy-148-trailers-noticias-toxicidad_mf_26456785_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Un podcast sobre cultura pop, coyuntura nacional y política.  
@@ -32,4 +32,3 @@ Anderson Fortunato Ávila y Danigot Seguil**
 **Contacta:**  
 Twitter: [@El_Langoy](https://twitter.com/El_Langoy)  
 Correo: [hola@langoypodcast.com](mailto:hola@langoypodcast.com)  
-

@@ -18,12 +18,12 @@ Internet es un estado de ánimo.
 
 <br/>
 
-## Escucha el último episodio  
+## Escucha su más reciente episodio  
 
 
 <!--reproductor-feed=http://feeds2.feedburner.com/InterYNet-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://archive.org/download/INTERYNETPODCAST228/INTERYNETPODCAST228.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://archive.org/download/INTERYNETPODCAST229INTERNETPISTADEATERRIZAJE/INTERYNETPODCAST229INTERNETPISTADEATERRIZAJE.mp3"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -39,13 +39,6 @@ Autores: **Fran Trujillo**
 
 
 **Contacta:**  
-Twitter: [@interynet](https://twitter.com/interynet) 
+Twitter: [@interynet](https://twitter.com/interynet)
 
 Correo: [interynet@gmail.com](mailto:interynet@gmail.com)   
-
-
-
-
-
-
-

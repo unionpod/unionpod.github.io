@@ -12,11 +12,11 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/F
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.soundcloud.com/users/soundcloud:users:332307216/sounds.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/francoinformador/Entrenadores_que_repiten.mp3?dest-id=682690"></audio>
+<audio id="audio" preload="auto" controls="" src="http://traffic.libsyn.com/francoinformador/Aqui_Moscu_7.mp3?dest-id=682690"></audio>
 <!--reproductor-end-->
 
 Noticias destacadas, entrevistas a líderes, innovadores y emprendedores. Mundo tech también tiene un lugar.
@@ -31,4 +31,3 @@ Autor: **Soledad Franco**
 **Contacta:**
 Twitter: [@francoinforma](https://twitter.com/francoinforma)
 Correo: [francoinformador@gmail.com](mailto:francoinformador@gmail.com)
-

@@ -13,11 +13,11 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/U
 <br/>  
 
 
-### Escucha el último episodio  
+## Escucha su más reciente episodio  
 
 <!--reproductor-feed=https://audioboom.com/channels/4920011.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6844378.mp3?modified=1525692720&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6883564.mp3?modified=1528156935&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 <br>
@@ -36,11 +36,5 @@ Web del [Podcast](https://audioboom.com/channel/unionpodcastera)
 
 **Contacta:**  
 Twitter: [UnionPodcastera](https://twitter.com/@UnionPodcastera)  
-Telegram: [@unionpod](https://t.me/unionpod) 
+Telegram: [@unionpod](https://t.me/unionpod)
 Canal de [YouTube](http://bit.ly/2sfNSle)
-
-
-
-
-
-

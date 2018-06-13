@@ -12,7 +12,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/LaManijaPodca
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://audioboom.com/channels/4598071.rss-->
 <!--reproductor-start-->
@@ -21,7 +21,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/LaManijaPodca
 
 <br>
 
-@JuliiCaceres, @JaviCoff y @LeoBombelli se juntan para hablarte de las cosas que les gustan. 
+@JuliiCaceres, @JaviCoff y @LeoBombelli se juntan para hablarte de las cosas que les gustan.
 
 _ _ _
 
@@ -35,4 +35,3 @@ Autor: **Juli Caceres - Javi Masicoff - Leo Bombelli**
 **Contacta:**  
 Twitter: [@lamanijapod](https://twitter.com/lamanijapod)  
 Correo: [lamanijapodcast@gmail.com](mailto:lamanijapodcast@gmail.com)  
-

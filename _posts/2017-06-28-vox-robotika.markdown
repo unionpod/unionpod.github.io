@@ -12,11 +12,11 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/VoxRobotika300.png
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://voxrobotika.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://voxrobotika.podbean.com/mf/feed/3q4k39/E97.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://voxrobotika.podbean.com/mf/feed/jkh9ic/2018-06-05-22-13-06.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -37,4 +37,3 @@ Autor: **Berto Melèndez, Hector Diaz, Benny Nieves, Jorge L Rodrìguez, Ariel M
 **Contacta:**  
 Twitter: [twitter.com/voxrobotika](https://twitter.com/witter.com/voxrobotika)  
 Correo: [voxrobotika@gmail.com](mailto:voxrobotika@gmail.com)  
-

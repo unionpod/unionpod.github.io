@@ -12,11 +12,11 @@ preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300QDE 
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://audioboom.com/channels/4254821.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6849492.mp3?modified=1525906343&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6890082.mp3?modified=1528509765&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 Un podcast sobre películas y series.  
@@ -32,4 +32,3 @@ Autor: **Federico Fabrizio**
 **Contacta:**  
 Twitter: [@quemesepod](https://twitter.com/quemesepod)  
 Correo: [quemesepodcast@gmail.com](mailto:quemesepodcast@gmail.com)  
-

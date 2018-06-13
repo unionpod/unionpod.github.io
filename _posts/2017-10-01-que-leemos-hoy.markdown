@@ -12,11 +12,11 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Coverart-QuLe
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://www.queleemoshoy.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://media.blubrry.com/queleemoshoy/content.blubrry.com/queleemoshoy/QLH014b.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://media.blubrry.com/queleemoshoy/content.blubrry.com/queleemoshoy/QLHE005.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast bisemanal en español sobre libros, literatura y recomendaciones de lectura. No importa tu preferencia literaria, si te gusta leer ¡este podcast es para vos! Cada dos semanas, te traeré un nuevo tema, y con ello una serie de tres recomendaciones para que te animés a emprender una nueva lectura.  
@@ -32,4 +32,3 @@ Autor: **Mario Chacon**
 **Contacta:**  
 Twitter: [@queleemoshoycr](https://twitter.com/queleemoshoycr)  
 Correo: [info@queleemoshoy.com](mailto:info@queleemoshoy.com)  
-

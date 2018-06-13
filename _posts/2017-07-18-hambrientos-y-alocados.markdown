@@ -12,7 +12,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/HyAlocados300.jpg
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://hambrientosyalocados.com/feed/podcast/-->
 <!--reproductor-start-->
@@ -37,4 +37,3 @@ Autor: **Javier Castro, Augusto Collado, Pablo Costa**
 **Contacta:**
 Twitter: [@hambrientosOK](https://twitter.com/hambrientosOK)  
 Correo: [pablo@coconuts.la](mailto:pablo@coconuts.la)  
-

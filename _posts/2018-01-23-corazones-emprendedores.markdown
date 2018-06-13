@@ -12,7 +12,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Cor
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://www.ivoox.com/corazones-emprendedores-historias-humanas_fg_f1426637_filtro_1.xml-->
 <!--reproductor-start-->
@@ -33,4 +33,3 @@ Autor: **Joeh Bernard**
 **Contacta:**  
 Twitter: [@joehbernard](https://twitter.com/joehbernard)  
 Correo: [joeh@corazonesemprendedores.com](mailto:joeh@corazonesemprendedores.com)  
-

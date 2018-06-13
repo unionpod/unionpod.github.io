@@ -12,11 +12,11 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Cucubano300-M
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://us.ivoox.com/es/cucubano_fg_f1212087_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/cucubano-135-robos-venganza_mf_25820922_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/cucubano-140-conversando-bichacool_mf_26466904_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
@@ -36,4 +36,3 @@ Autor: **Manolo Matos**
 **Contacta:**  
 Twitter: [@cucubanopod](https://twitter.com/cucubanopod)  
 Correo: [cucubanopod@gmail.com](mailto:cucubanopod@gmail.com)  
-

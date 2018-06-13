@@ -12,7 +12,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Safe
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://feeds.feedburner.com/safeshadowpodcast-->
 <!--reproductor-start-->
@@ -31,4 +31,3 @@ Autor: **Kenneth Guerra**
 **Contacta:**  
 Twitter: [@safeshadow](https://twitter.com/safeshadow)  
 Correo: [ken@safeshadow.com](mailto:ken@safeshadow.com)  
-

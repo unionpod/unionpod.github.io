@@ -12,11 +12,11 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/repaso_notici
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=https://feeds.feedburner.com/RepasoNoticioso-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/RepasoNoticioso/~5/8cYg-AzOgrE/RN_10mayo2018.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/RepasoNoticioso/~5/KtzDzeRox78/RN_7junio2018.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>
@@ -28,12 +28,11 @@ _ _ _
 Autor: **@RepasoNoticioso**  
 [web](https://www.jyestudio.com/repasonoticioso/)   
 [Feed](https://feeds.feedburner.com/RepasoNoticioso)   
-  
-  
+
+
 **Puedes escuchar este podcast en:**  
 [iTunes](https://itunes.apple.com/us/podcast/repaso-noticioso/id1205225213?mt=2)  
 
 **Contacta:**  
 Twitter: [@RepasoNoticioso](https://twitter.com/RepasoNoticioso)  
 Correo: [podcast@repasonoticioso.com](mailto:podcast@repasonoticioso.com)  
-

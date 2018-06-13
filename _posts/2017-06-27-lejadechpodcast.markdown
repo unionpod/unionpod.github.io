@@ -12,7 +12,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/image3904.png
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://lejadech.libsyn.com/rss-->
 <!--reproductor-start-->
@@ -33,4 +33,3 @@ Autor: **Carlos Malovini **
 **Contacta:**  
 Twitter: [@lejadech](https://twitter.com/lejadech)  
 Correo: [Lejadech@outlook.com](mailto:Lejadech@outlook.com)  
-

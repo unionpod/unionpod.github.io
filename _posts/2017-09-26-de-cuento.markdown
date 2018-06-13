@@ -12,7 +12,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/DeCuento300.j
 <br/>
 <br/>
 
-## Escucha el último episodio
+## Escucha su más reciente episodio
 
 <!--reproductor-feed=http://feeds.soundcloud.com/users/soundcloud:users:212594801/sounds.rss-->
 <!--reproductor-start-->
@@ -33,4 +33,3 @@ Autor: **Romi a veces @romiaveces y Cristian Bolajuzón @Boli_ilustra**
 **Contacta:**  
 Twitter: [@archivopodcast](https://twitter.com/archivopodcast)  
 Correo: [rominafaga@gmail.com](mailto:rominafaga@gmail.com)  
-
