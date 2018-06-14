@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Potencialmill
 
 <!--reproductor-feed=https://Audiodice.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://AudioDice.podbean.com/mf/feed/6fprti/Ep_238.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://AudioDice.podbean.com/mf/feed/nkzp7e/Ep_239.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

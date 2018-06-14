@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Peor Caso"
+date: 2018-05-10 08:25:22
+tags: [Cultura]
+categories: [Semanal, USA]
+preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/Pclogo300-ArmandoLoyola.jpg
+---
+
+![Peor Caso](https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/Pclogo500-ArmandoLoyola.jpg)
+
+<br/>
+<br/>
+
+## Escucha su más reciente episodio
+
+<!--reproductor-feed=http://peorcaso.podbean.com/feed/-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="https://peorcaso.podbean.com/mf/feed/3cns5c/PCE39_-_Esquizofrenia.mp3"></audio>
+<!--reproductor-end-->
+
+Peor caso es un podcast sobre ciencia, historia y cultura de lo extraño, terrible y perturbador. Cada semana exploramos distintos temas, tabúes o generalmente ignorados, destacando con algo de humor negro, los detalles más escalofriantes que expandirán tu visión de nuestro mundo.  
+
+_ _ _
+
+<br>
+
+Autor: **Armando Loyola y Cristofer Covacevich**  
+[web](http://www.peorcaso.com)  
+[Feed](http://peorcaso.podbean.com/feed/)  
+
+
+
+**Contacta:**  
+Twitter: [@PeorCaso](https://twitter.com/PeorCaso)  
+Correo: [peorcaso@gmail.com](mailto:peorcaso@gmail.com)  
