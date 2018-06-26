@@ -16,7 +16,7 @@ preview: https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/TomandoUnCaf30
 
 <!--reproductor-feed=https://rss.whooshkaa.com/rss/podcast/id/2429-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.whooshkaa.com/podcasts/2429/episodes/889c3c-rock64-i.mp3?id=245043&ha=2580"></audio>
+<audio id="audio" preload="auto" controls="" src="https://media.whooshkaa.com/podcasts/2429/episodes/c15997-minicursos.mp3?id=248464&ha=2580"></audio>
 <!--reproductor-end-->
 
 Podcast sobre aplicaciones de Linux que pongo en mi canal de telegram Un Día Una Aplicación, https://t.me/UnDiaUnaAplicacion, y comentarios o reflexiones sobre diversos temas relacionados con informática, Telegram ,programación o tecnología.  

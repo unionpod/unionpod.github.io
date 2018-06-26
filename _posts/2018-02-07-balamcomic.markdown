@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://feeds.feedburner.com/balamcomic-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/balamcomic/~5/4LpIkk3UQUE/Ivan-Tapia-el-Doc.-Ivanevsky-en-BalamComic-cbc2.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/balamcomic/~5/wuQjDfheqiM/David-De-La-Cal-en-BalamComic-d785.mp3"></audio>
 <!--reproductor-end-->
 
 En BalamComic platico con dibujantes y artistas, donde me cuentan su historia de como se formaron y lucharon para alcanzar su sueño, vivir de su arte.  

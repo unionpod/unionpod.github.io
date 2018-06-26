@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300plan
 
 <!--reproductor-feed=https://anchor.fm/s/37f9b00/podcast/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/37f9b00/podcast/play/718693/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-audio-bank%2Fstaging%2F2018-5-11%2FEp--9--Les-va-doler-feat--H-ct-ccad1481729b5.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/37f9b00/podcast/play/806310/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-audio-bank%2Fproduction%2F2018-5-25%2F3367678-44100-2-80ea03b9f9564.mp3"></audio>
 <!--reproductor-end-->
 
 Tres amigos decidieron que tenían que sacar sus conversaciones de las barras y llevarlas a un podcast. Este es el resultado de esa idea materializada en audio.  

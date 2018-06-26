@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Vivi
 
 <!--reproductor-feed=https://vivirminimalista.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://vivirminimalista.podbean.com/mf/feed/c6kte2/Episodio_14_Convivir_con_un_Minimalista.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://vivirminimalista.podbean.com/mf/feed/vezuns/Episodio_15_Regalos_Minimalistas.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast semanal sobre el estilo de vida minimalista y mindfulness.  

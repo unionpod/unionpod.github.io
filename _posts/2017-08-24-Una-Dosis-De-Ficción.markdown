@@ -21,7 +21,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Unadosisdef300-RinnyA.
 
 <!--reproductor-feed=https://www.ivoox.com/una-dosis-ficcion_fg_f1277366_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/the-booklovers_mf_26162993_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://mx.ivoox.com/es/the-booklovers_mf_26162993_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

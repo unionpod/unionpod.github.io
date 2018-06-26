@@ -16,7 +16,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://feeds.feedburner.com/desdeboxes-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/desdeboxes/~5/0PBXXG4-0oQ/resumen-gp-canada-2018_md_26533317_wp_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/desdeboxes/~5/yGDLdaX_3n0/previo-gp-francia-2018_md_26631899_wp_1.mp3"></audio>
 <!--reproductor-end-->
 
 El podcast de Formula 1 hecho por aficionados para aficionados.  

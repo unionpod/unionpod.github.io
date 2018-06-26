@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Educandogeek3
 
 <!--reproductor-feed=http://feeds.feedburner.com/educandogeek-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/443d308/podcast/play/693788/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-audio-bank%2Fstaging%2F2018-5-6%2FEGA-3-Solucionados-Los-Problem-a430e73ca3413.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/443d308/podcast/play/804542/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-audio-bank%2Fstaging%2F2018-5-24%2FEGA-5-Elimina-La-Publicidad-De-94a9d45fdca8d.m4a"></audio>
 <!--reproductor-end-->
 
 <br>

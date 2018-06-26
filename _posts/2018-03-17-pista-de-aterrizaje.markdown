@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Itu
 
 <!--reproductor-feed=http://www.pistadeaterrizaje.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/pistadeaterrizaje/traffic.libsyn.com/pistadeaterrizaje/Podlog_3_-_El_KGB_y_el_Castillo_de_Trakai.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/pistadeaterrizaje/traffic.libsyn.com/pistadeaterrizaje/Noticiero_Viajero_-_Mayo_2018.mp3"></audio>
 <!--reproductor-end-->
 
 Pista de aterrizaje es el podcast sobre viajes que alimenta tus ganas de viajar.

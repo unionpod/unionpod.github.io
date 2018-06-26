@@ -16,7 +16,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/B
 
 <!--reproductor-feed=http://feeds.feedburner.com/barbedel-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/15008128/episodio_67_las_mil_vidas_de_bryan_adams_con_honkymiss.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/15116965/episodio_69_canciones_de_la_noche_de_san_juan.mp3"></audio>
 <!--reproductor-end-->
 
 El Bar Bedel es un podcast en directo en la plataforma Spreaker, todos los sábados a las 22:45 CET donde escuchamos buena música, invitamos a amigos a comentarlo en directo con el camarero y tenemos participación activa con nuestros escuchantes en el chat del programa. Solo hay un objetivo, pasar 45 minutos entretenidos y con buena música.  

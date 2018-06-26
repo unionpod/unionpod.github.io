@@ -16,7 +16,7 @@ preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/CuatroC
 
 <!--reproductor-feed=https://rss.whooshkaa.com/rss/podcast/id/2936-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.whooshkaa.com/podcasts/2936/episodes/1389c7-cuatrocero-episodio-cero.mp3?id=245246&ha=2580"></audio>
+<audio id="audio" preload="auto" controls="" src="https://media.whooshkaa.com/podcasts/2936/episodes/4a1122-promo-cuatro-cero.mp3?id=196572&ha=2580"></audio>
 <!--reproductor-end-->
 
 La vida empieza a los cuarenta...  
