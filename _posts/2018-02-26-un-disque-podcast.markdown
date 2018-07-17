@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Log
 
 <!--reproductor-feed=http://feeds.feedburner.com/UnDisquePodcast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/episodio-29-personajes-iconicos-harry-houdini_mf_26685484_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/episodio-32-conociendo-china_mf_27051762_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Pasatiempos & Curiosidades  

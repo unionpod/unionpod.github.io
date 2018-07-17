@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-Cod
 
 <!--reproductor-feed=http://feeds.feedburner.com/codigodesalida-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/ellebanna-estrategy-room-escape_mf_26478580_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/aegis-pesadilla-atropos_mf_26873745_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Un podcast sobre room escape, reviews de salas sin spoilers.  

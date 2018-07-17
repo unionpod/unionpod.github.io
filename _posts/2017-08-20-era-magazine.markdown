@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/eramagazine30
 
 <!--reproductor-feed=http://www.ivoox.com/era-magazine_fg_f1414152_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/253-loudly-canciones-furia-emocion_mf_26727469_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/265-ambre-rock-kraut-electronica_mf_27092926_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>

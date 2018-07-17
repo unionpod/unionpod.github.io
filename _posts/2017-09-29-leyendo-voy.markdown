@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/LeyendoVoy300
 
 <!--reproductor-feed=http://feeds.feedburner.com/leyendovoy-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/104e31c/podcast/play/509578/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-audio-bank%2Fstaging%2F2018-4-5%2FA009-Eleanor-Oliphant-se-encue-c43897366bd05.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/104e31c/podcast/play/834353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-5-30%2F3440993-44100-2-fe5e8bc7d19bf.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

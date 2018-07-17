@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-Dan
 
 <!--reproductor-feed=http://www.spreaker.com/show/2571812/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/15122155/futpolemica31.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/15254051/futpolemica35.mp3"></audio>
 <!--reproductor-end-->
 
 Una discusión del fútbol en su más elemental esencia.  

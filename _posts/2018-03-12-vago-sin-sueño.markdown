@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 
 <!--reproductor-feed=http://www.ivoox.com/vago-sin-sueno_fg_f1452022_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/18-liberarte-talleres-especiales_mf_26696790_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/19-eleva-tu-cosmos-jorge-pegaso_mf_26952203_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast quincenal de entrevistas a proyectos artísticos, culturales y musicales independientes.  

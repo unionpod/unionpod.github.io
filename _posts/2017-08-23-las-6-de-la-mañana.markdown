@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/06am-PepeBarr
 
 <!--reproductor-feed=http://feed.quechilero.com/las6am-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://media.blubrry.com/quechilero/dts.podtrac.com/redirect.mp3/archive.org/download/las6am-2/6am-podcast-1199.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feed.quechilero.com/~r/las6am/~5/m64vj-zKBHQ/podcast-las-6am-episodio-1199-vogue.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

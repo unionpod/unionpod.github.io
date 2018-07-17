@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300secr
 
 <!--reproductor-feed=Https://anchor.fm/s/47647d4/podcast/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/47647d4/podcast/play/728540/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-audio-bank%2Fstaging%2F2018-5-12%2FTres-consejos-para-que-tu-cont-62f2c08d5c0e5.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/47647d4/podcast/play/728540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-5-12%2FTres-consejos-para-que-tu-cont-62f2c08d5c0e5.m4a"></audio>
 <!--reproductor-end-->
 
 En este espacio hablamos sobre todo aquello que no te cuentan sobre los medios de comunicación y cómo puedes sacarles ventaja para hacer crecer tu empresa sin importar el rubro en el que te encuentres trabajando.  

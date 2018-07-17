@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=https://www.blubrry.com/feeds/inbound.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/inbound/content.blubrry.com/inbound/La_importancia_del_CRM_para_tu_empresa_y_tus_clientes.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://media.blubrry.com/inbound/content.blubrry.com/inbound/EPJavier_TIP_Trial_Fix_2_.mp3"></audio>
 <!--reproductor-end-->
 
 Bienvenidos al podcast “Creciendo con Inbound”, donde especialistas mundiales comparten tips accionables sobre Marketing Inbound, Ventas Inbound y Experiencia del Cliente que puedes aplicar ahora para hacer crecer tu negocio.

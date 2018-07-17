@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Desdelabarrad
 
 <!--reproductor-feed=http://www.spreaker.com/show/1409607/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/15130070/ios_10_beta_publica.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/novedad-deteccion-terremotos-roban-datos-de_mf_27091582_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
