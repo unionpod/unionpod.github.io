@@ -2,7 +2,7 @@
 layout: post
 title: "Mates y Football"
 date: 2018-04-28 21:04:22
-tags: [Deporte]
+tags: [Deportes]
 categories: [Quincenal, Argentina, Uruguay]
 preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Logo_up-RicardoChocron.jpg
 ---

@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 
 <!--reproductor-feed=http://losdanko.podomatic.com/rss2.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://losdanko.podOmatic.com/enclosure/2018-07-01T09_53_30-07_00.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://losdanko.podOmatic.com/enclosure/2018-07-27T11_00_00-07_00.mp3"></audio>
 <!--reproductor-end-->
 
 ¿Qué tendrán Los Danko para que artistas como Mario Vaquerizo, Toteking o la propia MTV se acerquen a su universo?

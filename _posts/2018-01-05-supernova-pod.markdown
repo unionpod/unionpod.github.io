@@ -2,7 +2,7 @@
 layout: post
 title: "Supernova Pod"
 date: 2018-01-05 21:23:51
-tags: [Audiorelatos]
+tags: [Audio_Relato]
 categories: [Quincenal, Venezuela]
 preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/300supernovaCover-FernandoLDvila.png
 ---
@@ -16,7 +16,7 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/300supernovaCo
 
 <!--reproductor-feed=https://feeds.podcastmirror.com/supernovapod-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://dts.podtrac.com/redirect.mp3/files.whooshkaa.com/podcasts/podcast_2423/podcast_media/37f9ae-snp05128stereo.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://dts.podtrac.com/redirect.mp3/media.whooshkaa.com/podcasts/2423/episodes/89fb1f-snp6-algun-dia-final.mp3"></audio>
 <!--reproductor-end-->
 
 Supernova Pod es la primera revista de literatura de ciencia ficción en formato de podcast, una ventana para los autores de ciencia ficción de habla hispana. En cada episodio traeremos para ustedes relatos, entrevistas y la actualidad de la ciencia ficción escrita en castellano.

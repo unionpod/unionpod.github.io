@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Educandogeek3
 
 <!--reproductor-feed=http://feeds.feedburner.com/educandogeek-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/443d308/podcast/play/871223/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-8%2FEGA-6-Libera-El-Bluetooth-Del--94a8ca2f20bb5.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/443d308/podcast/play/1016322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-30%2FEGA-9-Vicisitudes-en-iVoox-79fa5ea92f233.m4a"></audio>
 <!--reproductor-end-->
 
 <br>

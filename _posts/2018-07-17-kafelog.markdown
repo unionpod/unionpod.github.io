@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Kafelog"
+date: 2018-07-17 02:07:34
+tags: [Comedia]
+categories: [Quincenal, Espana]
+preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-kflog-FranZaplana.jpg
+---
+
+![Kafelog](https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/500-Kflog-FranZaplana.jpg)
+
+<br/>
+<br/>
+
+## Escucha su más reciente episodio
+
+<!--reproductor-feed=http://www.kafelog.com/feed/-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/kafelog/~5/0cyFkEVHMh8/kafelog140.mp3"></audio>
+<!--reproductor-end-->
+
+Kafelog es un podcast sobre tecnología, internet, cine y videojuegos. Kafelog es un podcast que inició su andadura en 2007. Desde la concepción de su idea original hasta el momento de ponerla en práctica, diversas cosas cambiaron, incluida la propia idea. Y esos cambios nos han ido acompañando hasta el día de hoy y seguirán en el futuro. Siempre hemos querido ofrecer un programa entretenido, divertido y que permitiera a nuestros oyentes descubrir algo nuevo en cada episodio.
+
+_ _ _
+
+<br>
+Autor: **Fran Zaplana, Roberto Pastor y Óscar J. Baeza**  
+[web](http://www.kafelog.com)  
+[Feed](http://www.kafelog.com/feed/)  
+
+
+
+**Contacta:**  
+Twitter: [@kafelog](https://twitter.com/kafelog)  
+Correo: [kafelog@gmail.com](mailto:kafelog@gmail.com)  

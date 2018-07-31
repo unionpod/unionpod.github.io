@@ -1,0 +1,36 @@
+---
+layout: post
+title: "FanDoom"
+date: 2018-07-28 16:16:05
+tags: [Videojuegos]
+categories: [Quincenal, Chile]
+preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-FandoomFd.png
+---
+
+![FanDoom](https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/500-FandoomFd.png)
+
+<br/>
+<br/>
+
+## Escucha su más reciente episodio
+
+<!--reproductor-feed=https://www.spreaker.com/show/2896357/episodes/feed-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="https://api.spreaker.com/download/episode/14516166/fandoom_cap_1.mp3"></audio>
+<!--reproductor-end-->
+
+FanDoom tiene su génesis en este periodo donde el fandom, los shipping, los fanfics, el fanart, el cosplay/cosmaking y el tradumaqueteo (entre otras creaciones autorales de una comunidad) han alimentado tanto la camaradería, como arruinado las franquicias con el desdén y la obsesión.
+Desde el sur de Chile, amigos autodidactas con distintas personalidades encauzan sus fanatismos en una charla ácida y reflexiva del medio audiovisual o la narrativa.
+
+_ _ _
+
+<br>
+Autor: **Jalann, Fulvus, Valkyan, Zhols y Abyssal**  
+[web](http://smarturl.it/gkpoec)  
+[Feed](https://www.spreaker.com/show/2896357/episodes/feed)  
+
+
+
+**Contacta:**  
+Twitter: [@FanDoom_Cl](https://twitter.com/FanDoom_Cl)  
+Correo: [fandoom.cl@gmail.com](mailto:fandoom.cl@gmail.com)  

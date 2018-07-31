@@ -2,7 +2,7 @@
 layout: post
 title: "Futpolemica"
 date: 2018-05-04 15:17:09
-tags: [Deporte]
+tags: [Deportes]
 categories: [Mensual, Colombia]
 preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-DanielDorronsoro.jpg
 ---

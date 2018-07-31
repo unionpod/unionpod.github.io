@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/TalEsc_podcas
 
 <!--reproductor-feed=https://feeds.feedburner.com/TalentoEscondido-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/TalentoEscondido/~5/qJkhH2I2Ivo/talesc_t03_t01.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/TalentoEscondido/~5/qX0WmbASl0A/talesc_t03_t01.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

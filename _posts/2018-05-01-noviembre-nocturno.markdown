@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-Nov
 
 <!--reproductor-feed=https://www.ivoox.com/podcast-noviembre-nocturno_fg_f111421_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/atlas-negro-1-el-senor-del-cisma_mf_27069774_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/zombie-chuck-palahniuk_mf_27289737_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Radio-ficción, relatos y verdades incómodas. El Terror puede tomar inesperadas formas, nosotros las estudiamos todas, por absurdas que puedan parecer.  

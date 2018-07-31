@@ -2,7 +2,7 @@
 layout: post
 title: "Catedral de Escuintla"
 date: 2017-08-23 19:20:40
-tags: [Católico]
+tags: [Religión]
 categories: [Guatemala, Semanal]
 preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Catedral-PepeBarrascoutOrtiz300.jpg
 ---

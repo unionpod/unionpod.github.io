@@ -2,7 +2,7 @@
 layout: post
 title: "Café con Java"
 date: 2018-04-20 17:57:23
-tags: [Sistemas, cultura]
+tags: [Sistemas, Cultura]
 categories: [Quincenal, Argentina]
 preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300cafeConJavaPodcast.png
 ---

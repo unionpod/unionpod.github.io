@@ -2,7 +2,7 @@
 layout: post
 title: "Nación Combi"
 date: 2018-01-22 01:33:02
-tags: [Economía, política]
+tags: [Economía, Política]
 categories: [Semanal, Peru]
 preview: https://ia801503.us.archive.org/23/items/Music500x500EstebanMontoya/nacion-combi%20300-%20Hans%20Rothgiesser.jpg
 ---
@@ -16,7 +16,7 @@ preview: https://ia801503.us.archive.org/23/items/Music500x500EstebanMontoya/nac
 
 <!--reproductor-feed=http://www.ivoox.com/nacion-combi_fg_f1254978_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/pastilla-89-ser-emprendedor-peru_mf_27073834_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/pastilla-91-escritor-microempresario_mf_27295348_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Un economista, un abogado y un publicista comentan las noticias más relevantes de la semana.

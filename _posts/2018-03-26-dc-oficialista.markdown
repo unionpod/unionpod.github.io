@@ -2,7 +2,7 @@
 layout: post
 title: "DC Oficialista"
 date: 2018-03-26 04:41:45
-tags: [Comic]
+tags: [Comics]
 categories: [Mensual, Argentina]
 preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300-dcNewLogo-NicolasPignataro.png
 ---
@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 
 <!--reproductor-feed=http://feeds.feedburner.com/ivoox/xFvF-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/ivoox/xFvF/~5/G-NMJkUbhtk/dc-oficialista-express-geoff-johns-copa-todo_mf_26475892_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/ivoox/xFvF/~5/byCJfjtCBfc/dc-oficialista-13-dc-sdcc-2018_mf_27178573_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Ultimas noticias del mundo DC, comics, peliculas, videojuegos. La vida por los colores que elegimos defender desde niños.  

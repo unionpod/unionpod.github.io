@@ -2,7 +2,7 @@
 layout: post
 title:  "Unión Podcastera"
 date:   2017-09-06 15:39:40
-tags: [Arte]
+tags: [Metapodcast]
 categories: [Varios-países, Quincenal]
 preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/UP300.png
 ---
@@ -17,7 +17,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/U
 
 <!--reproductor-feed=https://audioboom.com/channels/4920011.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6933613.mp3?modified=1531765039&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6947894.mp3?modified=1532869052&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 <br>

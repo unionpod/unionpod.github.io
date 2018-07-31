@@ -2,7 +2,7 @@
 layout: post
 title: "A propósito"
 date: 2017-07-19
-tags: [Filosofía, política, Literatura]
+tags: [Filosofía, Política, Literatura]
 categories: [Ecuador, Quincenal]
 preview: https://ia601505.us.archive.org/4/items/unionpod/aproposito300.jpg
 ---

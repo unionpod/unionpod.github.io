@@ -23,7 +23,7 @@ Internet es un estado de ánimo.
 
 <!--reproductor-feed=http://feeds2.feedburner.com/InterYNet-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://archive.org/download/INTERYNETPODCAST230/INTERYNETPODCAST230.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://archive.org/download/INTERYNETPODCAST232PODCASTERSRADIO/INTERYNETPODCAST232PODCASTERSRADIO.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=https://anchor.fm/s/1409394/podcast/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/1409394/podcast/play/257565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-2-13%2FLibro-23---El-hundimiento-del--0f1d37e9d2c39.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/1409394/podcast/play/997925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-27%2FLibro-25---El-caballero-que-ca-0195a03d8cd5b.m4a"></audio>
 <!--reproductor-end-->
 
 Un podcast de libros en el que leo en voz alta las primeras páginas de libros nuevos publicados en España.  

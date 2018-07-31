@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Vivi
 
 <!--reproductor-feed=https://vivirminimalista.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://vivirminimalista.podbean.com/mf/feed/2fm65r/Episodio_18_Mi_principal_desafio_el_minimalismo_financiero.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://vivirminimalista.podbean.com/mf/feed/646hvp/Episodio_19_El_minimalismo_y_la_tica_laboral_-_Minimalismo_laboral.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast semanal sobre el estilo de vida minimalista y mindfulness.  
