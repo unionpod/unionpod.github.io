@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Educandogeek3
 
 <!--reproductor-feed=http://feeds.feedburner.com/educandogeek-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/443d308/podcast/play/1016322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-30%2FEGA-9-Vicisitudes-en-iVoox-79fa5ea92f233.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://archive.org/download/55KodiVsNetflix/55%20Kodi%20Vs%20Netflix.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

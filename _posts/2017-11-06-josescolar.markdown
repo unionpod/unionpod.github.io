@@ -19,7 +19,8 @@ preview: https://ia600805.us.archive.org/21/items/unionpod/300-JoseEscolar.jpg
 <audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/18158/9762634/JosEscolar-NO-TIENE-CIUDAD.mp3"></audio>
 <!--reproductor-end-->
 
-Un día te cuento algo mío y otro algo que escribieron los demás. Pensamientos, desvaríos mentales, poemas, arte y literatura. En esta ficción encontrarás mucha verdad.  
+<br>
+Versos a voces.  
 
 
 _ _ _
@@ -32,4 +33,6 @@ Autor: **JosEscolar**
 
 **Contacta:**  
 Twitter: [@josescolar](https://twitter.com/josescolar)  
+[Youtube](http://youtube.com/josescolar)  
+[Instagram](https://www.instagram.com/josescolar/)  
 Correo: [josescolar@avpodcast.net](mailto:josescolar@avpodcast.net)  

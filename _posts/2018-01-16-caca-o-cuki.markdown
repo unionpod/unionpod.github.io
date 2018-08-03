@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/PRO
 
 <!--reproductor-feed=http://www.ivoox.com/caca-o-cuki_fg_f1391664_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/15-caca-o-cuki-trabajos-absurdos-y_mf_23156104_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://ar.ivoox.com/es/15-caca-o-cuki-trabajos-absurdos-y_mf_23156104_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Comentamos las noticias más absurdas que podemos encontrar hablándole a una cuchara sujeta con una taza e intentamos discernir si son Caca o Cuki... ¿tú que opinas?
