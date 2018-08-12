@@ -16,7 +16,7 @@ preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/CuatroC
 
 <!--reproductor-feed=https://rss.whooshkaa.com/rss/podcast/id/2936-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://media.whooshkaa.com/podcasts/2936/episodes/b2a164-cuatrocero-tres.mp3?id=255873&ha=2580"></audio>
+<audio id="audio" preload="auto" controls="" src="https://media.whooshkaa.com/podcasts/2936/episodes/9b4109-cuatrocero-magenta.mp3?id=262341&ha=2289"></audio>
 <!--reproductor-end-->
 
 La vida empieza a los cuarenta...  

@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Entiendetumen
 
 <!--reproductor-feed=http://feeds.feedburner.com/EntiendeTuMente-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/15325575/etm_verano_01_25_julio.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/15432777/etm_60_procrastinacion_extra.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

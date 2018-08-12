@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://www.ivoox.com/yo-virtualizador_fg_f1563806_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/yovirtualizador-1x08-la-virtualizacion-sus-fundamentos-1_mf_27328972_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/yovirtualizador-1x05-la-virtualizacion-sus-fundamentos-2_mf_27621561_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast de yovirtualizador.

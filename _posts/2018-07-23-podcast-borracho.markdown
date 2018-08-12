@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://podcastborracho.rocks/feed.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://podcastborracho.podbean.com/mf/feed/sv8ct8/pb281.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://podcastborracho.podbean.com/mf/feed/ugv4m7/pb279.mp3"></audio>
 <!--reproductor-end-->
 
 Periodismo al calor de los tragos. No hay de otro.

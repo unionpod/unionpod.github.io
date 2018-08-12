@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 
 <!--reproductor-feed=http://www.spreaker.com/show/2219632/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/15335135/internet_ilimitado_a_medias_pero_es_un_pasito_al_fin.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/15465748/nueva_seccion_los_trabajadores_tic_se_sienten_mal_pagados.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast (sin editar) donde intento contarte todo sobre tu smartphone y sistema operativo favorito, así como lo último en Tecnología.  

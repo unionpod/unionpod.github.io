@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Movimientogeek300.jpg
 
 <!--reproductor-feed=https://www.ivoox.com/movimientogeek_fg_f1292042_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/actualizacion-de-smartphones-ranking-android-evolucionando_mf_27283824_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/oppo-find-x-1000-dolares-la_mf_27585080_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

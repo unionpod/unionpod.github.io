@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-Cur
 
 <!--reproductor-feed=http://feeds.feedburner.com/curiosopodcast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/3465d7c/podcast/play/956711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-23%2FEp--05-D-a-De-La-Amistad--Or-g-697bf21fd8075.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6967411.mp3?modified=1534081058&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 Curioso Digital es un Podcast de difusión en el que hablamos de temas curiosos, como la tecnología, desarrollo personal, psicología, entrevistas y demás temas variados por cada episodio.

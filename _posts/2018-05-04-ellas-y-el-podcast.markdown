@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Ella
 
 <!--reproductor-feed=http://www.ivoox.com/ellas-podcast_fg_f1575300_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/ellas-e02-don-t-breathe_mf_27290533_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/ellas-t2-e1-fight-club_mf_27741803_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Ellas, conocidas por sus seudónimos Wallace Wells y Dominic De Coco, conversan a través de este podcast sobre series, películas y entretenimiento. Durante episodios de una hora aprox. hablarán sobre una variedad extendida de películas, lo que vieron en la semana y, por que no, sobre su apreciación por Leonardo Di Caprio entre otras cosas. Acompáñenlas a Ellas y a sus invitados en conversaciones donde la seriedad solo aparecerá por momentos.  
