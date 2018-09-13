@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Insanity Tech"
+title: "Insanity 2.0"
 date: 2017-11-26 15:04:33
 tags: [Tecnología]
 categories: [Mexico, Diario]
-preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300InsanityTech.jpg
+preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300%20insanity2.jpg
 ---
 
-![Android Apple y Más](https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/500InsanityTech.jpg)
+![Android Apple y Más](https://ia601509.us.archive.org/21/items/500LaFrikoteka/500%20insanity2.jpg)
 
 <br/>
 <br/>

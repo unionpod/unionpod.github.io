@@ -3,7 +3,7 @@ layout: post
 title: "Esquina del Vapeo"
 date: 2018-08-29 11:46:58
 tags: [Salud]
-categories: [México]
+categories: [Mexico]
 preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300%20Esquina%20del%20vapeo.png
 ---
 

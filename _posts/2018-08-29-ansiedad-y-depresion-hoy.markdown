@@ -3,7 +3,7 @@ layout: post
 title: "Ansiedad y Depresión hoy"
 date: 2018-08-29 11:37:01
 tags: [Psicologia,  Salud]
-categories: [Semanal, México]
+categories: [Semanal, Mexico]
 preview: https://ia801509.us.archive.org/21/items/500LaFrikoteka/300%20ayd%20-%20insanity2.0%20Podcast.png
 ---
 
