@@ -4,7 +4,7 @@ title: "Curiosamente"
 date: 2017-11-30 09:20:06
 tags: [Entretenimiento]
 categories: [Mexico]
-preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300%20curiosamente.jpg.jpeg
+preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300%20curiosamente.jpg
 ---
 
 ![¿Ya lo Sabías?](https://ia601509.us.archive.org/21/items/500LaFrikoteka/500%20curiosamente.jpg)
