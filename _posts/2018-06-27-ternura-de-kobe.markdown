@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://rss.castbox.fm/everest/a9a49d5eb2b14bc1936daa7a3d173502.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://s3.castbox.fm/8f/68/da/f056ee4014902b650f5dad3185.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://s3.castbox.fm/82/f0/4e/bdf4344621866fe2bff647cfa8.mp3"></audio>
 <!--reproductor-end-->
 
 "Ternura de Kobe" es un podcast intimista para relajarte y conectar contigo mismo/a. Un refugio de música y palabras en el que podrás compartir tu historia y descubrir cosas nuevas.

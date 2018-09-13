@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Educandogeek3
 
 <!--reproductor-feed=http://feeds.feedburner.com/educandogeek-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/443d308/podcast/play/1117616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-7-12%2FEGA-10-Plusdede--una-alternati-23512b67c054a.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/443d308/podcast/play/1287016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-8-7%2F-68-Usar-Telegram-para-almacen-faf54e49be47f.m4a"></audio>
 <!--reproductor-end-->
 
 <br>

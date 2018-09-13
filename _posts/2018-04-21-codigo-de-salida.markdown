@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-Cod
 
 <!--reproductor-feed=http://feeds.feedburner.com/codigodesalida-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/addams-house-escape_mf_27557269_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/codigo-salida-directo-fancon-2018_mf_28469982_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Un podcast sobre room escape, reviews de salas sin spoilers.  

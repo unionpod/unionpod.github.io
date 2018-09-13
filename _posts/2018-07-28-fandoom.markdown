@@ -16,7 +16,7 @@ preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-Fan
 
 <!--reproductor-feed=https://www.spreaker.com/show/2896357/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://api.spreaker.com/download/episode/14516166/fandoom_cap_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://api.spreaker.com/download/episode/15664365/fandoom_show_2.mp3"></audio>
 <!--reproductor-end-->
 
 FanDoom tiene su génesis en este periodo donde el fandom, los shipping, los fanfics, el fanart, el cosplay/cosmaking y el tradumaqueteo (entre otras creaciones autorales de una comunidad) han alimentado tanto la camaradería, como arruinado las franquicias con el desdén y la obsesión.

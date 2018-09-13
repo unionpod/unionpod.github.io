@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300ppp-
 
 <!--reproductor-feed=https://www.omnycontent.com/d/playlist/4f1a70cd-ae6a-4438-93bc-a77001824e11/adcd0553-76a6-4d40-b94e-a77001830c3c/c3e3f0ea-2ac5-4212-be19-a7700186d1eb/podcast.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://omnystudio.com/d/clips/4f1a70cd-ae6a-4438-93bc-a77001824e11/adcd0553-76a6-4d40-b94e-a77001830c3c/3cefe8b7-fa13-4794-a011-a9360017a4fc/audio.mp3?utm_source=Podcast&in_playlist=c3e3f0ea-2ac5-4212-be19-a7700186d1eb"></audio>
+<audio id="audio" preload="auto" controls="" src="https://omnystudio.com/d/clips/4f1a70cd-ae6a-4438-93bc-a77001824e11/adcd0553-76a6-4d40-b94e-a77001830c3c/1d965c76-77af-4bbd-9706-a956010ae5f4/audio.mp3?utm_source=Podcast&in_playlist=c3e3f0ea-2ac5-4212-be19-a7700186d1eb"></audio>
 <!--reproductor-end-->
 
 Una mirada crítica a la semana boricua desde Puerto Rico. No somos objetivos, pero si informados. Debatimos y comentamos sobre varios temas, desde política y noticias hasta farándula y cosas banales.  

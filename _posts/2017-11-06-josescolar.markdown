@@ -16,7 +16,7 @@ preview: https://ia600805.us.archive.org/21/items/unionpod/300-JoseEscolar.jpg
 
 <!--reproductor-feed=http://feedpress.me/jose_escolar-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/18158/9762634/JosEscolar-NO-TIENE-CIUDAD.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/18158/10275915/JosEscolar-LIBRE.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

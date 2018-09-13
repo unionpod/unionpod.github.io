@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/f
 
 <!--reproductor-feed=http://feeds.feedburner.com/AprendoFotografa-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/AprendoFotografa/~5/FdHhLIHGGA8/6872821.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/AprendoFotografa/~5/-IgGtXhFXDI/6987859.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

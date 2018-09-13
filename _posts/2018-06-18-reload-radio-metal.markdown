@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=https://audioboom.com/channels/4598059.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6965952.mp3?modified=1533911082&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7000205.mp3?modified=1536411292&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 El único (y mejor!!) podcast metálico de la región te trae casi 2 horas de la música más potente del planeta: adelantos, noticias, entrevistas, agenda de shows y mucho metal; desde Pérez, Santa Fe, Argentina.

@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300plan
 
 <!--reproductor-feed=https://anchor.fm/s/37f9b00/podcast/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/37f9b00/podcast/play/1110968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-7-11%2F4025831-44100-2-90b334fc5462b.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/37f9b00/podcast/play/1318945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-8-12%2FEp--22--El-sepelio-de-la-G-rgo-8f660716f831d.m4a"></audio>
 <!--reproductor-end-->
 
 Tres amigos decidieron que tenían que sacar sus conversaciones de las barras y llevarlas a un podcast. Este es el resultado de esa idea materializada en audio.  

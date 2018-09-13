@@ -16,7 +16,7 @@ preview: https://ia600803.us.archive.org/9/items/TAPEANDORADIO500/Podcast2_300-E
 
 <!--reproductor-feed=https://www.eduardocollado.com/category/podcast/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/08/podcast-172-en-casa-del-herrero.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/09/podcast-174-dwdm.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast diario enfocado al mundo del hosting y del software libre donde se habla de servicios online, apliaciones, tecnologías de networking etc.  

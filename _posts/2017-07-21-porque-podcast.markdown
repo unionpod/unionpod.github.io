@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/PorquePodcast300.jpg
 
 <!--reproductor-feed=http://porquepodcast.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/porquepodcast/s/porquepodcast.com/wp-content/uploads/PORQUEPODCAST.EPISODIO67.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/porquepodcast/s/porquepodcast.com/wp-content/uploads/PORQUEPODCAST.EPISODIO68.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Desdelabarrad
 
 <!--reproductor-feed=http://www.spreaker.com/show/1409607/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/resumen-del-evento-samsung-note9-mas_mf_27729636_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/resumen-evento-apple-bandageek-3_mf_28563894_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

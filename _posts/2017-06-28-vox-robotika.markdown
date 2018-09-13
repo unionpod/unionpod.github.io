@@ -16,7 +16,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/VoxRobotika300.png
 
 <!--reproductor-feed=http://voxrobotika.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://voxrobotika.podbean.com/mf/feed/hb2y5a/2018-08-07-21-58-47.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://voxrobotika.podbean.com/mf/feed/f4tzgd/2018-09-11-21-53-06.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  
