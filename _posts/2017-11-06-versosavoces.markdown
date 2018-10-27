@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JosEscolar"
+title: "Versos a Voces"
 date: 2017-11-06 23:05:10
 tags: [Literatura]
 categories: [Espana, Semanal]
