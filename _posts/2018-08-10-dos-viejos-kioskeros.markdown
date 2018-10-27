@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://www.ivoox.com/dos-viejos-kioskeros_fg_f1394588_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/dos-viejos-kioskeros-episodio-71_mf_28465462_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/2vk-episodio-77-placeres-culposos-3_mf_29502690_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Programa de conversación de 2 amigos sobre temas de interés en lo que respecta la cultura pop (comics, películas, series, animación).  

@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Tnakzcmj_300-
 
 <!--reproductor-feed=http://www.spreaker.com/user/9493208/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/15685939/evento_de_apple.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/15896029/rumores_pixel_3xl.mp3"></audio>
 <!--reproductor-end-->
 
 Lamesadelgeek es un podcast de tecnología en el que subimos episodios cortos y amenos sobre ellas e intentamos escuchar y disponer al oyente de todas las soluciones posibles.

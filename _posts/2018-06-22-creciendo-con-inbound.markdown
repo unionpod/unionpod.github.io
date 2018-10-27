@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=https://www.blubrry.com/feeds/inbound.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://media.blubrry.com/inbound/content.blubrry.com/inbound/EP_CaroParte2_TIP.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://media.blubrry.com/inbound/content.blubrry.com/inbound/EP_RenzoWebinars_TIP_1_.mp3"></audio>
 <!--reproductor-end-->
 
 Bienvenidos al podcast “Creciendo con Inbound”, donde especialistas mundiales comparten tips accionables sobre Marketing Inbound, Ventas Inbound y Experiencia del Cliente que puedes aplicar ahora para hacer crecer tu negocio.

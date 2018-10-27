@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Vivi
 
 <!--reproductor-feed=https://vivirminimalista.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://vivirminimalista.podbean.com/mf/feed/rkrsfw/Episodio_22_entrevista_Amelia_Bueno_Ayurveda_mixdown.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://mcdn.podbean.com/mf/web/rkrsfw/Episodio_22_entrevista_Amelia_Bueno_Ayurveda_mixdown.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast semanal sobre el estilo de vida minimalista y mindfulness.  

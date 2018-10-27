@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/F
 
 <!--reproductor-feed=https://audioboom.com/channels/4856599.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7006610.mp3?modified=1536856446&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7043209.mp3?modified=1539434340&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 Fuera de libreto es un podcast en donde Malena Solda conversa con amigos y colegas del mundo del cine, el teatro y la televisión. La actuación es una excusa y un punto de partida para hablar de temas que importan a la mayoría de la gente: la vocación, la pasión por un oficio, las decisiones difíciles, los errores, las relaciones con otras personas.  

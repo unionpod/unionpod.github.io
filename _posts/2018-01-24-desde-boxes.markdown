@@ -16,7 +16,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://feeds.feedburner.com/desdeboxes-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/desdeboxes/~5/UjJykHNtrzQ/previo-gp-singapur-2018_md_28549039_wp_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/desdeboxes/~5/E89XaO5EY3E/resumen-gp-ee-uu-previo-gp-mexico-2018_md_29593328_wp_1.mp3"></audio>
 <!--reproductor-end-->
 
 El podcast de Formula 1 hecho por aficionados para aficionados.  

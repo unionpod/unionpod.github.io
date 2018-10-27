@@ -21,7 +21,7 @@ Somos un podcast independiente que cuenta relatos de no ficción. Historias que 
 
 <!--reproductor-feed=http://feeds.soundcloud.com/users/soundcloud:users:255016072/sounds.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://cuonda.com/las-raras-podcast/13788/1120417.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://cuonda.com/las-raras-podcast/la-eutanasia-de-papa/1120603.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

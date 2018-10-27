@@ -4,11 +4,10 @@ title: "JosEscolar"
 date: 2017-11-06 23:05:10
 tags: [Literatura]
 categories: [Espana, Semanal]
-preview: https://ia600805.us.archive.org/21/items/unionpod/300-JoseEscolar.jpg
+preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300VersosAVoces.jpg
 ---
 
-![JosEscolar](https://ia600805.us.archive.org/21/items/unionpod/500-JoseEscolar.jpg)
-
+![JosEscolar](https://ia601509.us.archive.org/21/items/500LaFrikoteka/500VersosAVoces.jpg)
 <br/>
 <br/>
 
@@ -16,7 +15,7 @@ preview: https://ia600805.us.archive.org/21/items/unionpod/300-JoseEscolar.jpg
 
 <!--reproductor-feed=http://feedpress.me/jose_escolar-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/18158/10275915/JosEscolar-LIBRE.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://tracking.feedpress.it/link/20006/10623801/vav-A-SOLAS-CON-TODO-EL-MUNDO-.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

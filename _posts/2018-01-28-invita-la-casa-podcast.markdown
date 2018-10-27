@@ -16,7 +16,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://feedpress.me/invitalacasapodcast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/episodio-95-esa-salsa-llamada-ketchup-pelis-romanticonas_mf_28423024_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/en/episodio-97-especial-jpod18-madrid-premios_mf_29304561_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Magazine de cultura digital y ocio analógico, con su pizquita de desenfado. Desde comienzos de 2014 charlamos dos veces al mes sobre aficiones, hobbys, tecnología, internet, gastronomía, curiosidades cine y muchas otras temáticas. También invitamos gente interesante, con cosas que contar.  

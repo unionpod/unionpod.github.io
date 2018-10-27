@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://www.ivoox.com/control-critico-podcast_fg_f1260758_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/control-critico-s3-ep85-electronic-arts_mf_23569861_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://us.ivoox.com/es/control-critico-s3-ep85-electronic-arts_mf_23569861_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Noticias semanales de la industria de videojuegos  

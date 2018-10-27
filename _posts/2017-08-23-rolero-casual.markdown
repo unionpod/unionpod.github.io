@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Logo_1140-Azr
 
 <!--reproductor-feed=http://feeds.feedburner.com/RoleroCasual-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/RoleroCasual/~5/ZYqIMq795yo/Rolero%20Casual%20-%20Episodio%2015%20-%20Pagar%20por%20Jugar%20a%20Rol.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/RoleroCasual/~5/C3tM5eQXMqk/Rolero%20Casual%20-%20Episodio%2017%20-%207%20Pasos%20para%20Ser%20un%20Rolero%20de%20Sandbox.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

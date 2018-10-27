@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=https://audioboom.com/channels/4960421.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7006550.mp3?modified=1536853933&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7060990.mp3?modified=1540482896&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 Un espacio para reviews y opiniones sobre series de tv y películas.  

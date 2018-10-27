@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=https://podcast.systeminside.net/feed/podcast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://archive.org/download/38NuevoFormatoDiseno/38_nuevo_formato_diseno.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://archive.org/download/UsarTelegramPodcastCrossover/Usar_Telegram_Podcast_Crossover.mp3"></audio>
 <!--reproductor-end-->
 
 Nuestro idioma es la Tecnología. Acá todo tiene cabida, no importa SO, plataforma, etc..

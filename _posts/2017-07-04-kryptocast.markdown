@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Kryptocast%20
 
 <!--reproductor-feed=http://feeds.feedburner.com/kryptocast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/vista-mejor-o-peor-mision-imposible_mf_28449499_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/novena-temporada-thewalkingdead-recomendable-o-no_mf_29309479_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

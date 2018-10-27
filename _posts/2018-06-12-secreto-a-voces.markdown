@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300secr
 
 <!--reproductor-feed=Https://anchor.fm/s/47647d4/podcast/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/47647d4/podcast/play/962244/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-6-24%2F3736397-44100-2-64d74b6d2acb4.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/47647d4/podcast/play/1360412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-8-16%2F4621440-44100-2-944b7c3d6a23e.m4a"></audio>
 <!--reproductor-end-->
 
 En este espacio hablamos sobre todo aquello que no te cuentan sobre los medios de comunicación y cómo puedes sacarles ventaja para hacer crecer tu empresa sin importar el rubro en el que te encuentres trabajando.  

@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 
 <!--reproductor-feed=http://www.ivoox.com/zona-gamer-podcast_fg_f1435104_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://us.ivoox.com/es/zgp-63-review-destiny-2-forsaken_mf_28427532_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://us.ivoox.com/es/zgp-68-expectativas-red-dead-redemption-2_mf_29476394_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast sobre videojuegos todos los Viernes. Aquí damos un punto de vista diferente, además de entrevistas, análisis de las consolas y videojuegos.  

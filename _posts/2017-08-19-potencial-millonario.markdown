@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Potencialmill
 
 <!--reproductor-feed=https://Audiodice.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://AudioDice.podbean.com/mf/feed/3aadye/vaca-no-apto-para-mediocridad_mf_9267948_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://mcdn.podbean.com/mf/web/c8iye5/LP_Awards_2018.mp4"></audio>
 <!--reproductor-end-->
 
 <br/>  

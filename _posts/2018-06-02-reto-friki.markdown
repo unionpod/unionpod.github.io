@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300RETO
 
 <!--reproductor-feed=http://feedpress.me/retofriki-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/18349/10202464/RF_S02V03_Express_Train_to_Busan.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://tracking.feedpress.it/link/20126/10646305/OF_S03E02_JPOD18.mp3"></audio>
 <!--reproductor-end-->
 
 Dos amigos se retan a descubrir un tesoro oculto de la cultura friki en cada programa.  
