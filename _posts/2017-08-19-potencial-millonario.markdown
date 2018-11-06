@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Potencialmill
 
 <!--reproductor-feed=https://Audiodice.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://mcdn.podbean.com/mf/web/c8iye5/LP_Awards_2018.mp4"></audio>
+<audio id="audio" preload="auto" controls="" src="https://mcdn.podbean.com/mf/web/u2yaz3/Ep_220.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

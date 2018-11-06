@@ -16,7 +16,7 @@ preview: https://ia801509.us.archive.org/21/items/500LaFrikoteka/300TecnoEn5-Gas
 
 <!--reproductor-feed=https://anchor.fm/s/69b8d1c/podcast/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/69b8d1c/podcast/play/1601653/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-9-23%2F5338853-44100-2-541cb5cea0f12.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/69b8d1c/podcast/play/1642243/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-9-30%2F5487042-44100-2-18729292c3f43.mp3"></audio>
 <!--reproductor-end-->
 
 #TecnoEn5 es un resumen semanal de cinco noticias de tecnología y redes sociales en cinco minutos.

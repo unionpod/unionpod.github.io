@@ -16,7 +16,7 @@ preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-elB
 
 <!--reproductor-feed=http://www.ivoox.com/brunch-show_fg_f1577649_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/redes-sociales-rentabilidad-la_mf_26660821_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/episodio-3-las-peliculas-terror-son-el_mf_29825757_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Es un espacio de encuentro para el público en general. Buscamos hacer del Podcast un elemento más cercano a la gente, por eso nuestro contenido se sirve en audio, el único podcast que ofrece que la casa invite la cuenta.

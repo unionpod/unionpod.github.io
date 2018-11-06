@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Bit
 
 <!--reproductor-feed=http://feedpress.me/ciberseguridad-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/15407/10451545/BCS029-informatica-forense-con-lorenzo-martinez.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/15407/10725189/BCS030-Ciberseguridad-en-la-Buhardilla-Geek.mp3"></audio>
 <!--reproductor-end-->
 
 Desde Bitácora de Ciberseguridad queremos acercar la cultura de la seguridad de la información al público no especializado y concienciar sobre la importancia que tiene implantar medidas de seguridad y protocolos orientados a evitar y minimizar los riesgos que nos amenazan a diario. Para ello tratamos temas de seguridad desde puntos de vista técnicos, prácticos y teóricos además de seguir las noticias de actualidad sobre este mundo.  

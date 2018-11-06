@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300cafe
 
 <!--reproductor-feed=https://audioboom.com/channels/4954389.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7058328.mp3?modified=1540360324&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7074495.mp3?modified=1541490981&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 Café con Java es un podcast que no habla de café ni de Java, pero que pretende desarmar y comprender los estereotipos establecidos en el inconsciente colectivo sobre el individuo de sistemas.  

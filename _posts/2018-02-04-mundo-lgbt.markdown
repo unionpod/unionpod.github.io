@@ -16,7 +16,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://feedpress.me/mundolgbt-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/18069/10621161/mlgbt050.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://tracking.feedpress.it/link/18069/10722468/mlgbt052.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast de noticias y entrevistas sobre diversidad afectivo sexual y todo lo referente al colectivo LGBT.  

@@ -16,7 +16,7 @@ preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300QDE 
 
 <!--reproductor-feed=https://audioboom.com/channels/4254821.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7050122.mp3?modified=1539908844&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7068695.mp3?modified=1541219155&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 Un podcast sobre películas y series.  

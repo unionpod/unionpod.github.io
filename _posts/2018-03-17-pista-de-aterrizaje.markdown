@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Itu
 
 <!--reproductor-feed=http://www.pistadeaterrizaje.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://media.blubrry.com/pistadeaterrizaje/audioboom.com/posts/7035485.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://media.blubrry.com/pistadeaterrizaje/audioboom.com/posts/7068378.mp3"></audio>
 <!--reproductor-end-->
 
 Pista de aterrizaje es el podcast sobre viajes que alimenta tus ganas de viajar.

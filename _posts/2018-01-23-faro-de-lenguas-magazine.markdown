@@ -16,7 +16,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://www.ivoox.com/faro-lenguas-magazine_fg_f1408919_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/flm-3x1-dia-hispanidad_mf_29497626_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/20-minute-spanish-preterito-indefinido_mf_29792348_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcasts con variedad de contenidos y secciones destinado a aprendices de español como lengua extranjera.  

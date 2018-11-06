@@ -15,7 +15,7 @@ preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300VersosAVoces
 
 <!--reproductor-feed=http://feedpress.me/jose_escolar-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://tracking.feedpress.it/link/20006/10623801/vav-A-SOLAS-CON-TODO-EL-MUNDO-.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://tracking.feedpress.it/link/20006/10724262/vav-LAPOESIAJAMASTEOLVIDARA.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

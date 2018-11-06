@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/rep
 
 <!--reproductor-feed=http://www.ivoox.com/repope-resumen-podcast-peru_fg_f1490473_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/42-repope-semana-del-15-al-21-de_mf_29496275_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/44-repope-semana-del-29-octubre-al_mf_29822739_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Un resumen semanal de los podcast de Perú.

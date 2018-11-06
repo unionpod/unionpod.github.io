@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/L
 
 <!--reproductor-feed=http://feeds.soundcloud.com/users/soundcloud:users:112560925/sounds.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/518559792-tristanaproducciones-en-corea-del-norte-de.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/525533004-tristanaproducciones-leonardo-da-vinci-de-walter.mp3"></audio>
 <!--reproductor-end-->
 
 Tristana producciones es una productora que surge de la necesidad de generar contenidos con voz propia. Se trata de una forma de resignificar sonidos que han sido olvidados. Rescatar el lenguaje radiofónico, componer desde la belleza musical de la palabra. El arte de la radio y su estética. Un medio expresivo en continuo movimiento, un idioma que se reinventa sin perder su identidad particular. A partir de la creación de piezas radiofónicas y podcast nos proponemos abrir el diálogo. Apelar a la escucha. Respetar el silencio. Decir, crear, manifestar, en definitiva... producir.  

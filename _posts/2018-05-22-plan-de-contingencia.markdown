@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300plan
 
 <!--reproductor-feed=https://anchor.fm/s/37f9b00/podcast/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/37f9b00/podcast/play/1603674/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-9-24%2F5345922-44100-2-47360cc947e04.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/37f9b00/podcast/play/1668750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-10-5%2F5590282-44100-2-6cea23ae519fb.mp3"></audio>
 <!--reproductor-end-->
 
 Tres amigos decidieron que tenían que sacar sus conversaciones de las barras y llevarlas a un podcast. Este es el resultado de esa idea materializada en audio.  

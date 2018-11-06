@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://feeds.feedburner.com/balamcomic-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/balamcomic/~5/sMgu4vpE30Y/Carlos-Fabian-Villa-En-BalamComic-abad.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/balamcomic/~5/mcbB7B5f8-o/Fero-Peniche-y-Marco-Lorenzana-Hablando-de-Inktober-En-BalamComic-5bed.mp3"></audio>
 <!--reproductor-end-->
 
 En BalamComic platico con dibujantes y artistas, donde me cuentan su historia de como se formaron y lucharon para alcanzar su sueño, vivir de su arte.  

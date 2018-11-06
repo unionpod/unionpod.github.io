@@ -16,7 +16,7 @@ preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300%20Oliver.jp
 
 <!--reproductor-feed=http://feeds.feedburner.com/curiosopodcast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7010427.mp3?modified=1537201371&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7063390.mp3?modified=1540673680&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 Curioso Digital es un Podcast diferente en el que abordamos temas de interés general para ayudarte a crecer como persona.
