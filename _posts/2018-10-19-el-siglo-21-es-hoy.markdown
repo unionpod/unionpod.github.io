@@ -1,10 +1,9 @@
-
 ---
 layout: post
 title: "El Siglo 21 es Hoy"
 date: 2018-10-19 20:04:56
 tags: [Personal]
-categories: [4 semanal, Colombia]
+categories: [4semanal, Colombia]
 preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300Elsiglo21eshoy2017-FlixRiao.jpg
 ---
 
