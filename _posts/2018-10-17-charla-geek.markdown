@@ -16,7 +16,7 @@ preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300CharlaGeek-R
 
 <!--reproductor-feed=https://mx.ivoox.com/es/charla-geek_fg_f1480746_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/podcast-amateur-vs-podcast-profesional_mf_29475233_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://mx.ivoox.com/es/podcast-amateur-vs-podcast-profesional_mf_29475233_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Hola! en este podcast comento sobre tecnología y mis experiencias con la misma, así como asuntos relacionados con el mundo de los Geeks. Bienvenido a mi mundo!

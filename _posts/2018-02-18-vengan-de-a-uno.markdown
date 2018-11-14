@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 
 <!--reproductor-feed=http://feeds.feedburner.com/Venganuno-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Venganuno/~5/LNtCpwj0Iuk/Vengan_de_a_uno_4x31_291018.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Venganuno/~5/v9LO1U6o1nI/Vengan_de_a_uno_4x33_121118.mp3"></audio>
 <!--reproductor-end-->
 
 Con el objetivo de sacar a la luz contradicciones de la clase política, los personajes del fútbol y la sociedad misma, mediante la ironía y el humor negro, les presentamos, un programa de radio radicado en el mejor país del mundo. No todo lo que te contemos acá será cierto, y no todo lo que escuches en los grandes medios es real.

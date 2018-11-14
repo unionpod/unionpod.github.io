@@ -3,7 +3,7 @@ layout: post
 title: "La comunidad de la escucha"
 date: 2018-10-06 19:54:46
 tags: [Narración]
-categories: [Perú]
+categories: [Peru]
 preview: https://ia801509.us.archive.org/21/items/500LaFrikoteka/300ComunidadDeLaEscucha.png
 ---
 

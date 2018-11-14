@@ -16,7 +16,7 @@ preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300TerritorioLo
 
 <!--reproductor-feed=http://www.ivoox.com/territorio-logan_fg_f1355712_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/sobre-espana-su-politica-actual_mf_29647793_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://www.ivoox.com/serie-mr-mercedes_mf_30027271_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podrás escuchar desde reseñas hasta opinión sobre actualidad y política, desde series de televisión hasta crítica política. En Territorio Logan igual que en mi Blog http://logansefuga.blogspot.com.es/ , creo post y podcast que no te dejaran indiferente y te entretendrán. Mis contenidos tratan sobre temas variados y siempre con una visión crítica. Espero que te animes y te suscribas a mi Podcast en Ivoox y a mi Blog.

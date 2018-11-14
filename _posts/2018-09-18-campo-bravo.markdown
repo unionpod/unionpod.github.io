@@ -16,7 +16,7 @@ preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300CampoBravo.p
 
 <!--reproductor-feed=https://rss.whooshkaa.com/rss/podcast/id/4383-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://media.whooshkaa.com/podcasts/4383/episodes/02e564-final-cb-final.mp3?id=297757&ha=2580"></audio>
+<audio id="audio" preload="auto" controls="" src="https://media.whooshkaa.com/podcasts/4383/episodes/02e564-final-cb-final.mp3?id=297757&sponsor=86bf12be7cc01762d2d1add5de30d3cb474db747fdef4b29ffb0316604e3599d"></audio>
 <!--reproductor-end-->
 
 Campo Bravo es la historia de un hombre ante la decisión de llevar a cabo un emprendimiento que conlleva un viaje hacia un nuevo destino, el cual no sólo cambiará su vida, sino la de toda su familia.

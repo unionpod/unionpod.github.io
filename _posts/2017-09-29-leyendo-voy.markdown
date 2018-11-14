@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/LeyendoVoy300
 
 <!--reproductor-feed=http://feeds.feedburner.com/leyendovoy-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/104e31c/podcast/play/1235745/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-7-29%2F4309553-44100-2-e3d45767834ab.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/104e31c/podcast/play/1710673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-10-11%2F5737678-44100-2-4046ea63356a2.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://www.ivoox.com/experto-aprendiz_fg_f1453282_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/episodio-24-permite-tu-curiosidad-te_mf_25377385_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://gb.ivoox.com/es/episodio-24-permite-tu-curiosidad-te_mf_25377385_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Experto Aprendiz es el podcast sobre educación no tradicional para tu crecimiento personal, exploramos los caminos no tradicionales con los que puedes educarte para cumplir tus sueños y llamado de vida.

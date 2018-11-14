@@ -16,7 +16,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://feeds.feedburner.com/desdeboxes-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/desdeboxes/~5/b6ATThAdfRA/resumen-gp-mexico-2018_md_29760983_wp_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/desdeboxes/~5/6Flbg_6zVik/previo-gp-brasil-2018_md_29877427_wp_1.mp3"></audio>
 <!--reproductor-end-->
 
 El podcast de Formula 1 hecho por aficionados para aficionados.  

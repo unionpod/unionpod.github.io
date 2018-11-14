@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=https://anchor.fm/s/518caf4/podcast/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/518caf4/podcast/play/1630271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-9-30%2FEp--014---De-m-sico--poeta-y-l-6720e2a3b11f6.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/518caf4/podcast/play/1712280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-10-12%2FEp--015---Historias-de-d-a-y-n-65661c0c4840f.m4a"></audio>
 <!--reproductor-end-->
 
 Un podcast con tertulias de gente que crea, que enseña y que inspira.  

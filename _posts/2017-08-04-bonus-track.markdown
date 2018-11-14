@@ -17,7 +17,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/BonusPerfil300.jpg
 
 <!--reproductor-feed=http://feeds.feedburner.com/BonusTrackEnRadio-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://media.whooshkaa.com/podcasts/1923/episodes/f76391-bonus252.mp3?id=299564"></audio>
+<audio id="audio" preload="auto" controls="" src="https://media.whooshkaa.com/podcasts/1923/episodes/cb94d8-flia2018.mp3?id=303302"></audio>
 <!--reproductor-end-->
 
 <br>

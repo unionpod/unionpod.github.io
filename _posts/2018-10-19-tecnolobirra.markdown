@@ -16,7 +16,7 @@ preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300Tecnolobirra
 
 <!--reproductor-feed=http://www.ivoox.com/tecnolobirra_fg_f1411264_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/tecnolobirra-3x03-la-has-liado_mf_29144556_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/tecnolobirra-3x04-honor-8x-android-auto_mf_29877029_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast dedicado al mundo de la tecnología, Internet y videojuegos.

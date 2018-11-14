@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Cor
 
 <!--reproductor-feed=http://www.ivoox.com/corazones-emprendedores-historias-humanas_fg_f1426637_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/40-antonio-g-retrospectiva-vivir-viajando-con_mf_22423291_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://pe.ivoox.com/es/40-antonio-g-retrospectiva-vivir-viajando-con_mf_22423291_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 

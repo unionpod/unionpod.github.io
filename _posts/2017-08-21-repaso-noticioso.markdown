@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/repaso_notici
 
 <!--reproductor-feed=https://feeds.feedburner.com/RepasoNoticioso-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/RepasoNoticioso/~5/qefq6_C1qrE/RN_1noviembre2018.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/RepasoNoticioso/~5/eRl9UTK0bKk/RN_8noviembre2018.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>

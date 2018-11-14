@@ -16,7 +16,7 @@ preview: https://ia801509.us.archive.org/21/items/500LaFrikoteka/300Talking-craf
 
 <!--reproductor-feed=http://talkingcraftbeer.com/feed/podcast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://origin1.podcastwebsites.com/1155/905/2358/-017-Talking-with-Cigar-Citys-El-Lector-Neil-Callaghan.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://origin1.podcastwebsites.com/1155/905/2372/018-The-Lambics-Experiencemixdown.mp3"></audio>
 <!--reproductor-end-->
 
 En Talking Craft Beer ayudo a los entusiastas de la cerveza artesanal a conocer el movimiento en Puerto Rico

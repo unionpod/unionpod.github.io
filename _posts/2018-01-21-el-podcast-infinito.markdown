@@ -16,7 +16,7 @@ preview: https://ia801503.us.archive.org/23/items/Music500x500EstebanMontoya/pod
 
 <!--reproductor-feed=http://pe.ivoox.com/es/podcast-infinito_fg_f1277999_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/conversaciones-no-nerds-11-el-regreso-priscilla_mf_29648410_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://pe.ivoox.com/es/podcast-infinito-61-miguel-iza-franco_mf_30018718_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Desde Perú, Luis M. Santa Cruz y sus invitados conversan sobre cosas nerd y cultura pop dentro de tus orejas.

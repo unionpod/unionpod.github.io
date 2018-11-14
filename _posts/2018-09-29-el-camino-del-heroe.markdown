@@ -16,7 +16,7 @@ preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300CaminoHeroe-
 
 <!--reproductor-feed=https://audioboom.com/channels/4969815.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7072839.mp3?modified=1541453452&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7085068.mp3?modified=1542217385&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 Un podcast donde analizamos cada película del Universo Cinematográfico de Marvel, en orden de salida. ¡Disfruta el camino!

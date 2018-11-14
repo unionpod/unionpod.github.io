@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://ar.ivoox.com/es/tornillo-arquimedes_fg_f1436774_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/tornillo-arquimedes-31-10-2018_mf_29807340_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://ar.ivoox.com/es/tornillo-arquimedes-07-11-2018_mf_29956682_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Espacio en donde se abordan diferentes tópicos de la ciencia, un programa siempre en clave divulgativa y dirigido al público en general. Temas centrales, secciones interesantes, invitados expertos, buena música y algunos concursos. Todo para hacerte pasar un hora amena. Está probado que la ciencia de por si ya es entretenida, y no es sólo de los científicos. #Ciencia por #Radio y en “El Tornillo”!

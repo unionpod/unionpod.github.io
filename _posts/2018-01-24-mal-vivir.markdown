@@ -16,7 +16,7 @@ preview: https://ia601508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/3
 
 <!--reproductor-feed=http://www.ivoox.com/mal-vivir_fg_f1113172_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/mal-vivir-2t-143-blizzcon-keiko-presa-y_mf_29827904_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/mal-vivir-2t-144-jui-san-no-oshigoto-in_mf_29989056_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Programa de radio en linea en el que hablamos de mangas, animes, novelas ligeras y otras cosas relacionadas con este mundo, transmitimos todos los sábados a las 7 pm en JapanNext Radio, hora Perú.  
