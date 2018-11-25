@@ -16,7 +16,7 @@ preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-%20
 
 <!--reproductor-feed=http://www.ivoox.com/doblecheck_fg_f1551993_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/futuro-se-dobla-celulares-tambien_mf_29989555_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/youtube-quiere-pararle-macho-a-netflix-y_mf_30130306_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast que trae la información más relevante del mundo tecnológico en el Perú y el mundo.  

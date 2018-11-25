@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/AGolpesDeClic
 
 <!--reproductor-feed=http://feeds.feedburner.com/AGDC-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://media.whooshkaa.com/podcasts/2252/episodes/c3b9a7-agdc-009.mp3?id=245436"></audio>
+<audio id="audio" preload="auto" controls="" src="https://media.whooshkaa.com/podcasts/2252/episodes/245436/08a38e/c3b9a7-agdc-009.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/Fue
 
 <!--reproductor-feed=http://fueradelcine.com/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-65-fdc-31-10-2018.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-66-fdc-21-11-2018.mp3"></audio>
 <!--reproductor-end-->
 
 

@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://www.ivoox.com/lag-mental-podcast_fg_f1579485_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/capitulo-13-este-13-es-buena-suerte_mf_29276256_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/rpg-neo-lag-mental-ep-1_mf_30201732_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Lag Mental se trata de un podcast sobre gaming, comics, anime y toda la cultura nerd que aparezca en el aire!

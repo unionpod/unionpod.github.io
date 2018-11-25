@@ -16,7 +16,7 @@ preview: https://ia801509.us.archive.org/21/items/500LaFrikoteka/300%20avatar%20
 
 <!--reproductor-feed=https://ar.ivoox.com/es/podcast-retozando-el-podcast-bojack_fg_f1479830_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/retozando-043-el-podcast-bojack-horseman_mf_28906514_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://ar.ivoox.com/es/retozando-043-el-podcast-bojack-horseman_mf_28906514_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Único podcast en español sobre BoJack Horseman

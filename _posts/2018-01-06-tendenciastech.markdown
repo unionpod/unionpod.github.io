@@ -16,7 +16,7 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/300tendenciasT
 
 <!--reproductor-feed=http://www.spreaker.com/show/2139293/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/16156938/tendencias_tech_155.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/16275928/tendencias_tech_156.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast de Tecnologia y Noticias

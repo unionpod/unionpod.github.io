@@ -16,7 +16,7 @@ preview: https://ia801509.us.archive.org/21/items/500LaFrikoteka/300ComunidadDeL
 
 <!--reproductor-feed=https://pe.ivoox.com/es/comunidad-escucha_fg_f1585837_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://pe.ivoox.com/es/cap-2-cinthya-robles-rodriguez-sus_mf_28549435_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://pe.ivoox.com/es/cap-3-luen-mendoza-los-desafios_mf_30105766_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Este podcast está dedicado a la divulgación de los distintos géneros artísticos radiofónicos, tipologías del arte sonoro, radio comunitaria, monográficos dedicados a autores, entrevistas a especialistas y nuevas producciones sonoras

@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://tercos.blubrry.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/tercos/content.blubrry.com/tercos/EVDLT_02_30.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/tercos/content.blubrry.com/tercos/Re-Run_2-Alex_Mendez_1.mp3"></audio>
 <!--reproductor-end-->
 
 Entrevistamos a emprendedores, inversionistas y ejecutivos tech en Silicon Valley en español.  

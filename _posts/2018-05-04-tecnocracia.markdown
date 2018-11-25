@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Tecn
 
 <!--reproductor-feed=http://www.spreaker.com/show/2571792/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/16217857/51.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/16277808/tecnocracia52.mp3"></audio>
 <!--reproductor-end-->
 
 El podcast en donde hablamos acerca de los últimos temas del mundo de la tecnología.  

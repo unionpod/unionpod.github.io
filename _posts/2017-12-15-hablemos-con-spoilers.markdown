@@ -16,7 +16,7 @@ preview: https://ia800803.us.archive.org/9/items/TAPEANDORADIO500/300hcslogo2-Lu
 
 <!--reproductor-feed=http://www.ivoox.com/hablemos-spoilers_fg_f1285937_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/trap-chihuan-single_mf_30080237_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/123-hablemos-spoilers-animales-fantasticos-crimenes_mf_30227576_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast dedicado a los spoilers en la cultura popular. También comentamos actualidad, política, fútbol y muchos temas random.
