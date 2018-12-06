@@ -4,7 +4,7 @@ title: "Radioyentes"
 date: 2018-10-27 16:49:22
 tags: [Podcast]
 categories: [Espana]
-preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/300Radioyentes-JaviAzimur.jpg
+preview: https://ia902805.us.archive.org/24/items/500Ruta97ToniMateuArrom/300Radioyentes-JaviAzimur.jpg
 ---
 
 ![Radioyentes](https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/400Radioyentes-JaviAzimur.jpg)
