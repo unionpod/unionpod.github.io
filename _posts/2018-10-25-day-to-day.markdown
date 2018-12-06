@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Day to day"
+date: 2018-10-25 04:33:03
+tags: [Tecnología]
+categories: [Diario, Espana]
+preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/300Daytoday.jpeg
+---
+
+![Day to day](https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/400Daytoday-2.jpeg)
+
+<br/>
+<br/>
+
+## Escucha su más reciente episodio
+
+<!--reproductor-feed=https://feedpress.me/daytoday-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="https://tracking.feedpress.it/link/13163/10873342/DTD_Programa_1010.mp3"></audio>
+<!--reproductor-end-->
+
+Un podcast grabado a diario donde hablo de tecnología pero tiene cabida cualquier tema que me interese o preocupe.
+
+_ _ _
+
+<br>
+
+Autor: **Spascual**  
+[web](https://spascual.es)  
+[Feed](https://feedpress.me/daytoday)  
+
+
+
+**Contacta:**  
+Twitter: [@spascual](https://twitter.com/spascual)  
+Correo: [spascual@spascual.es](mailto:spascual@spascual.es)  
+

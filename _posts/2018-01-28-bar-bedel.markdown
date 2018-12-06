@@ -16,7 +16,7 @@ preview: https://ia801508.us.archive.org/30/items/500desdeBoxesAgustinPalmeiro/B
 
 <!--reproductor-feed=http://feeds.feedburner.com/barbedel-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/16247938/episodio_85_himnos_del_pop_rock_espa_ol_de_los_80_con_agus_verdugo789.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/16360615/episodio_86_tangos_cl_sicos_argentinos.mp3"></audio>
 <!--reproductor-end-->
 
 El Bar Bedel es un podcast en directo en la plataforma Spreaker, todos los sábados a las 22:45 CET donde escuchamos buena música, invitamos a amigos a comentarlo en directo con el camarero y tenemos participación activa con nuestros escuchantes en el chat del programa. Solo hay un objetivo, pasar 45 minutos entretenidos y con buena música.  

@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Potencialmill
 
 <!--reproductor-feed=https://Audiodice.podbean.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://mcdn.podbean.com/mf/web/h6gn29/PM83.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://mcdn.podbean.com/mf/web/ici54/PotencialMillonarioEpisodio6.mp3"></audio>
 <!--reproductor-end-->
 
 <br/>  

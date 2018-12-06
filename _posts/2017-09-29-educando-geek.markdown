@@ -16,7 +16,7 @@ preview: https://ia601507.us.archive.org/29/items/TAPEANDORADIO500/Educandogeek3
 
 <!--reproductor-feed=http://feeds.feedburner.com/educandogeek-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/443d308/podcast/play/1705774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-10-10%2F-80-BifToGram-y-clientes-no-of-870fb3e0e9e1f.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/443d308/podcast/play/1793841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-10-27%2F6065032-44100-2-bc30d232f8d7b.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

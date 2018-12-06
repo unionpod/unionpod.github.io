@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=https://podcast.systeminside.net/feed/podcast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://archive.org/download/50Ticwatch/50_ticwatch.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://archive.org/download/crossover_micros_mixers/crossover_micros_mixers.mp3"></audio>
 <!--reproductor-end-->
 
 Nuestro idioma es la Tecnología. Acá todo tiene cabida, no importa SO, plataforma, etc..

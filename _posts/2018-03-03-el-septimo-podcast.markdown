@@ -16,7 +16,7 @@ preview: https://ia601503.us.archive.org/23/items/Music500x500EstebanMontoya/300
 
 <!--reproductor-feed=https://audioboom.com/channels/4603620.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7093582.mp3?modified=1542766001&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7106146.mp3?modified=1543876738&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 2 amigos se juntan a hacer lo que más les gusta: Hablar de cine y series de TV. Cada lunes, un nuevo episodio.  

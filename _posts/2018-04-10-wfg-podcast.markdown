@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300wfgp
 
 <!--reproductor-feed=http://mx.ivoox.com/es/what-fart-games-podcast_fg_f1424749_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://mx.ivoox.com/es/wfg-podcast-034-especial-playstation-psone_mf_30225085_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://mx.ivoox.com/es/wfg-podcast-035-dungeons-party-paroshock_mf_30562980_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Describimos datos de desarrollo, arte y música de videojuegos actuales y clásicos.  

@@ -16,7 +16,7 @@ preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-kfl
 
 <!--reproductor-feed=http://www.kafelog.com/feed/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/kafelog/~5/zx5PS8D_xVE/kafelog142.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/kafelog/~5/2rz_3L_DTdg/kafelog143.mp3"></audio>
 <!--reproductor-end-->
 
 Kafelog es un podcast sobre tecnología, internet, cine y videojuegos. Kafelog es un podcast que inició su andadura en 2007. Desde la concepción de su idea original hasta el momento de ponerla en práctica, diversas cosas cambiaron, incluida la propia idea. Y esos cambios nos han ido acompañando hasta el día de hoy y seguirán en el futuro. Siempre hemos querido ofrecer un programa entretenido, divertido y que permitiera a nuestros oyentes descubrir algo nuevo en cada episodio.

@@ -16,7 +16,7 @@ preview: https://ia801507.us.archive.org/29/items/TAPEANDORADIO500/Kryptocast%20
 
 <!--reproductor-feed=http://feeds.feedburner.com/kryptocast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/novena-temporada-thewalkingdead-recomendable-o-no_mf_29309479_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7045388.mp3?modified=1539553581&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 <br/>  

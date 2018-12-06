@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://feeds.feedburner.com/planeta_cunao-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/planeta_cunao/~5/3nbih2NVmWE/1120834.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/planeta_cunao/~5/Gzq8PpjL1Ro/1121070.mp3"></audio>
 <!--reproductor-end-->
 
 El podcast de humor que te recomendaría tu cuñao.

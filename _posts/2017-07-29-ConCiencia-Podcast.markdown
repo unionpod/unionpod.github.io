@@ -21,7 +21,7 @@ Un Podcast de religión, para aquellos que desagradan de la religión. **ConCien
 
 <!--reproductor-feed=Http://concienciamedia.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/conciencia/content.blubrry.com/conciencia/48_alex_hernandez_3.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://media.blubrry.com/conciencia/content.blubrry.com/conciencia/49_juan_sosa.mp3"></audio>
 <!--reproductor-end-->
 
 <br>

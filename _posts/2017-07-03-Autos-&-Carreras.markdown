@@ -21,7 +21,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Autosycarreras300-Rick
 
 <!--reproductor-feed=http://www.spreaker.com/show/1402570/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/16254508/vuelve_pronto_sophia.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://api.spreaker.com/download/episode/16368212/jorge_cortes_se_despidi_ganando_las_6_horas.mp3"></audio>
 <!--reproductor-end-->
 
 <br>
