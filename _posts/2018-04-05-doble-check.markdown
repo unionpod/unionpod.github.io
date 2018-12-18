@@ -16,7 +16,7 @@ preview: https://ia801502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300-%20
 
 <!--reproductor-feed=http://www.ivoox.com/doblecheck_fg_f1551993_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/un-pequeno-entremes-antes-del-final_mf_30485839_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/resumen-lo-mejor-del-2018-final-de_mf_30664971_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast que trae la información más relevante del mundo tecnológico en el Perú y el mundo.  

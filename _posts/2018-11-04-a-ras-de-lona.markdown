@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://arasdelona.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://mcdn.podbean.com/mf/web/kg48pr/manup031218.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://mcdn.podbean.com/mf/web/8y8wn7/ardl226.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast dedicado a comentar la actualidad del wrestling profesional, analizando eventos y discutiendo noticias.

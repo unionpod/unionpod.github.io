@@ -16,7 +16,7 @@ preview: https://ia601502.us.archive.org/5/items/500Ruta97ToniMateuArrom/300Safe
 
 <!--reproductor-feed=https://feeds.feedburner.com/safeshadowpodcast-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/safeshadowpodcast/~5/zvZNNZfXge0/podcast_015_podcast_vs_radio.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/safeshadowpodcast/~5/BoMXRDFADTM/top102018.mp3"></audio>
 <!--reproductor-end-->
 
 En Safe Shadow Podcast hablamos sobre tecnología, cultura y actualidad de una manera clara y sin tanto tecnicismo.  

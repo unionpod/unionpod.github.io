@@ -16,7 +16,7 @@ preview: https://ia801509.us.archive.org/21/items/500LaFrikoteka/300Republicaweb
 
 <!--reproductor-feed=https://www.ivoox.com/republica-web_fg_f1288530_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/instagrammer-crea-marca-propia-estudiante-que_mf_30569299_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/generacion-marca-personal-a-traves-contenidos_mf_30729745_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 República Web es un programa dedicado a todas las personas que se ganan la vida con internet y la tecnología. En el programa se hablará de desarrollo web, herramientas y tecnologías de internet.

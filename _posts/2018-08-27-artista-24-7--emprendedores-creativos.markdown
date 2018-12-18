@@ -16,7 +16,7 @@ preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300%20artista24
 
 <!--reproductor-feed=https://pinecast.com/feed/artista247-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://pinecast.com/listen/0139c28f-5c6b-4215-b013-a6ad6792afcf.mp3?source=rss&ext=asset.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://pinecast.com/listen/04e680e5-f10c-4512-befc-4df817e69134.mp3?source=rss&ext=asset.mp3"></audio>
 <!--reproductor-end-->
 
 Paola lleva años viviendo de su arte. Osiris ha creado proyectos con millones de visitas mensuales gracias al marketing digital. En el podcast ayudamos a creadores a través de entrevistas con artistas y nuestra propia experiencia.

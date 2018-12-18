@@ -16,7 +16,7 @@ preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300Sinapsis-Sin
 
 <!--reproductor-feed=http://www.ivoox.com/sinapsis_fg_f1582681_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/017-los-chorros-del-oro_mf_30479355_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/019-embajadores-galacticos_mf_30820290_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Rubén y Diego hablan sobre muchas cosas que rondan sus cabezas. Muchas de ellas son interesantes, algunas otras no tanto.

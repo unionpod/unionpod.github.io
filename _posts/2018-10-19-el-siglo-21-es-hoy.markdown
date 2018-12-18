@@ -16,7 +16,7 @@ preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300Elsiglo21esh
 
 <!--reproductor-feed=http://feeds.feedburner.com/siglo21-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/siglo21/~5/KjHXLUFqp_o/bill_gates_sobre_silicon_valley_hbo.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/siglo21/~5/vEPyD8KDaOU/aran_as_de_youtube.mp3"></audio>
 <!--reproductor-end-->
 
 Conectados por teléfono en una conversación sobre la tecnología que nos une.

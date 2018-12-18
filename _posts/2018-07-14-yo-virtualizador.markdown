@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://www.ivoox.com/yo-virtualizador_fg_f1563806_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/yovirtualizador-1x20-virtualizacion-practica-1_mf_30523184_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/yovirtualizador-1x21-dns-mi-dns-otra-vez_mf_30757173_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast de yovirtualizador.

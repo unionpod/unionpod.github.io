@@ -16,7 +16,7 @@ preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300Movimientoen
 
 <!--reproductor-feed=http://www.ivoox.com/movimiento-ele_fg_f1501246_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/043-tertulia-para-profes-online-1-como-encontrar_mf_30578440_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://www.ivoox.com/044-los-mejores-podcasts-para-profesores-espanol_mf_30390520_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Un podcast para profesores online de Español como Lengua Extranjera (ELE) que hayan decidido mover sus clases a otro nivel.

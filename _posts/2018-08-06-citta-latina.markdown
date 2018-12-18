@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=https://www.spreaker.com/show/1530271/episodes/feed-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://api.spreaker.com/download/episode/16188067/citta_latina_en_homenaje_a_canelita_medina.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://api.spreaker.com/download/episode/16483331/2_relatos_migrantes_con_josefina_casanova_corredor.mp3"></audio>
 <!--reproductor-end-->
 
 Citta Latina es producto de la fusión de podcast anteriores de la autora, pensando en ser Un lugar de encuentro para los "latinos en la red" para disfrutar de un contenido variado tipo magazine y compartir de manera virtual : música y maravillosas entrevistas; y segmentos con la colaboración de nuestros aliados a través de cápsulas de salud y bienestar, música nueva y Emergente, curiosidades, educación, el libro del mes, tips y consejos de inmuebles y turismo y noticias, porque en Citta Latina: "El protagonista eres tu". Conduce y produce @Negfertty.  

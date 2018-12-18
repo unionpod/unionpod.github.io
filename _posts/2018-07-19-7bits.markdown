@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://www.ivoox.com/7bits-podcast_fg_f1587235_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/sietebits-podcats-spyro-reignited-entrevista-con_mf_30513880_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/sietebits-podcast-gotys-2018_mf_30865427_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Magazine sobre actualidad del videojuego con noticias, debate, análisis y secciones "off-topic" sobre series, comic, etc.

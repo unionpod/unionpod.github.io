@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://www.ivoox.com/lag-mental-podcast_fg_f1579485_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7108574.mp3?modified=1544041744&source=rss&stitched=1"></audio>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/7117488.mp3?modified=1544801300&source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 Lag Mental se trata de un podcast sobre gaming, comics, anime y toda la cultura nerd que aparezca en el aire!

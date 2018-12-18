@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=https://anchor.fm/s/518caf4/podcast/rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/518caf4/podcast/play/1828384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-3%2FEp--017---Datos-abiertos-para--894d11e6f1264.m4a"></audio>
+<audio id="audio" preload="auto" controls="" src="https://anchor.fm/s/518caf4/podcast/play/1931464/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-17%2FEp--018---Sin-etiquetas-ni-pos-6757dcc38eeee.m4a"></audio>
 <!--reproductor-end-->
 
 Un podcast con tertulias de gente que crea, que enseña y que inspira.  

@@ -16,7 +16,7 @@ preview: https://ia601509.us.archive.org/21/items/500LaFrikoteka/300-PorLasRutas
 
 <!--reproductor-feed=http://www.ivoox.com/por-rutas-curiosidad_fg_f1622993_filtro_1.xml-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/combis-micros-buses-transporte-publico-en_mf_30269254_feed_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="http://www.ivoox.com/winaymanta-en-creian-habitantes-del-antiguo_mf_30616105_feed_1.mp3"></audio>
 <!--reproductor-end-->
 
 Podcast peruano donde hablamos de (casi) todo, para satisfacer nuestra curiosidad: historia, actualidad, misterio, religión, música, arte... Presentado por Jorge (@jcoco2515) y Daniel (@DaTransporter_).

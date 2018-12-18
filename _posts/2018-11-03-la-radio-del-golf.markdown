@@ -16,7 +16,7 @@ preview: https://ia902800.us.archive.org/8/items/500desdeBoxesAgustinPalmeiro/30
 
 <!--reproductor-feed=http://laradiodelgolf.com/feed/podcast/-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://www.ivoox.com/67-pablo-chaves-nos-avanza-novedades_md_30536659_wp_1.mp3"></audio>
+<audio id="audio" preload="auto" controls="" src="https://www.ivoox.com/75-despues-reconocimientos-toca-hablar_md_30866869_wp_1.mp3"></audio>
 <!--reproductor-end-->
 
 La Radio del Golf es la único canal de podcast español dedicado exclusivamente a este deporte. Premio European Podcast Awards.
